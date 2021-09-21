@@ -4,6 +4,8 @@ title: Hádanky
 
 „Ty ještě někam jdeš?“ řekla Jolanina matka, když krátce před devátou nakoukla do Jolanina pokoje a viděla, že se Jolana obléká. „Takhle pozdě?“
 
+  
+
 „Myslíš v tak pozdním věku?“ zažertovala Jolana, ale zůstávala ve střehu. „Jdu s jedním kamarádem ven,“ dodala opatrně.
 
 Matčin obličej prozářil takový vnitřní jas, až se Jolana musela usmát.

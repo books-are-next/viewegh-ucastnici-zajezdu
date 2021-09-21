@@ -4,6 +4,8 @@ title: "It was just a\_dream"
 
 „Tak Svatý otec zatím podle všeho žije,“ oznamoval nazítří u snídaně Maxovi radostně Oskar. „Ve zprávách alespoň o jeho smrti nic nebylo.“
 
+  
+
 Pokoušel se vtipkovat, ale rostoucí nervozitu se mu nedařilo zakrýt. Ignác stále nedorazil a odjíždělo se už zítra.
 
 „Celou noc jsem sledoval CNN. Čekal jsem zprávu, že v Římě se jakýsi neznámý šílenec vrhl na papežův obrněný papamobil s transparentem ‚Mia Farrow může – a já ne?!‘, ale dosud nic nehlásili,“ usmíval se Oskar statečně.

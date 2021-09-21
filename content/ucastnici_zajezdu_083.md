@@ -4,6 +4,8 @@ title: Kdo je kdo(2)
 
 „Tak ještě tu máme tyhle dva pány na holení,“ ukázala Pamela prstem na Ignáce s Oskarem a potom spočinula dvěma významnými, dlouhými pohledy na Hynkovi a na Maxovi, „a po nich přijde to nejzajímavější!“
 
+  
+
 Bylo zřejmé, že si neomalenost svého výroku – nejen vůči oběma Maxovým kamarádům, ale koneckonců vůči všem, kteří se až dosud představili – vůbec neuvědomuje.
 
 „S námi se nezdržujte, slečno průvodkyně,“ řekl hlasitě Ignác, aniž si – jako dosud jediný – stoupl. „My jsme jenom dva úplně bezvýznamní homosexuálové.“

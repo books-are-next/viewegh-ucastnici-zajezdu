@@ -4,6 +4,8 @@ title: Jolanina matka to Maxovihodila na papír
 
 „Milý Maxi, příběh, který Vám chci vyprávět, by se mohl jmenovat Co si kdo zaseje, to také sklidí. Začal na jaře roku 1988, v jedné velké továrně v jednom v malém městečku. Je to velmi smutný příběh, takže by z něj mohl být dobrý humoristický román,“ četl Max.
 
+  
+
 Už mi určila i žánr, usmíval se v duchu.
 
 „Na počátku příběhu vládla v továrně komunistická strana a jeden dosti vzdálený sklářský koncern. A taky strach. A trochu i několik nepříliš schopných soudruhů, posvěcených krajskými, okresními a celozávodními výbory komunistické strany. Ti měli jediný cíl: udržet se na své židli a mít z toho co nejvíc.

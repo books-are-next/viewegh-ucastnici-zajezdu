@@ -4,6 +4,8 @@ title: Zima, zimička
 
 Světlo měklo a zlátlo a řidiči protijedoucích vozů postupně rozsvěcovali reflektory.
 
+  
+
 Jakmile oranžový kotouč zmizel kdesi za kopci alpského předhůří, v autobusu se ponenáhlu ochladilo. Cestující uzavírali přívod studeného vzduchu z klimatizace. Pamela si k nim otočila své sedadlo; zkřížila ruce, pohladila si nahá ramena a udělala zimomřivé, ale velmi půvabné gesto. Potom se zářivě usmála a dlaněmi si několikrát přejela nahá opálená stehna. Nato uchopila palubní mikrofon, zapnula ho a odkašlala si. Max zaznamenal, že své odkašlání umí obdivuhodně skloubit s kratičkým trylkem zvonivého smíchu.
 
 Proboha ne, pomyslela si Jolana s úpěnlivostí, která ji překvapila.

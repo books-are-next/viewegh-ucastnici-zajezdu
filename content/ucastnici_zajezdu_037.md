@@ -4,6 +4,8 @@ title: Slunečnicové polepo levé straně
 
 „Všimli jste si těch slunečnic?“ řekl nadšeně Jolanin otec.
 
+  
+
 Předklonil se dopředu k Jolaně.
 
 „Všimla sis těch slunečnic?“

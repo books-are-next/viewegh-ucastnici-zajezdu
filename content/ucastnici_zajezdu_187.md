@@ -4,6 +4,8 @@ title: "A\_co jsou tedy příběhy?"
 
 „A co jsou tedy příběhy?“ tázal se řečnicky pan Petrescu. „V čem spočívá tajemství jejich přitažlivosti?“
 
+  
+
 Maxovi se nyní zdálo, že pan Petrescu je v obličeji trochu podobný brněnskému prozaikovi Jiřímu Kratochvilovi.
 
 „V tom, že jsou základní orientací v čase i prostoru našich životů. Pomáhají nám uspořádat život podle příběhových mustrů do jakéhosi příběhového řádu a čelit tak pažravé úzkosti z chaosu naší existence,“ vysvětlil mu pan Petrescu. „Slast, kterou zakoušíme z dobře vymyšleného a dobře napsaného příběhu, je slastí pramenící mimo jiné z vědomí, že lze život uspořádat do řádu příběhů, do přehledně strukturovaných celků.“

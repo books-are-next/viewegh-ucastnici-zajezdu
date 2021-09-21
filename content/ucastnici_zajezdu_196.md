@@ -4,6 +4,8 @@ title: Konec
 
 Dveře taxíku bouchly.
 
+  
+
 Max jim zamával, ale jen krátce, neboť odjakživa se při loučení cítil trapně.
 
 Otočil se: nikdo jiný už tu nebyl. Ani Ignác s Oskarem, ani Hynek, ani Pamela. Nikdo. Dokonce i autobus už mezitím odjel. Přestože to logicky musel očekávat, stejně ho to nakonec trochu zaskočilo. Jeden z odjíždějících taxíků na něj vesele zatroubil; Max zdvihl s úsměvem ruku, avšak nedokázal určit, kdo ve voze seděl. Úsměv mu vzápětí zmizel z tváře.

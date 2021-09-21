@@ -4,6 +4,8 @@ title: Chčije
 
 Jardovi se zdálo, že slyší déšť.
 
+  
+
 Neměl sice ještě v úmyslu vstávat, ale potom – veden neblahou předtuchou – z postele slezl a podezíravě roztáhl okenní závěs. Nemýlil se: z nízké šedé oblohy padal hustý drobný déšť.
 
 Vypadalo to na celý den.

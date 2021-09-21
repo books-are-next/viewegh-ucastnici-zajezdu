@@ -4,6 +4,8 @@ title: "Philadelphia a\_ženy v\_politice"
 
 „Myslím, že vás znám,“ řekl Maxovi na odpočívadle Hynek.
 
+  
+
 „Myslím, že já vás taky,“ přiznal konečně Max.
 
 Zuzana k nim s úsměvem přistoupila a Hynek ji Maxovi představil; Zuzana navrhla, že by si snad všichni mohli tykat. Podali si ruce. Na okamžik zavládlo ticho a Zuzana se začala starostlivě rozhlížet, kde je Jakub. Nikde ho neviděla, a tak po něm pátrali očima všichni tři; Hynek ho spatřil jako první: právě vycházel z přilehlého lesa.

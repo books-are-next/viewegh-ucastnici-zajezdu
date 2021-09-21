@@ -4,6 +4,8 @@ title: Chlap přes uličku
 
 Loni na podzim se Max sešel v kavárně Gany’s se spolužačkou z fakulty. Před dvěma týdny se vdala, a Max proto očekával, že bude mluvit o svatbě a o manželovi. Sotva se však posadili, řekla, že mu musí vyprávět o své prázdninové cestě do Španělska.
 
+  
+
 Max zprvu nechápal, proč přikládá tomu zájezdu takovou důležitost.
 
 „A přes uličku proti mně seděl takovej bezvýraznej, zakřiknutej chlap, něco přes třicet,“ líčila spolužačka Maxovi. „Takovej typickej mouchy snězte si mě. Připadal mi navíc starej a vůbec jaksi nezajímavej: nevyspalej, opuchlý voči, přeleželý vlasy, otlačenej obličej – dovedeš si tu šílenou cestu autobusem představit. Zkrátka mě ani trochu nezajímal.“

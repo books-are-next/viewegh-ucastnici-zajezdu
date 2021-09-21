@@ -4,6 +4,8 @@ title: Přesný zásah jedlové šiškyaneb nezávislý kritik
 
 Stála nad Maxovou postelí jako krásná mladá sudička.
 
+  
+
 Její bílá noční košilka byla tenká jako dech.
 
 „Ignác mi říkal, že prý bez pohádky neusneš,“ pravila. „Říkal, že včera jsi prý vůbec nespal.“

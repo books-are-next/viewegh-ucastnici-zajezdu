@@ -4,6 +4,8 @@ title: "Olina, Láďa a\_kamera"
 
 Petřík s Pavlíkem se vesele honili po pokoji.
 
+  
+
 Olina je žádala, ať si vylezou na postel a dají jí na chvíli pokoj, protože by ráda v klidu připravila věci, které budou brát na pláž. Neuplynula však ani minuta a oba byli znovu dole a všemožně se jí pletli pod rukama.
 
 „Prosím tě, Láďo, vezmi je ven,“ poprosila Olga manžela. „Sbalím tašku a přijdu za vámi.“

@@ -4,6 +4,8 @@ title: "Maxa\_metoda proudu vědomí"
 
 Maxovi se ještě nechtělo spát, a tak si v posteli četl.
 
+  
+
 Často však četbu přerušoval a natahoval se k nočnímu stolku pro blok, aby si zapsal tu či onu poznámku, k níž ho kniha inspirovala – tak jako vždy, když se chystal psát, byla i tato kniha pouhým palivem, které marnotratně spaloval na vzrušující cestě za svým vlastním románem.
 
 Vidět znamená představovat si, zapisoval si zrovna, když kdosi zaklepal.

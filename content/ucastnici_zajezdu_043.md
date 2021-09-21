@@ -4,65 +4,69 @@ title: "Kdo je pan Petrescua\_paní Košťálová??"
 
 Max si předsevzal, že se s okamžitou platností přestane v duchu zabývat tou Pamelou a konečně vyřeší přetrvávající problém Petrescu-Košťálová.
 
+  
+
 Takže, co třeba takhle:
 
-Kdykoli odjížděli s manželem na dovolenou, poprosila paní Košťálová matku, zda by jí onen týden či dva nemohla zalévat květiny a vybírat schránku. Matka sice nakonec vždycky souhlasila, ale protože její remcání a stížnosti na bolavé nohy rok od roku sílily, řekla si letos paní Košťálová, že požádá někoho v domě.
+> _Kdykoli odjížděli s manželem na dovolenou, poprosila paní Košťálová matku, zda by jí onen týden či dva nemohla zalévat květiny a vybírat schránku. Matka sice nakonec vždycky souhlasila, ale protože její remcání a stížnosti na bolavé nohy rok od roku sílily, řekla si letos paní Košťálová, že požádá někoho v domě._
 
-Rozhodla se pro pana Petresca. Před několika lety ovdověl a od té doby žil sám, přestože mu nebylo ještě ani šedesát. Pokud věděla, na dovolenou nejezdil.
+> _Rozhodla se pro pana Petresca. Před několika lety ovdověl a od té doby žil sám, přestože mu nebylo ještě ani šedesát. Pokud věděla, na dovolenou nejezdil._
 
-Odjíždělo se v sobotu. V pondělí pan Petrescu nebyl doma. V úterý ráno zavolal pan Košťál z práce domů a sdělil své ženě, že zemřel výrobní náměstek a že se jejich dovolená o tři týdny odkládá.
+> _Odjíždělo se v sobotu. V pondělí pan Petrescu nebyl doma. V úterý ráno zavolal pan Košťál z práce domů a sdělil své ženě, že zemřel výrobní náměstek a že se jejich dovolená o tři týdny odkládá._
 
-Chvíli mlčky pozorovala zakoupené opalovací krémy a potom se šla osprchovat.
+> _Chvíli mlčky pozorovala zakoupené opalovací krémy a potom se šla osprchovat._
 
-Tentokrát pan Petrescu doma byl. Když ho o chvíli později provázela svým bytem, aby mu ukázala, jak velkou zálivku každý květináč vyžaduje, překvapilo ji, kolik toho o pokojových květinách věděl.
+> _Tentokrát pan Petrescu doma byl. Když ho o chvíli později provázela svým bytem, aby mu ukázala, jak velkou zálivku každý květináč vyžaduje, překvapilo ji, kolik toho o pokojových květinách věděl._
 
-„To není voděnka,“ opravil ji s mírnou ironií. „To je pepřinec áronolistý.“
+> _„To není voděnka,“ opravil ji s mírnou ironií. „To je pepřinec áronolistý.“_
 
-„Tohle že není voděnka?“ řekla zaraženě.
+> _„Tohle že není voděnka?“ řekla zaraženě._
 
-Ukázala na jiný květináč:
+> _Ukázala na jiný květináč:_
 
-„Tak ale tohle je voděnka, ne?“
+> _„Tak ale tohle je voděnka, ne?“_
 
-„To také není voděnka,“ pravil pan Petrescu s hezkým mírným úsměvem. „To je pepřovník černý.“
+> _„To také není voděnka,“ pravil pan Petrescu s hezkým mírným úsměvem. „To je pepřovník černý.“_
 
-Zasmála se. Docela se jí ten spor o voděnku líbil.
+> _Zasmála se. Docela se jí ten spor o voděnku líbil._
 
-„A tohle? To je voděnka?“ zkusila to nazdařbůh.
+> _„A tohle? To je voděnka?“ zkusila to nazdařbůh._
 
-V obličeji se jí usadil její někdejší holčičí úsměv. Už dlouho se takhle neusmívala.
+> _V obličeji se jí usadil její někdejší holčičí úsměv. Už dlouho se takhle neusmívala._
 
-„Zase vedle,“ řekl pan Petrescu mile. „To je mučenka modrá.“
+> _„Zase vedle,“ řekl pan Petrescu mile. „To je mučenka modrá.“_
 
-Naklonila se ke květináči spolu s ním. Příjemně voněl.
+> _Naklonila se ke květináči spolu s ním. Příjemně voněl._
 
-„Potřebuje přesadit,“ řekl.
+> _„Potřebuje přesadit,“ řekl._
 
-Líbilo se jí, jak se mučenky modré dotýkal.
+> _Líbilo se jí, jak se mučenky modré dotýkal._
 
-„Přesadit?“ řekla roztržitě.
+> _„Přesadit?“ řekla roztržitě._
 
-„Do směsi listovky, pařeništní zeminy a písku,“ řekl pan Petrescu. „V poměru dva ku dvěma ku jedné.“
+> _„Do směsi listovky, pařeništní zeminy a písku,“ řekl pan Petrescu. „V poměru dva ku dvěma ku jedné.“_
 
-Já potřebuju přesadit, řekla si v duchu. Hynu. Jsem mučenka modrá a hynu. Potřebuju přesadit v poměru jeden k jedné. Potřebuju poměr.
+> _Já potřebuju přesadit, řekla si v duchu. Hynu. Jsem mučenka modrá a hynu. Potřebuju přesadit v poměru jeden k jedné. Potřebuju poměr._
 
-Rozpustile se zasmála.
+> _Rozpustile se zasmála._
 
-„Pojďte,“ řekla. „Teď vám ukážu doopravdickou, ale doopravdickou voděnku.“
+> _„Pojďte,“ řekla. „Teď vám ukážu doopravdickou, ale doopravdickou voděnku.“_
 
-Vzala ho za ruku.
+> _Vzala ho za ruku._
 
-„Ano?“ řekl pan Petrescu vzrušeně. „A kdepak tu takzvanou voděnku máme?“
+> _„Ano?“ řekl pan Petrescu vzrušeně. „A kdepak tu takzvanou voděnku máme?“_
 
-„V ložnici,“ řekla paní Košťálová.
+> _„V ložnici,“ řekla paní Košťálová._
 
-Jemně ho táhla za sebou.
+> _Jemně ho táhla za sebou._
 
-Ani se moc nebránil.
+> _Ani se moc nebránil._
 
-„Ještě jsem zapomněla,“ řekla ochraptěle, když mu rozepínala košili, „musíte nám taky vybrat schránku.“
+> _„Ještě jsem zapomněla,“ řekla ochraptěle, když mu rozepínala košili, „musíte nám taky vybrat schránku.“_
 
 Max si to po sobě přečetl a vzdychl.
+
+  
 
 „Už toho mám dost,“ zvolal rozčíleně. „Řekne mi konečně někdo, co je to sakra za lidi!?“
 

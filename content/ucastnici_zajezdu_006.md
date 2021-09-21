@@ -4,6 +4,8 @@ title: Ignácův batoh
 
 První, koho Max spatřil, byl Ignác.
 
+  
+
 Seděl pod stromem a zamyšleně si prohlížel špinavé prsty v páskových kožených sandálech. Maxovi připadal ještě hubenější než jindy, ale zdálo se, že je střízlivý. Když uviděl přicházet Maxe, vesele se zašklebil.
 
 Max byl rád, že Ignáce zase vidí.

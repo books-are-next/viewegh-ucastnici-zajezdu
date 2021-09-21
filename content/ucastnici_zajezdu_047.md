@@ -4,6 +4,8 @@ title: "Servírky a\_literatura"
 
 „Pánové mají vybráno?“ pravila mladá servírka s okouzlujícím úsměvem.
 
+  
+
 „Dám si kapra na modro,“ řekl Ignác.
 
 „Já guláš z modrý krávy,“ řekl Max.

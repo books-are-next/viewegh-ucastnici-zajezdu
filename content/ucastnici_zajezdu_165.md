@@ -4,6 +4,8 @@ title: Hnědé podšálky
 
 „Řekneš jim to ty, Karle?“
 
+  
+
 Karel mlčel, rty přísně semknuté. Jeho oči sledovaly vzdálený obzor, jako by se tam někde mohlo skrývat místo, kde se hnědé podšálky navždy ztrácejí.
 
 „Řekni jim to ty, Kájo,“ řekl tiše.

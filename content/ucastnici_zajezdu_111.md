@@ -4,6 +4,8 @@ title: "Rodina v\_teplém dešti"
 
 Romantická procházka v teplém dešti, kterou po ranním usmíření navrhl Zuzaně a Jakubovi Hynek, skončila už po necelé hodině, když Zuzana Hynka žertem obvinila, že si neustále přitahuje deštník na svou stranu, v důsledku čehož má ona úplně promočené šaty na pravém rameni.
 
+  
+
 Hynek se zastavil.
 
 „Já mám promáčené zase levé rameno,“ ukazoval s úsměvem Zuzaně.

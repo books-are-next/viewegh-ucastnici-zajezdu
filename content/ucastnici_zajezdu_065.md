@@ -4,6 +4,8 @@ title: Projekty Jolaniny matky
 
 Když autobus krátce před třetí v noci zastavil na malém, špatně osvětleném parkovišti kdesi v horách, většina cestujících spala.
 
+  
+
 Jolanin otec slabě chrápal.
 
 Jediná čtecí lampička, která dosud svítila, patřila Jolanině matce.

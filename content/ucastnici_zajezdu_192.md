@@ -4,6 +4,8 @@ title: Maxovo statečné vystoupení
 
 „Co je to tam?“ řekl Karel.
 
+  
+
 „Kde, Kájo?“
 
 Karel ukázal na silnici před sebou. Asi tři sta metrů vpředu stál po obou stranách silnice dav lidí. Jejich srocení zúžilo vozovku na sotva polovinu původní šířky, takže všechna auta musela značně zpomalit.
@@ -22,7 +24,7 @@ Petřík i Pavlík vycítili obavy, které se všech účastníků zájezdu v 
 
 „Maxi!“ vykřikla Pamela a ustrašeně se vrhla Maxovi kolem krku. „Co chtějí?“
 
-Dvě ženy z davu – jako by její slova slyšely – rozvinuly dlouhý transparent s červeným nápisem Jak bylo u moře? Tady celej tejden lilo… Vlevo od nich se nad několika nenávistně zachmuřenými obličeji objevilo heslo Kdo je opálenej, je kurva!
+Dvě ženy z davu – jako by její slova slyšely – rozvinuly dlouhý transparent s červeným nápisem _Jak bylo u moře? Tady celej tejden lilo…_ Vlevo od nich se nad několika nenávistně zachmuřenými obličeji objevilo heslo _Kdo je opálenej, je kurva!_
 
 „Řekl bych, že nás chtějí přivítat,“ řekl s úsměvem Max.
 

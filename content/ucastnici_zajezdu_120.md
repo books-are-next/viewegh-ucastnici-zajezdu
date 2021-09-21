@@ -4,6 +4,8 @@ title: Kam se pořád Ignáctak řítí?
 
 Jolana otce po půlnoci doprovodila na pokoj, ale sama se ještě vrátila a sedla si vedle Maxe.
 
+  
+
 „Už jsi tohle někdy zažil – že tvůj otec přímo před tebou někoho docela otevřeně balí? Někoho v tvým věku?“
 
 „Zažil,“ řekl Max.

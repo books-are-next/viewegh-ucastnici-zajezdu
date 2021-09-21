@@ -4,6 +4,8 @@ title: Proč proboha Ukrajinec?(1)
 
 „Ale proč?“ nechápala Jolanina matka. „Proč proboha Ukrajinec?“
 
+  
+
 Jolana pokrčila rameny.
 
 „Nic o něm nevíš!“ varovala ji matka.

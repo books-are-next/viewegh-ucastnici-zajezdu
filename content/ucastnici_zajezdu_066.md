@@ -4,6 +4,8 @@ title: Všímavý homosexuál
 
 „Jsme všichni?“ zašeptala Pamela, ale nedočkala se odpovědi, neboť téměř všichni už opět spali. Jolanina matka si ve světle své lampičky zatrhávala užitečné fráze.
 
+  
+
 „Kdo chybí, ať se přihlásí,“ otevřel oči Jarda.
 
 „Jedem,“ řekl Karlovi Karel.
