@@ -1,0 +1,3968 @@
+{
+  "author": "Michal Viewegh",
+  "identifier": "viewegh-ucastnici-zajezdu-3585abb",
+  "languagecode": "cs",
+  "modified": "2021-09-21T12:10:35.433Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Účastníci zájezdu",
+  "revision": "3585abb",
+  "generatedAt": {
+    "date": "Tue Sep 21 2021 13:26:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1632230791257
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 139,
+      "chars": 920,
+      "ideas": 20,
+      "role": "colophon",
+      "order": null,
+      "next": "ucastnici_zajezdu_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "ucastnici_zajezdu_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "ucastnici_zajezdu_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "ucastnici_zajezdu_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ucastnici_zajezdu_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ucastnici_zajezdu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "ucastnici_zajezdu_001.html",
+      "next": "ucastnici_zajezdu_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "ucastnici_zajezdu_003.html",
+      "words": 4,
+      "chars": 31,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ucastnici_zajezdu_002.html",
+      "next": "ucastnici_zajezdu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část prvníCESTA DO LETOVISKA",
+      "file": "ucastnici_zajezdu_005.html",
+      "words": 4,
+      "chars": 28,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ucastnici_zajezdu_003.html",
+      "next": "ucastnici_zajezdu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část prvníCESTA DO LETOVISKA",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ignácův batoh",
+      "file": "ucastnici_zajezdu_006.html",
+      "words": 481,
+      "chars": 2969,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ucastnici_zajezdu_005.html",
+      "next": "ucastnici_zajezdu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ignácův batoh",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šarlota se už nedokážesoustředit",
+      "file": "ucastnici_zajezdu_007.html",
+      "words": 326,
+      "chars": 2183,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ucastnici_zajezdu_006.html",
+      "next": "ucastnici_zajezdu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šarlota se už nedokážesoustředit",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denisa a Irma",
+      "file": "ucastnici_zajezdu_008.html",
+      "words": 223,
+      "chars": 1403,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ucastnici_zajezdu_007.html",
+      "next": "ucastnici_zajezdu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Denisa a Irma",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Beach Boy a jeho dcera",
+      "file": "ucastnici_zajezdu_009.html",
+      "words": 848,
+      "chars": 5239,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ucastnici_zajezdu_008.html",
+      "next": "ucastnici_zajezdu_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Beach Boy a jeho dcera",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maxova pochybnost",
+      "file": "ucastnici_zajezdu_010.html",
+      "words": 390,
+      "chars": 2540,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ucastnici_zajezdu_009.html",
+      "next": "ucastnici_zajezdu_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maxova pochybnost",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kufr",
+      "file": "ucastnici_zajezdu_011.html",
+      "words": 118,
+      "chars": 744,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ucastnici_zajezdu_010.html",
+      "next": "ucastnici_zajezdu_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kufr",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pamela",
+      "file": "ucastnici_zajezdu_012.html",
+      "words": 454,
+      "chars": 2959,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ucastnici_zajezdu_011.html",
+      "next": "ucastnici_zajezdu_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pamela",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslancovo předsevzetí",
+      "file": "ucastnici_zajezdu_013.html",
+      "words": 724,
+      "chars": 4295,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ucastnici_zajezdu_012.html",
+      "next": "ucastnici_zajezdu_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslancovo předsevzetí",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proč Maxe vůbec napadlo napsat román,který by se celý odehrávalna turistickém zájezdu?",
+      "file": "ucastnici_zajezdu_014.html",
+      "words": 762,
+      "chars": 4915,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ucastnici_zajezdu_013.html",
+      "next": "ucastnici_zajezdu_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proč Maxe vůbec napadlo napsat román,který by se celý odehrávalna turistickém zájezdu?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chlap přes uličku",
+      "file": "ucastnici_zajezdu_015.html",
+      "words": 281,
+      "chars": 1707,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ucastnici_zajezdu_014.html",
+      "next": "ucastnici_zajezdu_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chlap přes uličku",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověk vedle Jolany",
+      "file": "ucastnici_zajezdu_016.html",
+      "words": 362,
+      "chars": 2260,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ucastnici_zajezdu_015.html",
+      "next": "ucastnici_zajezdu_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověk vedle Jolany",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dívka doslova milujícísvou práci",
+      "file": "ucastnici_zajezdu_017.html",
+      "words": 619,
+      "chars": 4074,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ucastnici_zajezdu_016.html",
+      "next": "ucastnici_zajezdu_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dívka doslova milujícísvou práci",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hnědé podšálky",
+      "file": "ucastnici_zajezdu_018.html",
+      "words": 568,
+      "chars": 3477,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ucastnici_zajezdu_017.html",
+      "next": "ucastnici_zajezdu_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hnědé podšálky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zpráva,která udělala z Ignáce vlastence",
+      "file": "ucastnici_zajezdu_019.html",
+      "words": 337,
+      "chars": 2171,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ucastnici_zajezdu_018.html",
+      "next": "ucastnici_zajezdu_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zpráva,která udělala z Ignáce vlastence",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max je se svým místem v autobuse zatím nadmíru spokojen",
+      "file": "ucastnici_zajezdu_020.html",
+      "words": 444,
+      "chars": 2763,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ucastnici_zajezdu_019.html",
+      "next": "ucastnici_zajezdu_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max je se svým místem v autobuse zatím nadmíru spokojen",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hnědé podšálky",
+      "file": "ucastnici_zajezdu_021.html",
+      "words": 138,
+      "chars": 821,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ucastnici_zajezdu_020.html",
+      "next": "ucastnici_zajezdu_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hnědé podšálky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jituš si čte",
+      "file": "ucastnici_zajezdu_022.html",
+      "words": 370,
+      "chars": 2187,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ucastnici_zajezdu_021.html",
+      "next": "ucastnici_zajezdu_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jituš si čte",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max přiděluje jména.Max a Budějovičáci",
+      "file": "ucastnici_zajezdu_023.html",
+      "words": 758,
+      "chars": 4781,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ucastnici_zajezdu_022.html",
+      "next": "ucastnici_zajezdu_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max přiděluje jména.Max a Budějovičáci",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přátelské gesto",
+      "file": "ucastnici_zajezdu_024.html",
+      "words": 389,
+      "chars": 2363,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ucastnici_zajezdu_023.html",
+      "next": "ucastnici_zajezdu_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přátelské gesto",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slovní fotbal",
+      "file": "ucastnici_zajezdu_025.html",
+      "words": 358,
+      "chars": 2255,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ucastnici_zajezdu_024.html",
+      "next": "ucastnici_zajezdu_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slovní fotbal",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hysterická opatrnost",
+      "file": "ucastnici_zajezdu_026.html",
+      "words": 573,
+      "chars": 3226,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ucastnici_zajezdu_025.html",
+      "next": "ucastnici_zajezdu_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hysterická opatrnost",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Citát",
+      "file": "ucastnici_zajezdu_027.html",
+      "words": 61,
+      "chars": 403,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ucastnici_zajezdu_026.html",
+      "next": "ucastnici_zajezdu_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Citát",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jolanino první zvracení",
+      "file": "ucastnici_zajezdu_028.html",
+      "words": 638,
+      "chars": 4076,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ucastnici_zajezdu_027.html",
+      "next": "ucastnici_zajezdu_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jolanino první zvracení",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozhovor",
+      "file": "ucastnici_zajezdu_029.html",
+      "words": 192,
+      "chars": 1148,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 27,
+      "prev": "ucastnici_zajezdu_028.html",
+      "next": "ucastnici_zajezdu_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozhovor",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia a ženy v politice",
+      "file": "ucastnici_zajezdu_030.html",
+      "words": 858,
+      "chars": 5325,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 28,
+      "prev": "ucastnici_zajezdu_029.html",
+      "next": "ucastnici_zajezdu_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Philadelphia a ženy v politice",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První Jakubův problém",
+      "file": "ucastnici_zajezdu_031.html",
+      "words": 424,
+      "chars": 2473,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 29,
+      "prev": "ucastnici_zajezdu_030.html",
+      "next": "ucastnici_zajezdu_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První Jakubův problém",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odklad",
+      "file": "ucastnici_zajezdu_032.html",
+      "words": 31,
+      "chars": 179,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 30,
+      "prev": "ucastnici_zajezdu_031.html",
+      "next": "ucastnici_zajezdu_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odklad",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Balení intelektuálek",
+      "file": "ucastnici_zajezdu_033.html",
+      "words": 641,
+      "chars": 3872,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 31,
+      "prev": "ucastnici_zajezdu_032.html",
+      "next": "ucastnici_zajezdu_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balení intelektuálek",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Autor a jeho čtenářka",
+      "file": "ucastnici_zajezdu_034.html",
+      "words": 810,
+      "chars": 5071,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 32,
+      "prev": "ucastnici_zajezdu_033.html",
+      "next": "ucastnici_zajezdu_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Autor a jeho čtenářka",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max stewardem",
+      "file": "ucastnici_zajezdu_035.html",
+      "words": 324,
+      "chars": 2010,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 33,
+      "prev": "ucastnici_zajezdu_034.html",
+      "next": "ucastnici_zajezdu_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max stewardem",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Druhý Jakubův problém",
+      "file": "ucastnici_zajezdu_036.html",
+      "words": 290,
+      "chars": 1723,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 34,
+      "prev": "ucastnici_zajezdu_035.html",
+      "next": "ucastnici_zajezdu_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Druhý Jakubův problém",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slunečnicové polepo levé straně",
+      "file": "ucastnici_zajezdu_037.html",
+      "words": 563,
+      "chars": 3708,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 35,
+      "prev": "ucastnici_zajezdu_036.html",
+      "next": "ucastnici_zajezdu_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slunečnicové polepo levé straně",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo je pan Petrescua paní Košťálová?",
+      "file": "ucastnici_zajezdu_038.html",
+      "words": 355,
+      "chars": 2260,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 36,
+      "prev": "ucastnici_zajezdu_037.html",
+      "next": "ucastnici_zajezdu_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo je pan Petrescua paní Košťálová?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A co na točeská literární kritika?",
+      "file": "ucastnici_zajezdu_039.html",
+      "words": 36,
+      "chars": 247,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 37,
+      "prev": "ucastnici_zajezdu_038.html",
+      "next": "ucastnici_zajezdu_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A co na točeská literární kritika?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stojící Helga",
+      "file": "ucastnici_zajezdu_040.html",
+      "words": 312,
+      "chars": 1950,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 38,
+      "prev": "ucastnici_zajezdu_039.html",
+      "next": "ucastnici_zajezdu_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stojící Helga",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Problém s odstředivou silou",
+      "file": "ucastnici_zajezdu_041.html",
+      "words": 787,
+      "chars": 4881,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 39,
+      "prev": "ucastnici_zajezdu_040.html",
+      "next": "ucastnici_zajezdu_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Problém s odstředivou silou",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Utrpení dvanáctiletého homosexuála",
+      "file": "ucastnici_zajezdu_042.html",
+      "words": 542,
+      "chars": 3274,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 40,
+      "prev": "ucastnici_zajezdu_041.html",
+      "next": "ucastnici_zajezdu_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Utrpení dvanáctiletého homosexuála",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo je pan Petrescua paní Košťálová??",
+      "file": "ucastnici_zajezdu_043.html",
+      "words": 543,
+      "chars": 3219,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 41,
+      "prev": "ucastnici_zajezdu_042.html",
+      "next": "ucastnici_zajezdu_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo je pan Petrescua paní Košťálová??",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zvuky Jakubovi nevadí",
+      "file": "ucastnici_zajezdu_044.html",
+      "words": 592,
+      "chars": 3631,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 42,
+      "prev": "ucastnici_zajezdu_043.html",
+      "next": "ucastnici_zajezdu_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zvuky Jakubovi nevadí",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mrkání",
+      "file": "ucastnici_zajezdu_045.html",
+      "words": 82,
+      "chars": 442,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "ucastnici_zajezdu_044.html",
+      "next": "ucastnici_zajezdu_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mrkání",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rapsodie v modrém",
+      "file": "ucastnici_zajezdu_046.html",
+      "words": 438,
+      "chars": 2653,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 44,
+      "prev": "ucastnici_zajezdu_045.html",
+      "next": "ucastnici_zajezdu_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rapsodie v modrém",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Servírky a literatura",
+      "file": "ucastnici_zajezdu_047.html",
+      "words": 442,
+      "chars": 2859,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 45,
+      "prev": "ucastnici_zajezdu_046.html",
+      "next": "ucastnici_zajezdu_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Servírky a literatura",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max má problémy s citáty",
+      "file": "ucastnici_zajezdu_048.html",
+      "words": 500,
+      "chars": 3091,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 46,
+      "prev": "ucastnici_zajezdu_047.html",
+      "next": "ucastnici_zajezdu_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max má problémy s citáty",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Deštivé počasí může dovolenouu moře značně znepříjemnit",
+      "file": "ucastnici_zajezdu_049.html",
+      "words": 381,
+      "chars": 2101,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 47,
+      "prev": "ucastnici_zajezdu_048.html",
+      "next": "ucastnici_zajezdu_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Deštivé počasí může dovolenouu moře značně znepříjemnit",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co je trapnýho na tom,zahrát si na chvíli softík?",
+      "file": "ucastnici_zajezdu_050.html",
+      "words": 652,
+      "chars": 3966,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 48,
+      "prev": "ucastnici_zajezdu_049.html",
+      "next": "ucastnici_zajezdu_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co je trapnýho na tom,zahrát si na chvíli softík?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pas v modrém pouzdře",
+      "file": "ucastnici_zajezdu_051.html",
+      "words": 350,
+      "chars": 2186,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 49,
+      "prev": "ucastnici_zajezdu_050.html",
+      "next": "ucastnici_zajezdu_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pas v modrém pouzdře",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přerušení příběhu: výpravčí",
+      "file": "ucastnici_zajezdu_052.html",
+      "words": 441,
+      "chars": 2966,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 50,
+      "prev": "ucastnici_zajezdu_051.html",
+      "next": "ucastnici_zajezdu_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přerušení příběhu: výpravčí",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo proboha jsou pan Petrescua paní Košťálová???",
+      "file": "ucastnici_zajezdu_053.html",
+      "words": 220,
+      "chars": 1492,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 51,
+      "prev": "ucastnici_zajezdu_052.html",
+      "next": "ucastnici_zajezdu_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo proboha jsou pan Petrescua paní Košťálová???",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zima, zimička",
+      "file": "ucastnici_zajezdu_054.html",
+      "words": 506,
+      "chars": 3331,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 52,
+      "prev": "ucastnici_zajezdu_053.html",
+      "next": "ucastnici_zajezdu_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zima, zimička",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsou u moře moli?",
+      "file": "ucastnici_zajezdu_055.html",
+      "words": 635,
+      "chars": 4108,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 53,
+      "prev": "ucastnici_zajezdu_054.html",
+      "next": "ucastnici_zajezdu_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsou u moře moli?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nečekané drama",
+      "file": "ucastnici_zajezdu_056.html",
+      "words": 806,
+      "chars": 5039,
+      "ideas": 88,
+      "role": "chapter",
+      "order": 54,
+      "prev": "ucastnici_zajezdu_055.html",
+      "next": "ucastnici_zajezdu_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nečekané drama",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádka na dobrou noc",
+      "file": "ucastnici_zajezdu_057.html",
+      "words": 582,
+      "chars": 3868,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 55,
+      "prev": "ucastnici_zajezdu_056.html",
+      "next": "ucastnici_zajezdu_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádka na dobrou noc",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max experimentuje s formou",
+      "file": "ucastnici_zajezdu_058.html",
+      "words": 250,
+      "chars": 1642,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 56,
+      "prev": "ucastnici_zajezdu_057.html",
+      "next": "ucastnici_zajezdu_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max experimentuje s formou",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvacet minut je asi málo",
+      "file": "ucastnici_zajezdu_059.html",
+      "words": 168,
+      "chars": 1113,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 57,
+      "prev": "ucastnici_zajezdu_058.html",
+      "next": "ucastnici_zajezdu_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvacet minut je asi málo",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kruté zklamání",
+      "file": "ucastnici_zajezdu_060.html",
+      "words": 78,
+      "chars": 485,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 58,
+      "prev": "ucastnici_zajezdu_059.html",
+      "next": "ucastnici_zajezdu_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kruté zklamání",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spojité nádoby",
+      "file": "ucastnici_zajezdu_061.html",
+      "words": 323,
+      "chars": 2000,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 59,
+      "prev": "ucastnici_zajezdu_060.html",
+      "next": "ucastnici_zajezdu_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spojité nádoby",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Urážlivá diskriminace",
+      "file": "ucastnici_zajezdu_062.html",
+      "words": 643,
+      "chars": 4118,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 60,
+      "prev": "ucastnici_zajezdu_061.html",
+      "next": "ucastnici_zajezdu_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Urážlivá diskriminace",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zuzana, Hynek a masmédia",
+      "file": "ucastnici_zajezdu_063.html",
+      "words": 536,
+      "chars": 3209,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 61,
+      "prev": "ucastnici_zajezdu_062.html",
+      "next": "ucastnici_zajezdu_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zuzana, Hynek a masmédia",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max, Hyneka svědomí národa",
+      "file": "ucastnici_zajezdu_064.html",
+      "words": 354,
+      "chars": 2320,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 62,
+      "prev": "ucastnici_zajezdu_063.html",
+      "next": "ucastnici_zajezdu_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max, Hyneka svědomí národa",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Projekty Jolaniny matky",
+      "file": "ucastnici_zajezdu_065.html",
+      "words": 653,
+      "chars": 4191,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 63,
+      "prev": "ucastnici_zajezdu_064.html",
+      "next": "ucastnici_zajezdu_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Projekty Jolaniny matky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Všímavý homosexuál",
+      "file": "ucastnici_zajezdu_066.html",
+      "words": 213,
+      "chars": 1337,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 64,
+      "prev": "ucastnici_zajezdu_065.html",
+      "next": "ucastnici_zajezdu_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Všímavý homosexuál",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zachránce",
+      "file": "ucastnici_zajezdu_067.html",
+      "words": 237,
+      "chars": 1434,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 65,
+      "prev": "ucastnici_zajezdu_066.html",
+      "next": "ucastnici_zajezdu_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zachránce",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z Šarlotina cestovního deníku",
+      "file": "ucastnici_zajezdu_068.html",
+      "words": 4,
+      "chars": 29,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 66,
+      "prev": "ucastnici_zajezdu_067.html",
+      "next": "ucastnici_zajezdu_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z Šarlotina cestovního deníku",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Helga by potřebovalaMaxovy nohy",
+      "file": "ucastnici_zajezdu_069.html",
+      "words": 437,
+      "chars": 2749,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 67,
+      "prev": "ucastnici_zajezdu_068.html",
+      "next": "ucastnici_zajezdu_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Helga by potřebovalaMaxovy nohy",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A co na to literární kritika",
+      "file": "ucastnici_zajezdu_070.html",
+      "words": 26,
+      "chars": 166,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 68,
+      "prev": "ucastnici_zajezdu_069.html",
+      "next": "ucastnici_zajezdu_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A co na to literární kritika",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jací lidé chodí také volit",
+      "file": "ucastnici_zajezdu_071.html",
+      "words": 512,
+      "chars": 3188,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 69,
+      "prev": "ucastnici_zajezdu_070.html",
+      "next": "ucastnici_zajezdu_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jací lidé chodí také volit",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rodiče za tmavým sklem",
+      "file": "ucastnici_zajezdu_072.html",
+      "words": 252,
+      "chars": 1573,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 70,
+      "prev": "ucastnici_zajezdu_071.html",
+      "next": "ucastnici_zajezdu_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rodiče za tmavým sklem",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hnědé podšálky",
+      "file": "ucastnici_zajezdu_073.html",
+      "words": 107,
+      "chars": 589,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 71,
+      "prev": "ucastnici_zajezdu_072.html",
+      "next": "ucastnici_zajezdu_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hnědé podšálky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část druháPOBYTV LETOVISKU",
+      "file": "ucastnici_zajezdu_074.html",
+      "words": 3,
+      "chars": 26,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 72,
+      "prev": "ucastnici_zajezdu_073.html",
+      "next": "ucastnici_zajezdu_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část druháPOBYTV LETOVISKU",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Did she like that room? –Líbil se jí ten pokoj?",
+      "file": "ucastnici_zajezdu_075.html",
+      "words": 627,
+      "chars": 3743,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 73,
+      "prev": "ucastnici_zajezdu_074.html",
+      "next": "ucastnici_zajezdu_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Did she like that room? –Líbil se jí ten pokoj?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vkusjako generační otázka",
+      "file": "ucastnici_zajezdu_076.html",
+      "words": 979,
+      "chars": 5898,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 74,
+      "prev": "ucastnici_zajezdu_075.html",
+      "next": "ucastnici_zajezdu_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vkusjako generační otázka",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sentimentalita",
+      "file": "ucastnici_zajezdu_077.html",
+      "words": 34,
+      "chars": 221,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 75,
+      "prev": "ucastnici_zajezdu_076.html",
+      "next": "ucastnici_zajezdu_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sentimentalita",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A už žádné trojčení",
+      "file": "ucastnici_zajezdu_078.html",
+      "words": 216,
+      "chars": 1317,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 76,
+      "prev": "ucastnici_zajezdu_077.html",
+      "next": "ucastnici_zajezdu_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A už žádné trojčení",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je už Šarlota úplně pitomá?",
+      "file": "ucastnici_zajezdu_079.html",
+      "words": 361,
+      "chars": 2160,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 77,
+      "prev": "ucastnici_zajezdu_078.html",
+      "next": "ucastnici_zajezdu_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je už Šarlota úplně pitomá?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Selektivní metoda výběru spolustolovníků",
+      "file": "ucastnici_zajezdu_080.html",
+      "words": 919,
+      "chars": 5620,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 78,
+      "prev": "ucastnici_zajezdu_079.html",
+      "next": "ucastnici_zajezdu_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Selektivní metoda výběru spolustolovníků",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na místa!",
+      "file": "ucastnici_zajezdu_081.html",
+      "words": 848,
+      "chars": 5435,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 79,
+      "prev": "ucastnici_zajezdu_080.html",
+      "next": "ucastnici_zajezdu_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na místa!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo je kdo(1)",
+      "file": "ucastnici_zajezdu_082.html",
+      "words": 1037,
+      "chars": 6300,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 80,
+      "prev": "ucastnici_zajezdu_081.html",
+      "next": "ucastnici_zajezdu_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo je kdo(1)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo je kdo(2)",
+      "file": "ucastnici_zajezdu_083.html",
+      "words": 635,
+      "chars": 3802,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 81,
+      "prev": "ucastnici_zajezdu_082.html",
+      "next": "ucastnici_zajezdu_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo je kdo(2)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žlutej meloun, uzenej lososa máta!",
+      "file": "ucastnici_zajezdu_084.html",
+      "words": 473,
+      "chars": 3019,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 82,
+      "prev": "ucastnici_zajezdu_083.html",
+      "next": "ucastnici_zajezdu_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žlutej meloun, uzenej lososa máta!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ukrajinec, kočka, uklízečkaa krab",
+      "file": "ucastnici_zajezdu_085.html",
+      "words": 717,
+      "chars": 4325,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 83,
+      "prev": "ucastnici_zajezdu_084.html",
+      "next": "ucastnici_zajezdu_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ukrajinec, kočka, uklízečkaa krab",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max, moře a absence myšlenek",
+      "file": "ucastnici_zajezdu_086.html",
+      "words": 476,
+      "chars": 2853,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 84,
+      "prev": "ucastnici_zajezdu_085.html",
+      "next": "ucastnici_zajezdu_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max, moře a absence myšlenek",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A co na to česká literární kritika?",
+      "file": "ucastnici_zajezdu_087.html",
+      "words": 26,
+      "chars": 167,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 85,
+      "prev": "ucastnici_zajezdu_086.html",
+      "next": "ucastnici_zajezdu_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A co na to česká literární kritika?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maxa racionální předsevzetí",
+      "file": "ucastnici_zajezdu_088.html",
+      "words": 306,
+      "chars": 1845,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 86,
+      "prev": "ucastnici_zajezdu_087.html",
+      "next": "ucastnici_zajezdu_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maxa racionální předsevzetí",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sice ne žádní intelektuálové,ale zato docela milí lidé",
+      "file": "ucastnici_zajezdu_089.html",
+      "words": 597,
+      "chars": 3580,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 87,
+      "prev": "ucastnici_zajezdu_088.html",
+      "next": "ucastnici_zajezdu_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sice ne žádní intelektuálové,ale zato docela milí lidé",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max bojuje s živly",
+      "file": "ucastnici_zajezdu_090.html",
+      "words": 657,
+      "chars": 3852,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 88,
+      "prev": "ucastnici_zajezdu_089.html",
+      "next": "ucastnici_zajezdu_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max bojuje s živly",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Air-bagy na obou sedadlech",
+      "file": "ucastnici_zajezdu_091.html",
+      "words": 343,
+      "chars": 2044,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 89,
+      "prev": "ucastnici_zajezdu_090.html",
+      "next": "ucastnici_zajezdu_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Air-bagy na obou sedadlech",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A když přijdou k moři,i skály se jim dvoří",
+      "file": "ucastnici_zajezdu_092.html",
+      "words": 528,
+      "chars": 3362,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 90,
+      "prev": "ucastnici_zajezdu_091.html",
+      "next": "ucastnici_zajezdu_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A když přijdou k moři,i skály se jim dvoří",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To jsou, panečku, kejty!",
+      "file": "ucastnici_zajezdu_093.html",
+      "words": 406,
+      "chars": 2533,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 91,
+      "prev": "ucastnici_zajezdu_092.html",
+      "next": "ucastnici_zajezdu_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "To jsou, panečku, kejty!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Problémy se žaluziemi",
+      "file": "ucastnici_zajezdu_094.html",
+      "words": 779,
+      "chars": 4859,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 92,
+      "prev": "ucastnici_zajezdu_093.html",
+      "next": "ucastnici_zajezdu_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Problémy se žaluziemi",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maxa metoda proudu vědomí",
+      "file": "ucastnici_zajezdu_095.html",
+      "words": 556,
+      "chars": 3478,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 93,
+      "prev": "ucastnici_zajezdu_094.html",
+      "next": "ucastnici_zajezdu_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maxa metoda proudu vědomí",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Citát",
+      "file": "ucastnici_zajezdu_096.html",
+      "words": 43,
+      "chars": 245,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 94,
+      "prev": "ucastnici_zajezdu_095.html",
+      "next": "ucastnici_zajezdu_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Citát",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přesný zásah jedlové šiškyaneb nezávislý kritik",
+      "file": "ucastnici_zajezdu_097.html",
+      "words": 997,
+      "chars": 6072,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 95,
+      "prev": "ucastnici_zajezdu_096.html",
+      "next": "ucastnici_zajezdu_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přesný zásah jedlové šiškyaneb nezávislý kritik",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Citát",
+      "file": "ucastnici_zajezdu_098.html",
+      "words": 16,
+      "chars": 96,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 96,
+      "prev": "ucastnici_zajezdu_097.html",
+      "next": "ucastnici_zajezdu_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Citát",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mámivá vůně ibiškových květů",
+      "file": "ucastnici_zajezdu_099.html",
+      "words": 385,
+      "chars": 2392,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 97,
+      "prev": "ucastnici_zajezdu_098.html",
+      "next": "ucastnici_zajezdu_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mámivá vůně ibiškových květů",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Už zase citát?!",
+      "file": "ucastnici_zajezdu_100.html",
+      "words": 21,
+      "chars": 116,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 98,
+      "prev": "ucastnici_zajezdu_099.html",
+      "next": "ucastnici_zajezdu_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Už zase citát?!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Olina, Láďa a kamera",
+      "file": "ucastnici_zajezdu_101.html",
+      "words": 508,
+      "chars": 2930,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 99,
+      "prev": "ucastnici_zajezdu_100.html",
+      "next": "ucastnici_zajezdu_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Olina, Láďa a kamera",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Suvenýry",
+      "file": "ucastnici_zajezdu_102.html",
+      "words": 343,
+      "chars": 2131,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 100,
+      "prev": "ucastnici_zajezdu_101.html",
+      "next": "ucastnici_zajezdu_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Suvenýry",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z pohledu kamery",
+      "file": "ucastnici_zajezdu_103.html",
+      "words": 138,
+      "chars": 828,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 101,
+      "prev": "ucastnici_zajezdu_102.html",
+      "next": "ucastnici_zajezdu_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z pohledu kamery",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obměna přátel(1)",
+      "file": "ucastnici_zajezdu_104.html",
+      "words": 48,
+      "chars": 281,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 102,
+      "prev": "ucastnici_zajezdu_103.html",
+      "next": "ucastnici_zajezdu_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obměna přátel(1)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo jsou pan Petrescua paní Košťálová???!!!(poslední pokus)",
+      "file": "ucastnici_zajezdu_105.html",
+      "words": 431,
+      "chars": 2604,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 103,
+      "prev": "ucastnici_zajezdu_104.html",
+      "next": "ucastnici_zajezdu_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo jsou pan Petrescua paní Košťálová???!!!(poslední pokus)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maxova osobnostje tragicky rozpolcena!",
+      "file": "ucastnici_zajezdu_106.html",
+      "words": 301,
+      "chars": 1917,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 104,
+      "prev": "ucastnici_zajezdu_105.html",
+      "next": "ucastnici_zajezdu_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maxova osobnostje tragicky rozpolcena!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maxzobrazuje tělesnou touhu",
+      "file": "ucastnici_zajezdu_107.html",
+      "words": 895,
+      "chars": 5642,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 105,
+      "prev": "ucastnici_zajezdu_106.html",
+      "next": "ucastnici_zajezdu_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maxzobrazuje tělesnou touhu",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obměna přátel(2)",
+      "file": "ucastnici_zajezdu_108.html",
+      "words": 96,
+      "chars": 597,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 106,
+      "prev": "ucastnici_zajezdu_107.html",
+      "next": "ucastnici_zajezdu_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obměna přátel(2)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Honda Accord",
+      "file": "ucastnici_zajezdu_109.html",
+      "words": 196,
+      "chars": 1176,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 107,
+      "prev": "ucastnici_zajezdu_108.html",
+      "next": "ucastnici_zajezdu_110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Honda Accord",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chčije",
+      "file": "ucastnici_zajezdu_110.html",
+      "words": 326,
+      "chars": 1987,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 108,
+      "prev": "ucastnici_zajezdu_109.html",
+      "next": "ucastnici_zajezdu_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chčije",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rodina v teplém dešti",
+      "file": "ucastnici_zajezdu_111.html",
+      "words": 467,
+      "chars": 2850,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 109,
+      "prev": "ucastnici_zajezdu_110.html",
+      "next": "ucastnici_zajezdu_112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rodina v teplém dešti",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pamelin návrh",
+      "file": "ucastnici_zajezdu_112.html",
+      "words": 156,
+      "chars": 964,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 110,
+      "prev": "ucastnici_zajezdu_111.html",
+      "next": "ucastnici_zajezdu_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pamelin návrh",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Před tanečním večerem",
+      "file": "ucastnici_zajezdu_113.html",
+      "words": 433,
+      "chars": 2564,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 111,
+      "prev": "ucastnici_zajezdu_112.html",
+      "next": "ucastnici_zajezdu_114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Před tanečním večerem",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Irma a Beach Boy",
+      "file": "ucastnici_zajezdu_114.html",
+      "words": 748,
+      "chars": 4373,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 112,
+      "prev": "ucastnici_zajezdu_113.html",
+      "next": "ucastnici_zajezdu_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Irma a Beach Boy",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nepříjemná absenceotázek zjišťovacích",
+      "file": "ucastnici_zajezdu_115.html",
+      "words": 297,
+      "chars": 1818,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 113,
+      "prev": "ucastnici_zajezdu_114.html",
+      "next": "ucastnici_zajezdu_116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nepříjemná absenceotázek zjišťovacích",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Další tance",
+      "file": "ucastnici_zajezdu_116.html",
+      "words": 937,
+      "chars": 5129,
+      "ideas": 190,
+      "role": "chapter",
+      "order": 114,
+      "prev": "ucastnici_zajezdu_115.html",
+      "next": "ucastnici_zajezdu_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Další tance",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomika pro každého",
+      "file": "ucastnici_zajezdu_117.html",
+      "words": 631,
+      "chars": 3696,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 115,
+      "prev": "ucastnici_zajezdu_116.html",
+      "next": "ucastnici_zajezdu_118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ekonomika pro každého",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mejdan na dvěstěčtrnáctce?",
+      "file": "ucastnici_zajezdu_118.html",
+      "words": 920,
+      "chars": 5684,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 116,
+      "prev": "ucastnici_zajezdu_117.html",
+      "next": "ucastnici_zajezdu_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mejdan na dvěstěčtrnáctce?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Born to be wild",
+      "file": "ucastnici_zajezdu_119.html",
+      "words": 1135,
+      "chars": 6921,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 117,
+      "prev": "ucastnici_zajezdu_118.html",
+      "next": "ucastnici_zajezdu_120.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Born to be wild",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kam se pořád Ignáctak řítí?",
+      "file": "ucastnici_zajezdu_120.html",
+      "words": 227,
+      "chars": 1305,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 118,
+      "prev": "ucastnici_zajezdu_119.html",
+      "next": "ucastnici_zajezdu_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kam se pořád Ignáctak řítí?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Potřebuje Max milenku?",
+      "file": "ucastnici_zajezdu_121.html",
+      "words": 507,
+      "chars": 3030,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 119,
+      "prev": "ucastnici_zajezdu_120.html",
+      "next": "ucastnici_zajezdu_122.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Potřebuje Max milenku?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Něco, co o sexu vědětnechceme",
+      "file": "ucastnici_zajezdu_122.html",
+      "words": 551,
+      "chars": 3214,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 120,
+      "prev": "ucastnici_zajezdu_121.html",
+      "next": "ucastnici_zajezdu_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Něco, co o sexu vědětnechceme",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co znamená být spisovatelem",
+      "file": "ucastnici_zajezdu_123.html",
+      "words": 39,
+      "chars": 263,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 121,
+      "prev": "ucastnici_zajezdu_122.html",
+      "next": "ucastnici_zajezdu_124.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co znamená být spisovatelem",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K některým dalším aspektůmmilostné předehry",
+      "file": "ucastnici_zajezdu_124.html",
+      "words": 725,
+      "chars": 4544,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 122,
+      "prev": "ucastnici_zajezdu_123.html",
+      "next": "ucastnici_zajezdu_125.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K některým dalším aspektůmmilostné předehry",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dva muži a kondom",
+      "file": "ucastnici_zajezdu_125.html",
+      "words": 212,
+      "chars": 1299,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 123,
+      "prev": "ucastnici_zajezdu_124.html",
+      "next": "ucastnici_zajezdu_126.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dva muži a kondom",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trapas",
+      "file": "ucastnici_zajezdu_126.html",
+      "words": 192,
+      "chars": 1145,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 124,
+      "prev": "ucastnici_zajezdu_125.html",
+      "next": "ucastnici_zajezdu_127.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trapas",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsme lidi,nejsme zvířata, že?",
+      "file": "ucastnici_zajezdu_127.html",
+      "words": 464,
+      "chars": 2755,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 125,
+      "prev": "ucastnici_zajezdu_126.html",
+      "next": "ucastnici_zajezdu_128.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsme lidi,nejsme zvířata, že?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když se Max ráno probudil",
+      "file": "ucastnici_zajezdu_128.html",
+      "words": 785,
+      "chars": 4698,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 126,
+      "prev": "ucastnici_zajezdu_127.html",
+      "next": "ucastnici_zajezdu_129.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když se Max ráno probudil",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Renting a car",
+      "file": "ucastnici_zajezdu_129.html",
+      "words": 486,
+      "chars": 2863,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 127,
+      "prev": "ucastnici_zajezdu_128.html",
+      "next": "ucastnici_zajezdu_130.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Renting a car",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nechoď, dcero, na jezero!",
+      "file": "ucastnici_zajezdu_130.html",
+      "words": 334,
+      "chars": 2021,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 128,
+      "prev": "ucastnici_zajezdu_129.html",
+      "next": "ucastnici_zajezdu_131.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nechoď, dcero, na jezero!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dodatečné zapojení Ukrajince",
+      "file": "ucastnici_zajezdu_131.html",
+      "words": 974,
+      "chars": 6043,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 129,
+      "prev": "ucastnici_zajezdu_130.html",
+      "next": "ucastnici_zajezdu_132.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dodatečné zapojení Ukrajince",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzkaz jako literární žánr",
+      "file": "ucastnici_zajezdu_132.html",
+      "words": 610,
+      "chars": 3560,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 130,
+      "prev": "ucastnici_zajezdu_131.html",
+      "next": "ucastnici_zajezdu_133.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzkaz jako literární žánr",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K některým aspektůmranní komunikace",
+      "file": "ucastnici_zajezdu_133.html",
+      "words": 439,
+      "chars": 2668,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 131,
+      "prev": "ucastnici_zajezdu_132.html",
+      "next": "ucastnici_zajezdu_134.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K některým aspektůmranní komunikace",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krátké štěstí mladého poslance",
+      "file": "ucastnici_zajezdu_134.html",
+      "words": 730,
+      "chars": 4396,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 132,
+      "prev": "ucastnici_zajezdu_133.html",
+      "next": "ucastnici_zajezdu_135.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krátké štěstí mladého poslance",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Benátky",
+      "file": "ucastnici_zajezdu_135.html",
+      "words": 574,
+      "chars": 3560,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 133,
+      "prev": "ucastnici_zajezdu_134.html",
+      "next": "ucastnici_zajezdu_136.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Benátky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Podobenství o skutečném významu literární kritiky",
+      "file": "ucastnici_zajezdu_136.html",
+      "words": 871,
+      "chars": 5574,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 134,
+      "prev": "ucastnici_zajezdu_135.html",
+      "next": "ucastnici_zajezdu_137.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Podobenství o skutečném významu literární kritiky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co řekl Hitchcock Truffautovi",
+      "file": "ucastnici_zajezdu_137.html",
+      "words": 60,
+      "chars": 369,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 135,
+      "prev": "ucastnici_zajezdu_136.html",
+      "next": "ucastnici_zajezdu_138.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co řekl Hitchcock Truffautovi",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žlutá vodní kola",
+      "file": "ucastnici_zajezdu_138.html",
+      "words": 624,
+      "chars": 3805,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 136,
+      "prev": "ucastnici_zajezdu_137.html",
+      "next": "ucastnici_zajezdu_139.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žlutá vodní kola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo jsou pan Petrescua paní Košťálová???(vážně naposledy)",
+      "file": "ucastnici_zajezdu_139.html",
+      "words": 605,
+      "chars": 3605,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 137,
+      "prev": "ucastnici_zajezdu_138.html",
+      "next": "ucastnici_zajezdu_140.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo jsou pan Petrescua paní Košťálová???(vážně naposledy)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hynek, Zuzana, televizea Denisa",
+      "file": "ucastnici_zajezdu_140.html",
+      "words": 350,
+      "chars": 2193,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 138,
+      "prev": "ucastnici_zajezdu_139.html",
+      "next": "ucastnici_zajezdu_141.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hynek, Zuzana, televizea Denisa",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Naprosto normálnídepka",
+      "file": "ucastnici_zajezdu_141.html",
+      "words": 603,
+      "chars": 3716,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 139,
+      "prev": "ucastnici_zajezdu_140.html",
+      "next": "ucastnici_zajezdu_142.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Naprosto normálnídepka",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jolaně se nedaří usnout",
+      "file": "ucastnici_zajezdu_142.html",
+      "words": 135,
+      "chars": 833,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 140,
+      "prev": "ucastnici_zajezdu_141.html",
+      "next": "ucastnici_zajezdu_143.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jolaně se nedaří usnout",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umění milovat(po patnácti letech)",
+      "file": "ucastnici_zajezdu_143.html",
+      "words": 457,
+      "chars": 2686,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 141,
+      "prev": "ucastnici_zajezdu_142.html",
+      "next": "ucastnici_zajezdu_144.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Umění milovat(po patnácti letech)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proč Maxpíše o takových věcech?",
+      "file": "ucastnici_zajezdu_144.html",
+      "words": 131,
+      "chars": 774,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 142,
+      "prev": "ucastnici_zajezdu_143.html",
+      "next": "ucastnici_zajezdu_145.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proč Maxpíše o takových věcech?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Účastníci a stíhačky",
+      "file": "ucastnici_zajezdu_145.html",
+      "words": 302,
+      "chars": 1923,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 143,
+      "prev": "ucastnici_zajezdu_144.html",
+      "next": "ucastnici_zajezdu_146.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Účastníci a stíhačky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Citát",
+      "file": "ucastnici_zajezdu_146.html",
+      "words": 64,
+      "chars": 383,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 144,
+      "prev": "ucastnici_zajezdu_145.html",
+      "next": "ucastnici_zajezdu_147.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Citát",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hádanky",
+      "file": "ucastnici_zajezdu_147.html",
+      "words": 774,
+      "chars": 4717,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 145,
+      "prev": "ucastnici_zajezdu_146.html",
+      "next": "ucastnici_zajezdu_148.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hádanky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Raději bez názvu",
+      "file": "ucastnici_zajezdu_148.html",
+      "words": 56,
+      "chars": 330,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 146,
+      "prev": "ucastnici_zajezdu_147.html",
+      "next": "ucastnici_zajezdu_149.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Raději bez názvu",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jolana čekající",
+      "file": "ucastnici_zajezdu_149.html",
+      "words": 437,
+      "chars": 2556,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 147,
+      "prev": "ucastnici_zajezdu_148.html",
+      "next": "ucastnici_zajezdu_150.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jolana čekající",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ukrajinský sex(1)",
+      "file": "ucastnici_zajezdu_150.html",
+      "words": 719,
+      "chars": 4367,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 148,
+      "prev": "ucastnici_zajezdu_149.html",
+      "next": "ucastnici_zajezdu_151.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ukrajinský sex(1)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jolanina matka má pro Maxefantastický námět",
+      "file": "ucastnici_zajezdu_151.html",
+      "words": 631,
+      "chars": 3843,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 149,
+      "prev": "ucastnici_zajezdu_150.html",
+      "next": "ucastnici_zajezdu_152.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jolanina matka má pro Maxefantastický námět",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co chce Ignác dělatv Římě?",
+      "file": "ucastnici_zajezdu_152.html",
+      "words": 97,
+      "chars": 593,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 150,
+      "prev": "ucastnici_zajezdu_151.html",
+      "next": "ucastnici_zajezdu_153.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co chce Ignác dělatv Římě?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Helga a Šarlotastojí před obtížným úkolem",
+      "file": "ucastnici_zajezdu_153.html",
+      "words": 207,
+      "chars": 1352,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 151,
+      "prev": "ucastnici_zajezdu_152.html",
+      "next": "ucastnici_zajezdu_154.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Helga a Šarlotastojí před obtížným úkolem",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "It was just a dream",
+      "file": "ucastnici_zajezdu_154.html",
+      "words": 481,
+      "chars": 2997,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 152,
+      "prev": "ucastnici_zajezdu_153.html",
+      "next": "ucastnici_zajezdu_155.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "It was just a dream",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jolanin pragmatismus",
+      "file": "ucastnici_zajezdu_155.html",
+      "words": 533,
+      "chars": 3205,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 153,
+      "prev": "ucastnici_zajezdu_154.html",
+      "next": "ucastnici_zajezdu_156.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jolanin pragmatismus",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zmarněná příležitost",
+      "file": "ucastnici_zajezdu_156.html",
+      "words": 523,
+      "chars": 3066,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 154,
+      "prev": "ucastnici_zajezdu_155.html",
+      "next": "ucastnici_zajezdu_157.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zmarněná příležitost",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Taneční hra čepičkováa jiné hry",
+      "file": "ucastnici_zajezdu_157.html",
+      "words": 688,
+      "chars": 4459,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 155,
+      "prev": "ucastnici_zajezdu_156.html",
+      "next": "ucastnici_zajezdu_158.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Taneční hra čepičkováa jiné hry",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PravidlaProvlékání provázku",
+      "file": "ucastnici_zajezdu_158.html",
+      "words": 401,
+      "chars": 2543,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 156,
+      "prev": "ucastnici_zajezdu_157.html",
+      "next": "ucastnici_zajezdu_159.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PravidlaProvlékání provázku",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Provlékání",
+      "file": "ucastnici_zajezdu_159.html",
+      "words": 662,
+      "chars": 3623,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 157,
+      "prev": "ucastnici_zajezdu_158.html",
+      "next": "ucastnici_zajezdu_160.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Provlékání",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ukrajinský sex(2)",
+      "file": "ucastnici_zajezdu_160.html",
+      "words": 349,
+      "chars": 2094,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 158,
+      "prev": "ucastnici_zajezdu_159.html",
+      "next": "ucastnici_zajezdu_161.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ukrajinský sex(2)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na Maxe padlanečekaná sklíčenost!",
+      "file": "ucastnici_zajezdu_161.html",
+      "words": 487,
+      "chars": 2955,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 159,
+      "prev": "ucastnici_zajezdu_160.html",
+      "next": "ucastnici_zajezdu_162.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na Maxe padlanečekaná sklíčenost!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náhoda?!",
+      "file": "ucastnici_zajezdu_162.html",
+      "words": 26,
+      "chars": 151,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 160,
+      "prev": "ucastnici_zajezdu_161.html",
+      "next": "ucastnici_zajezdu_163.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náhoda?!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak minout eden,jenž do těch pekel vede?",
+      "file": "ucastnici_zajezdu_163.html",
+      "words": 914,
+      "chars": 5420,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 161,
+      "prev": "ucastnici_zajezdu_162.html",
+      "next": "ucastnici_zajezdu_164.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak minout eden,jenž do těch pekel vede?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Část třetíCESTAZ LETOVISKA",
+      "file": "ucastnici_zajezdu_164.html",
+      "words": 3,
+      "chars": 26,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 162,
+      "prev": "ucastnici_zajezdu_163.html",
+      "next": "ucastnici_zajezdu_165.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Část třetíCESTAZ LETOVISKA",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hnědé podšálky",
+      "file": "ucastnici_zajezdu_165.html",
+      "words": 144,
+      "chars": 832,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 163,
+      "prev": "ucastnici_zajezdu_164.html",
+      "next": "ucastnici_zajezdu_166.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hnědé podšálky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak to skončí?",
+      "file": "ucastnici_zajezdu_166.html",
+      "words": 96,
+      "chars": 612,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 164,
+      "prev": "ucastnici_zajezdu_165.html",
+      "next": "ucastnici_zajezdu_167.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak to skončí?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Meditace",
+      "file": "ucastnici_zajezdu_167.html",
+      "words": 307,
+      "chars": 1771,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 165,
+      "prev": "ucastnici_zajezdu_166.html",
+      "next": "ucastnici_zajezdu_168.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Meditace",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jolanina matka to Maxovihodila na papír",
+      "file": "ucastnici_zajezdu_168.html",
+      "words": 1305,
+      "chars": 8637,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 166,
+      "prev": "ucastnici_zajezdu_167.html",
+      "next": "ucastnici_zajezdu_169.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jolanina matka to Maxovihodila na papír",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nedochvilnost",
+      "file": "ucastnici_zajezdu_169.html",
+      "words": 571,
+      "chars": 3693,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 167,
+      "prev": "ucastnici_zajezdu_168.html",
+      "next": "ucastnici_zajezdu_170.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nedochvilnost",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co jim má Jolana říct?",
+      "file": "ucastnici_zajezdu_170.html",
+      "words": 470,
+      "chars": 2815,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 168,
+      "prev": "ucastnici_zajezdu_169.html",
+      "next": "ucastnici_zajezdu_171.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co jim má Jolana říct?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Do stejné řeky",
+      "file": "ucastnici_zajezdu_171.html",
+      "words": 109,
+      "chars": 684,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 169,
+      "prev": "ucastnici_zajezdu_170.html",
+      "next": "ucastnici_zajezdu_172.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Do stejné řeky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Redaktor, autor a text",
+      "file": "ucastnici_zajezdu_172.html",
+      "words": 541,
+      "chars": 3428,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 170,
+      "prev": "ucastnici_zajezdu_171.html",
+      "next": "ucastnici_zajezdu_173.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Redaktor, autor a text",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oskar znovu potvrzujesvůj hezký vztah k dětem!",
+      "file": "ucastnici_zajezdu_173.html",
+      "words": 320,
+      "chars": 2110,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 171,
+      "prev": "ucastnici_zajezdu_172.html",
+      "next": "ucastnici_zajezdu_174.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oskar znovu potvrzujesvůj hezký vztah k dětem!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Happy ending",
+      "file": "ucastnici_zajezdu_174.html",
+      "words": 390,
+      "chars": 2396,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 172,
+      "prev": "ucastnici_zajezdu_173.html",
+      "next": "ucastnici_zajezdu_175.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Happy ending",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Denisino podezření",
+      "file": "ucastnici_zajezdu_175.html",
+      "words": 592,
+      "chars": 3601,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 173,
+      "prev": "ucastnici_zajezdu_174.html",
+      "next": "ucastnici_zajezdu_176.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Denisino podezření",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proč proboha Ukrajinec?(1)",
+      "file": "ucastnici_zajezdu_176.html",
+      "words": 276,
+      "chars": 1720,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 174,
+      "prev": "ucastnici_zajezdu_175.html",
+      "next": "ucastnici_zajezdu_177.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proč proboha Ukrajinec?(1)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max a smrt(1)",
+      "file": "ucastnici_zajezdu_177.html",
+      "words": 311,
+      "chars": 1927,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 175,
+      "prev": "ucastnici_zajezdu_176.html",
+      "next": "ucastnici_zajezdu_178.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max a smrt(1)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proč proboha Ukrajinec?!(2)",
+      "file": "ucastnici_zajezdu_178.html",
+      "words": 146,
+      "chars": 945,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 176,
+      "prev": "ucastnici_zajezdu_177.html",
+      "next": "ucastnici_zajezdu_179.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proč proboha Ukrajinec?!(2)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ona to chápe,ale chápe taky on ji?",
+      "file": "ucastnici_zajezdu_179.html",
+      "words": 253,
+      "chars": 1516,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 177,
+      "prev": "ucastnici_zajezdu_178.html",
+      "next": "ucastnici_zajezdu_180.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ona to chápe,ale chápe taky on ji?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dva zátylky",
+      "file": "ucastnici_zajezdu_180.html",
+      "words": 153,
+      "chars": 967,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 178,
+      "prev": "ucastnici_zajezdu_179.html",
+      "next": "ucastnici_zajezdu_181.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dva zátylky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max jim do hlavy nevidí!",
+      "file": "ucastnici_zajezdu_181.html",
+      "words": 338,
+      "chars": 2078,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 179,
+      "prev": "ucastnici_zajezdu_180.html",
+      "next": "ucastnici_zajezdu_182.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max jim do hlavy nevidí!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Změna vypravěče",
+      "file": "ucastnici_zajezdu_182.html",
+      "words": 399,
+      "chars": 2188,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 180,
+      "prev": "ucastnici_zajezdu_181.html",
+      "next": "ucastnici_zajezdu_183.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Změna vypravěče",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Max a smrt(2)",
+      "file": "ucastnici_zajezdu_183.html",
+      "words": 384,
+      "chars": 2389,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 181,
+      "prev": "ucastnici_zajezdu_182.html",
+      "next": "ucastnici_zajezdu_184.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Max a smrt(2)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A co na točeská literární kritika?",
+      "file": "ucastnici_zajezdu_184.html",
+      "words": 46,
+      "chars": 290,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 182,
+      "prev": "ucastnici_zajezdu_183.html",
+      "next": "ucastnici_zajezdu_185.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A co na točeská literární kritika?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zuzana a ovce",
+      "file": "ucastnici_zajezdu_185.html",
+      "words": 315,
+      "chars": 1773,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 183,
+      "prev": "ucastnici_zajezdu_184.html",
+      "next": "ucastnici_zajezdu_186.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zuzana a ovce",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Inzultace poslance",
+      "file": "ucastnici_zajezdu_186.html",
+      "words": 392,
+      "chars": 2357,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 184,
+      "prev": "ucastnici_zajezdu_185.html",
+      "next": "ucastnici_zajezdu_187.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Inzultace poslance",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A co jsou tedy příběhy?",
+      "file": "ucastnici_zajezdu_187.html",
+      "words": 244,
+      "chars": 1562,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 185,
+      "prev": "ucastnici_zajezdu_186.html",
+      "next": "ucastnici_zajezdu_188.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A co jsou tedy příběhy?",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hnědé podšálky",
+      "file": "ucastnici_zajezdu_188.html",
+      "words": 81,
+      "chars": 516,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 186,
+      "prev": "ucastnici_zajezdu_187.html",
+      "next": "ucastnici_zajezdu_189.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hnědé podšálky",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nečekané drama (už druhé)",
+      "file": "ucastnici_zajezdu_189.html",
+      "words": 216,
+      "chars": 1358,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 187,
+      "prev": "ucastnici_zajezdu_188.html",
+      "next": "ucastnici_zajezdu_190.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nečekané drama (už druhé)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co Maxe na psaní tak přitahuje(ale vážně)",
+      "file": "ucastnici_zajezdu_190.html",
+      "words": 79,
+      "chars": 497,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 188,
+      "prev": "ucastnici_zajezdu_189.html",
+      "next": "ucastnici_zajezdu_191.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co Maxe na psaní tak přitahuje(ale vážně)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co by Hynek bral",
+      "file": "ucastnici_zajezdu_191.html",
+      "words": 139,
+      "chars": 813,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 189,
+      "prev": "ucastnici_zajezdu_190.html",
+      "next": "ucastnici_zajezdu_192.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co by Hynek bral",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maxovo statečné vystoupení",
+      "file": "ucastnici_zajezdu_192.html",
+      "words": 285,
+      "chars": 1778,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 190,
+      "prev": "ucastnici_zajezdu_191.html",
+      "next": "ucastnici_zajezdu_193.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maxovo statečné vystoupení",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bilance",
+      "file": "ucastnici_zajezdu_193.html",
+      "words": 172,
+      "chars": 1073,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 191,
+      "prev": "ucastnici_zajezdu_192.html",
+      "next": "ucastnici_zajezdu_194.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bilance",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je Jolana dobře napsaná?(trochu Kundery)",
+      "file": "ucastnici_zajezdu_194.html",
+      "words": 253,
+      "chars": 1525,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 192,
+      "prev": "ucastnici_zajezdu_193.html",
+      "next": "ucastnici_zajezdu_195.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je Jolana dobře napsaná?(trochu Kundery)",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Loučení s panem Petrescem",
+      "file": "ucastnici_zajezdu_195.html",
+      "words": 152,
+      "chars": 999,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 193,
+      "prev": "ucastnici_zajezdu_194.html",
+      "next": "ucastnici_zajezdu_196.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Loučení s panem Petrescem",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konec",
+      "file": "ucastnici_zajezdu_196.html",
+      "words": 233,
+      "chars": 1336,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 194,
+      "prev": "ucastnici_zajezdu_195.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konec",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 80239,
+      "chars": 493166,
+      "ideas": 4516
+    },
+    "chapters": {
+      "words": 80100,
+      "chars": 492246,
+      "ideas": 4496
+    }
+  }
+}
