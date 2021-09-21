@@ -4,210 +4,224 @@ title: Další tance
 
 1.
 
-JARDA (ukazuje směrem k music-boxu): Už je to tady, mámo! Klouz jór ájz! Poslouchej! Slyšíš? Smím prosit?
+  
 
-JITUŠ (stále uraženě): Polib si.
+> **JARDA** (_ukazuje směrem k music-boxu_): Už je to tady, mámo! Klouz jór ájz! Poslouchej! Slyšíš? Smím prosit?
 
-JARDA: Ale no tak mámo… (Žadoní.) Pojď si trsnout…
+> **JITUŠ** (_stále uraženě_): Polib si.
 
-JITUŠ: Vlez mi na hrb.
+> **JARDA**: Ale no tak mámo… (_Žadoní._) Pojď si trsnout…
 
-JARDA: Pojď na mou hruď, než tam bude plno… Hele, poslouchej… Slyšíš ten náš sladkej ploužák? (Uchopí ji v pase, odvádí ji na parket a hlasitě zpívá.) Klouz jór ááájz mejkeviš…
+> **JITUŠ**: Vlez mi na hrb.
 
-JITUŠ (směje se): Ty si blbej! (Pokládá mu ruce na ramena a tančí.)
+> **JARDA**: Pojď na mou hruď, než tam bude plno… Hele, poslouchej… Slyšíš ten náš sladkej ploužák? (_Uchopí ji v pase, odvádí ji na parket a hlasitě zpívá._) Klouz jór ááájz mejkeviš…
+
+> **JITUŠ** (_směje se_): Ty si blbej! (_Pokládá mu ruce na ramena a tančí._)
 
 2.
 
-MAX (uklání se): Smím prosit?
+  
 
-HELGA (zůstává sedět, podezíravě): Umíte tancovat?
+> **MAX** (_uklání se_): Smím prosit?
 
-MAX: Tedy… základní kroky většiny standardních tanců snad zvládám.
+> **HELGA** (_zůstává sedět, podezíravě_): Umíte tancovat?
 
-HELGA: I slowfox?
+> **MAX**: Tedy… základní kroky většiny standardních tanců snad zvládám.
 
-MAX (znejistí): Slowfox? (Poslouchá hudbu.) Totiž… domníval jsem se, že je to waltz.
+> **HELGA**: I slowfox?
 
-HELGA (pohlédne na Šarlotu, vzdychne): Nikoli, mladý muži, toto je slowfox.
+> **MAX** (_znejistí_): Slowfox? (_Poslouchá hudbu._) Totiž… domníval jsem se, že je to waltz.
 
-MAX (se statečným úsměvem): Nevadí, myslím, že bych mohl zvládnout i slowfox.
+> **HELGA** (_pohlédne na Šarlotu, vzdychne_): Nikoli, mladý muži, toto je slowfox.
 
-HELGA (ironicky): Myslíte – nebo to víte? Mám bércový vřed, víme? Opravdu si nemohu dovolit, aby mi na něj někdo šlápl. Pan primář mi to rozhodně nedoporučil.
+> **MAX** (_se statečným úsměvem_): Nevadí, myslím, že bych mohl zvládnout i slowfox.
 
-MAX (nejistě): Věřím, že se to nestane…
+> **HELGA** (_ironicky_): Myslíte – nebo to víte? Mám bércový vřed, víme? Opravdu si nemohu dovolit, aby mi na něj někdo šlápl. Pan primář mi to rozhodně nedoporučil.
 
-HELGA (posměšně k Šarlotě): On věří…
+> **MAX** (_nejistě_): Věřím, že se to nestane…
 
-MAX: Přísahám, že se to nestane!
+> **HELGA** (_posměšně k Šarlotě_): On věří…
 
-ŠARLOTA (k Helze): Kdyžtak můžu jít já…
+> **MAX**: Přísahám, že se to nestane!
 
-HELGA (rezignovaně k Maxovi): Tak mi aspoň pomožte vstát…
+> **ŠARLOTA** (_k Helze_): Kdyžtak můžu jít já…
 
-Max ji odvádí na parket a pokouší se tančit.
+> **HELGA** (_rezignovaně k Maxovi_): Tak mi aspoň pomožte vstát…
 
-HELGA (otráveně): Tančíte waltz…
+_Max ji odvádí na parket a pokouší se tančit._
 
-MAX: Ale –
+> **HELGA** (_otráveně_): Tančíte waltz…
 
-HELGA: Přesněji řečeno cosi jako waltz…
+> **MAX**: Ale –
 
-MAX: Nechci riskovat, že bych vám šlápl na…
+> **HELGA**: Přesněji řečeno cosi jako waltz…
 
-HELGA: Dobře, dobře… (Přemýšlivě.) Nepřipadají vám ty kroky poněkud monotónní?
+> **MAX**: Nechci riskovat, že bych vám šlápl na…
 
-MAX: Ano, jsou trochu monotónní. Ale na druhé straně jsou bezpečné.
+> **HELGA**: Dobře, dobře… (_Přemýšlivě._) Nepřipadají vám ty kroky poněkud monotónní?
 
-HELGA (sarkasticky): Doufám jenom, že píšete líp, než tancujete…
+> **MAX**: Ano, jsou trochu monotónní. Ale na druhé straně jsou bezpečné.
 
-MAX (směje se): Já taky doufám…
+> **HELGA** (_sarkasticky_): Doufám jenom, že píšete líp, než tancujete…
+
+> **MAX** (_směje se_): Já taky doufám…
 
 3.
 
-IGNÁC: Vstávej, noční motýlku, jdeme tančit! Vpluj do mé náruče a cele se poddej hudbě. Vykroužíme tu spolu křivky tak ladné, až všichni ti toporní heterosexuální rekreanti zblednou závistí…
+  
 
-OSKAR (potěšeně a polekaně zároveň): Nepočkáme ještě…?
+> **IGNÁC**: Vstávej, noční motýlku, jdeme tančit! Vpluj do mé náruče a cele se poddej hudbě. Vykroužíme tu spolu křivky tak ladné, až všichni ti toporní heterosexuální rekreanti zblednou závistí…
 
-IGNÁC: A na co? Na lepší časy? Na lepší vztah společnosti k naší čtyřprocentní menšině? – Tak nekecej a pojď.
+> **OSKAR** (_potěšeně a polekaně zároveň_): Nepočkáme ještě…?
 
-OSKAR (pozoruje Ignáce, vlhnou mu oči): Miluju tě.
+> **IGNÁC**: A na co? Na lepší časy? Na lepší vztah společnosti k naší čtyřprocentní menšině? – Tak nekecej a pojď.
 
-IGNÁC: Já tebe taky. Hlavně ale nebul.
+> **OSKAR** (_pozoruje Ignáce, vlhnou mu oči_): Miluju tě.
 
-OSKAR (zaposlouchá se, pak znovu polekaně): To je ale tango!
+> **IGNÁC**: Já tebe taky. Hlavně ale nebul.
 
-IGNÁC (už netrpělivě): No a?! Copak není úplně jedno, co hrajou?
+> **OSKAR** (_zaposlouchá se, pak znovu polekaně_): To je ale tango!
+
+> **IGNÁC** (_už netrpělivě_): No a?! Copak není úplně jedno, co hrajou?
 
 4.
 
-HYNEK: Chceš jít tancovat?
+  
 
-Zuzana na Hynka pouze mlčky pohlédne.
+> **HYNEK**: Chceš jít tancovat?
 
-HYNEK: Pojď.
+_Zuzana na Hynka pouze mlčky pohlédne._
 
-ZUZANA: Snad radši ani nechci.
+> **HYNEK**: Pojď.
 
-HYNEK (tlumeně, hněvivě): Ježišmarjá, co se zase děje?!
+> **ZUZANA**: Snad radši ani nechci.
 
-ZUZANA: Nic.
+> **HYNEK** (_tlumeně, hněvivě_): Ježišmarjá, co se zase děje?!
 
-HYNEK: Jenomže ono se ti opravdu nic neděje! – Nebo mi teda řekni, jaký konkrétní příkoří se ti děje?
+> **ZUZANA**: Nic.
 
-ZUZANA: No tak asi žádný.
+> **HYNEK**: Jenomže ono se ti opravdu nic neděje! – Nebo mi teda řekni, jaký konkrétní příkoří se ti děje?
 
-Pauza.
+> **ZUZANA**: No tak asi žádný.
 
-HYNEK (naléhavě): Zuzano, prosím tě, nechme toho, dokud je čas. Něco jsme si slíbili… Proboha tě prosím, zkus to dodržet. (Docela tiše.) Byla by to ostatně docela příjemná změna.
+_Pauza._
 
-ZUZANA (s vyčítavým pohledem): Tak vidíš!
+> **HYNEK** (_naléhavě_): Zuzano, prosím tě, nechme toho, dokud je čas. Něco jsme si slíbili… Proboha tě prosím, zkus to dodržet. (_Docela tiše._) Byla by to ostatně docela příjemná změna.
 
-HYNEK: Co jako? Co mám vidět?
+> **ZUZANA** (_s vyčítavým pohledem_): Tak vidíš!
 
-ZUZANA: Že seš to ty, kdo to nedodržuje…
+> **HYNEK**: Co jako? Co mám vidět?
 
-HYNEK: Já že to nedodržuju? Jak konkrétně to nedodržuju?
+> **ZUZANA**: Že seš to ty, kdo to nedodržuje…
 
-ZUZANA: Tím, jak se chováš.
+> **HYNEK**: Já že to nedodržuju? Jak konkrétně to nedodržuju?
 
-HYNEK (udiveně): Jak se chovám?!
+> **ZUZANA**: Tím, jak se chováš.
 
-ZUZANA: No tak těma tvejma ustavičnejma poznámkama.
+> **HYNEK** (_udiveně_): Jak se chovám?!
 
-HYNEK: Jakejma poznámkama?! Řekni mi jednu jedinou konkrétní poznámku, kterou jsem řekl a která je v rozporu s naší dohodou!
+> **ZUZANA**: No tak těma tvejma ustavičnejma poznámkama.
 
-ZUZANA (unaveně): Nechme toho. Nebudeme o ničem mluvit, jo? Pojďme teda tancovat…
+> **HYNEK**: Jakejma poznámkama?! Řekni mi jednu jedinou konkrétní poznámku, kterou jsem řekl a která je v rozporu s naší dohodou!
 
-HYNEK: To se mi snad zdá… Nejdřív mě odmítneš, pak mě vytočíš a teď chceš jít tancovat…
+> **ZUZANA** (_unaveně_): Nechme toho. Nebudeme o ničem mluvit, jo? Pojďme teda tancovat…
 
-ZUZANA (chladně): Jdu na pokoj.
+> **HYNEK**: To se mi snad zdá… Nejdřív mě odmítneš, pak mě vytočíš a teď chceš jít tancovat…
 
-HYNEK: Já se z tebe vážně zcvoknu.
+> **ZUZANA** (_chladně_): Jdu na pokoj.
+
+> **HYNEK**: Já se z tebe vážně zcvoknu.
 
 5.
 
-JAKUB: Pojď si zatancovat.
+  
 
-JÁRA (udiveně): A neposral ses?
+> **JAKUB**: Pojď si zatancovat.
 
-JAKUB: To máš jedno. Holky taky klidně tancujou s holkama.
+> **JÁRA** (_udiveně_): A neposral ses?
 
-JÁRA (k matce): Prej abych s nim šel tancovat…
+> **JAKUB**: To máš jedno. Holky taky klidně tancujou s holkama.
 
-JITUŠ (směje se): Ať si počká támhle na ty dva… (Ukazuje na Ignáce s Oskarem.)
+> **JÁRA** (_k matce_): Prej abych s nim šel tancovat…
 
-JÁRA: Vodpal, buzíku!
+> **JITUŠ** (_směje se_): Ať si počká támhle na ty dva… (_Ukazuje na Ignáce s Oskarem._)
 
-Jakub odchází.
+> **JÁRA**: Vodpal, buzíku!
 
-JITUŠ (ke Kláře, dobrácky): Běž s prckem.
+_Jakub odchází._
 
-KLÁRA: Nejdu!
+> **JITUŠ** (_ke Kláře, dobrácky_): Běž s prckem.
 
-JARDA: Neslyšelas mámu?!
+> **KLÁRA**: Nejdu!
 
-KLÁRA (rozhořčeně): Proč já?!
+> **JARDA**: Neslyšelas mámu?!
 
-JARDA: Sypej!!
+> **KLÁRA** (_rozhořčeně_): Proč já?!
+
+> **JARDA**: Sypej!!
 
 6.
 
-MAX: Máš bércový vřed?
+  
 
-JOLANA: Ne. Jenom hemeroidy a kapavku.
+> **MAX**: Máš bércový vřed?
 
-MAX: Na noze nic nemáš?
+> **JOLANA**: Ne. Jenom hemeroidy a kapavku.
 
-JOLANA: Ne.
+> **MAX**: Na noze nic nemáš?
 
-MAX: Tak pojď tancovat.
+> **JOLANA**: Ne.
 
-Jdou na parket a tančí.
+> **MAX**: Tak pojď tancovat.
 
-JOLANA (pochvalně): Ušlechtilá humanitární akce.
+_Jdou na parket a tančí._
 
-MAX (naoko nechápe): Jaká humanitární akce?
+> **JOLANA** (_pochvalně_): Ušlechtilá humanitární akce.
 
-JOLANA: Žes došel pro Šarlotu, pro Helgu – a teď dokonce i pro mne. Má matka ti to nikdy nezapomene.
+> **MAX** (_naoko nechápe_): Jaká humanitární akce?
 
-MAX (s úsměvem se rozhlíží): Kde mimochodem je?
+> **JOLANA**: Žes došel pro Šarlotu, pro Helgu – a teď dokonce i pro mne. Má matka ti to nikdy nezapomene.
 
-JOLANA: Nejspíš běžela koupit snubní prstýnky. (Hekne námahou.) Tuhle figuru budem dělat často?
+> **MAX** (_s úsměvem se rozhlíží_): Kde mimochodem je?
 
-MAX (pro sebe, zuřivě): Já že prej neumím tančit! (K Jolaně.) Proč?
+> **JOLANA**: Nejspíš běžela koupit snubní prstýnky. (_Hekne námahou._) Tuhle figuru budem dělat často?
 
-JOLANA: Jestli jo, tak bych si skočila pro Travel Gum…
+> **MAX** (_pro sebe, zuřivě_): Já že prej neumím tančit! (_K Jolaně._) Proč?
 
-MAX (vážně, obdivně): Něco ti řeknu: Zbožňuju ženský se smyslem pro humor.
+> **JOLANA**: Jestli jo, tak bych si skočila pro Travel Gum…
 
-JOLANA (s úsměvem): Tak proč teda trávíš všechen čas se slečnou průvodkyní?
+> **MAX** (_vážně, obdivně_): Něco ti řeknu: Zbožňuju ženský se smyslem pro humor.
+
+> **JOLANA** (_s úsměvem_): Tak proč teda trávíš všechen čas se slečnou průvodkyní?
 
 7.
 
-DENISA: Smím prosit? – Nebo smí poslanci tančit jen s manželkami?
+  
 
-HYNEK (překvapeně): Záleží na tom, z které jsou strany… Z které jste vy?
+> **DENISA**: Smím prosit? – Nebo smí poslanci tančit jen s manželkami?
 
-DENISA: Já jsem… nezávislá.
+> **HYNEK** (_překvapeně_): Záleží na tom, z které jsou strany… Z které jste vy?
 
-HYNEK (žertovně): Nezávislá erotická iniciativa?
+> **DENISA**: Já jsem… nezávislá.
 
-DENISA (směje se): Možná…
+> **HYNEK** (_žertovně_): Nezávislá erotická iniciativa?
 
-Odcházejí na parket.
+> **DENISA** (směje se): Možná…
 
-HYNEK: Mimochodem, ona byla dámská volenka?
+_Odcházejí na parket._
 
-DENISA: Jasně. Právě před chvílí ji vyhlásilili.
+> **HYNEK**: Mimochodem, ona byla dámská volenka?
 
-HYNEK (škádlivě): Že jsem nic neslyšel…
+> **DENISA**: Jasně. Právě před chvílí ji vyhlásilili.
 
-DENISA (rovněž škádlivě): Bylo to v italštině – patrně jste to přeslechl.
+> **HYNEK** (_škádlivě_): Že jsem nic neslyšel…
 
-HYNEK: Patrně. Jak se vlastně italsky řekne dámská volenka?
+> **DENISA** (_rovněž škádlivě_): Bylo to v italštině – patrně jste to přeslechl.
 
-DENISA (krátce zaváhá, potom s úsměvem): La elekta feminile.
+> **HYNEK**: Patrně. Jak se vlastně italsky řekne dámská volenka?
 
-HYNEK (s širokým úsměvem): Ach ano, už jsem si také vzpomněl.
+> **DENISA** (_krátce zaváhá, potom s úsměvem_): La elekta feminile.
 
-Bere Denisu kolem ramen a společně tančí.
+> **HYNEK** (_s širokým úsměvem_): Ach ano, už jsem si také vzpomněl.
+
+_Bere Denisu kolem ramen a společně tančí._

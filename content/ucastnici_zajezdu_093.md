@@ -4,13 +4,15 @@ title: To jsou, panečku, kejty!
 
 Pamela v moři hlasitě zavýskla.
 
+  
+
 Krávo, říkala si v duchu Jolana. Sumarizovala právě výhrady, které měla vůči svému obéznímu tělu, což jí pochopitelně na náladě nijak nepřidalo. Vzepřela se na loktech a znovu se přesvědčila, že ten sexuální loudil poněkud pubertálně flirtující s Pamelou je skutečně Max. Od člověka, který si říká spisovatel, by bývala byla očekávala víc. Cítila jisté zklamání. Nedokázala přesně pojmenovat, v čem konkrétně ji Max zklamal, ale byla zklamaná. Snad očekávala, že Max bude jaksi moudřejší. Tak nějak vyrovnanější. Očekávala by, že spisovatelé budou více imunní vůči takovým věcem, jako je kulatý zadek nebo velká ňadra.
 
 Její rodiče se chystali do vody.
 
 „Půjdeš s námi?“ dotazovala se matka.
 
-Očividně se už nemohla dočkat, až začne plnit jednu z hlavních položek projektu Letní rekreace, totiž Časté plavání v moři.
+Očividně se už nemohla dočkat, až začne plnit jednu z hlavních položek projektu _Letní rekreace_, totiž _Časté plavání v moři_.
 
 Jolana si zastínila oči a kritickým zrakem přelétla matčiny kosmetické nedostatky a otcovu bledou tloušťku.
 

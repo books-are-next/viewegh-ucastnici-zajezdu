@@ -4,13 +4,15 @@ title: Maxzobrazuje tělesnou touhu
 
 Max vyhlédl z okna: dole u bazénu zatím nikdo nebyl. Rozhodl se, že si bude venku číst. V hale u baru si objednal kávu a opatrně si ji odnesl na jeden ze stolků pod modrobílými slunečníky. Zdvihl opěradlo lehátka do nejvyšší polohy, posadil se a vychutnával tichou samotu siesty. Usrkával skvělou, silnou kávu a spokojeně si četl – ale když po chvíli zdvihl oči, spatřil na protější straně bazénu Pamelu, vlekoucí obrovské průsvitné nafukovací křeslo.
 
+  
+
 Díky slunečním brýlím mohl i nadále věrohodně předstírat, že si jejího příchodu nevšiml; zatímco černá skla zdánlivě stále mířila mezi stránky otevřené knihy, Maxovy oči nepřestávaly Pamelu sledovat. Postavila křeslo až na samý okraj bazénu a vrátila se k nejbližšímu stolku, kde si postupně odložila žlutou kabelku z umělého lýka, krátkou žlutou sukni a horní díl žlutých plavek. Potom z kabelky vyndala několik sponek, vložila si je do úst, zdvihla obě ruce za hlavu a stočila si vlasy do uzlu, který sponkami upevnila. Náhle na Maxe zpříma pohlédla, ale Max s bušícím srdcem zachoval kamennou tvář a zaujatě obrátil stránku knihy. Pamela začala předstírat nedočkavost či snad ostych a těch několik metrů nazpět k bazénu přešla velmi spěšně.
 
 Její rychlá chůze po tvrdých dlaždicích vzbudila v Maxovi skoro bolestnou tělesnou touhu.
 
 Jenomže jak ji literárně zobrazit? říkal si.
 
-Tutéž otázku si kladl už ve svém předchozím románu: Jak pravdivě a přesvědčivě zobrazit tělesnou touhu – a vyhnout se přitom uslintané pornografii? Jeden literární kritik se později této Maxově otázce veřejně vysmál a ve své obsáhlé studii ji dokonce citoval jako názorný příklad Maxova hovadismu, přičemž – patrně aby si trochu ulehčil svou úlohu – zkrátil při citaci Maxovu otázku o její druhou polovinu. „Inu, na to se nás neptej, milý autore, to je tvoje starost a tvoje řemeslo; zkus to, a my ti řekneme, jak to na nás zapůsobilo,“ vzkazoval Maxovi ironicky.
+Tutéž otázku si kladl už ve svém předchozím románu: Jak pravdivě a přesvědčivě zobrazit tělesnou touhu – a vyhnout se přitom uslintané pornografii? Jeden literární kritik se později této Maxově otázce veřejně vysmál a ve své obsáhlé studii ji dokonce citoval jako názorný příklad Maxova _hovadismu_, přičemž – patrně aby si trochu ulehčil svou úlohu – zkrátil při citaci Maxovu otázku o její druhou polovinu. „Inu, na to se nás neptej, milý autore, to je tvoje starost a tvoje řemeslo; zkus to, a my ti řekneme, jak to na nás zapůsobilo,“ vzkazoval Maxovi ironicky.
 
 Maxovi však zmíněná otázka připadala dodnes zcela legitimní. Tázal se prostě, zda spisovatel může ony tělesné záležitosti úspěšně, to jest přesvědčivě převést do roviny pouhého jazyka, aniž přitom vypočítavě a nevkusně užije slova či obrazy, jež v každém zdravém čtenáři tělesné reakce spolehlivě vyvolají; zároveň se i nadále domníval, že právě takovýmto naoko bezradným autorským dotazováním lze možná vnímavému čtenáři cosi o velikosti a naléhavosti tělesné touhy vcelku kultivovaně naznačit.
 

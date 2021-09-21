@@ -4,6 +4,8 @@ title: Přátelské gesto
 
 Skutečnost, že sedí vedle mladého poslance českého parlamentu, ovšem Maxe nikterak netěšila. Neměl na politiku – a tudíž ani na politiky – náladu. Politikou se musel zabývat prakticky celý minulý rok, když psal pro MF DNES krátké satirické sloupky; chtěli po něm dva týdně. Napsal jich více než šedesát – a nyní měl politiky až po krk. A oni ho jako na potvoru posadí vedle poslance… Jel přece na tenhle zájezd proto, aby si od politiky odpočinul – a ne aby se o ní bavil. Čekalo ho patnáct či kolik hodin cesty, které zamýšlel strávit četbou, spánkem a především tichými úvahami o novém románu – a nikoli debatou o koaličních sporech nebo územně správních celcích. A teď tohle.
 
+  
+
 Naštěstí byl už od začátku ve styku se svým sousedem prozřetelně zdrženlivý a veškerou konverzaci důsledně omezoval na repliky jako: Nevadilo by vám, kdybych maličko přivřel to okno? Poslanec naproti tomu již přinejmenším dvakrát naznačil, že Maxe zná, a očividně se chystal při první vhodné příležitosti představit – ale právě toho se Max bál, a proto neomaleně předstíral, že si žádných takových náznaků nevšiml; toužil onu chvíli, kdy – jak se obával – bude muset začít poslouchat poslancovy názory na novelu zákona o praní špinavých peněz, alespoň co nejvíce oddálit. Momentálně ho špinavé peníze nezajímaly. Ať si špinavé peníze spánembohem pere, kdo chce – on, Max, už s takovými věcmi skončil. Nezajímaly ho už žádné drby z parlamentu, vtipy o rozdílu mezi Bohem a Klausem a otřepané aforismy typu: Věřím jenom statistikám, které si sám zfalšuji; jediné, co Maxe nyní opravdu zajímalo, byl jeho chystaný román.
 
 Román – řečeno s Kunderou – jakožto meditace o lidské existenci prostřednictvím imaginárních postav.

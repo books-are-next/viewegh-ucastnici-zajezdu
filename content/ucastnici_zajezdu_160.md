@@ -4,6 +4,8 @@ title: Ukrajinský sex(2)
 
 Ani tentokrát Jolana z jejich milování mnoho neměla.
 
+  
+
 Zatímco kopuloval, přemýšlela, jak se rusky řekne Ty moc spěcháš: Ty óčeň spjéšiš? Nebo spjecháješ?
 
 Nevěděla.

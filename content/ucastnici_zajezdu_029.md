@@ -4,6 +4,8 @@ title: Rozhovor
 
 Většina cestujících vystoupila.
 
+  
+
 Ignác šel vyhodit plechovku od piva. Oskar mu mlčky přidal tu svoji.
 
 Max pozoroval Ignácova bledá, hubená záda a až trochu komicky vystouplé lopatky; jeho chůze mu připadala legrační a dojemná zároveň.

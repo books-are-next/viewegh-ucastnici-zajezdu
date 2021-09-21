@@ -4,6 +4,8 @@ title: Stojící Helga
 
 „Na chvíli si stoupnu,“ řekla Helga Šarlotě, ale Šarlota jí nerozuměla.
 
+  
+
 „Jsem přesezená, musím si stoupnout,“ zopakovala Helga Šarlotě hlasitě a popuzeně.
 
 Nohy jim otékaly oběma, ale křeče do lýtek dostávala zatím jenom Helga.

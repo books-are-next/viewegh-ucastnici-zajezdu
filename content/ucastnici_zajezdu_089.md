@@ -4,6 +4,8 @@ title: Sice ne žádní intelektuálové,ale zato docela milí lidé
 
 Hynek se znamenitě vyspal a slunečné ráno za okny jeho dobrou náladu ještě umocnilo. Při holení si prozpěvoval, během oblékání žertoval s Jakubem a později u snídaně dokonce i se Zuzanou, takže na pláž odcházeli v atmosféře dlouho nepoznané rodinné pohody.
 
+  
+
 Max, Oskar a Ignác na pláži už byli. Slunečník vedle nich byl zatím neobsazený a Hynek by se byl pod něj rád nastěhoval; Zuzana – nezvykle vstřícná – řekla, že pokud si to Hynek přeje, ráda se prý k oné pánské trojici připojí, přestože osobně by dala přednost společnosti Oliny, Ládi a jejich dvou dětí.
 
 „Nejsou to sice žádní intelektuálové, ale zato jsou to docela milí lidé,“ pravila doslova.

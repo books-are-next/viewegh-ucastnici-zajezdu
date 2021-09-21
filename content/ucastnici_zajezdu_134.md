@@ -4,6 +4,8 @@ title: Krátké štěstí mladého poslance
 
 Hynek sešel do jídelny, pozdravil se s Olgou a s Láďou a rovnou zamířil ke stolu, kde seděly Denisa s Irmou.
 
+  
+
 Denisu příjemně překvapilo, že je sám.
 
 „Nazdárek,“ přivítala ho s úsměvem. „Myslela jsem, že politik se na veřejnosti ukazuje pouze se svou šťastnou rodinkou?“

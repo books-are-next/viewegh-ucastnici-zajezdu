@@ -4,6 +4,8 @@ title: "Zuzana, Hynek a\_masmédia"
 
 Noc byla na postupu.
 
+  
+
 Karel na žádost Jardy a jeho rodiny založil do videa kazetu s českým filmem Slunce, seno a pár facek; přístroj z jakéhosi důvodu zprvu nefungoval, avšak Karlovi se záhy podařilo závadu odstranit. Zuzana (na rozdíl od Hynka a některých dalších účastníků zájezdu) byla ráda: přistihla se totiž, že se bůhvíproč bojí, aby se na obrazovce poté, co obraz naskočí, neobjevil náhle její muž.
 
 Ten pocit jí byl nepříjemný, a když se proto namísto Hynkova obličeje objevily titulky ohlášeného filmu, pocítila jakousi neurčitou úlevu. Hynek se sice v masmédiích ve srovnání s předními politiky neobjevoval nijak příliš často (za celé tři roky jeho kariéry mu vyšlo asi patnáct časopiseckých a novinových rozhovorů, asi desetkrát byl v televizi a několikrát též v rádiu, ale rozptýleno do zmíněných tří let to skutečně nebyla četnost nikterak extrémní), ale Zuzana měla přesto dojem, že její muž je v televizi nebo v novinách pořád.

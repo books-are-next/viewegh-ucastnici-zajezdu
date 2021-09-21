@@ -4,6 +4,8 @@ title: Hnědé podšálky
 
 „Kájo, zastav!“
 
+  
+
 „Teď nemůžu, Karle, tady je zákaz.“
 
 „Povídám ti, zastav!!!“

@@ -4,6 +4,8 @@ title: Nečekané drama
 
 Hned vzápětí Šarlota zděšeně vykřikla.
 
+  
+
 „Co je?“ řekl Karel, aniž se ohlédl.
 
 Volant svíral mnohem pevněji než předtím. Jeho oči rychle pátraly po nějakém nebezpečí. Také účastníci zájezdu se polekaně rozhlíželi v očekávání nějaké strašlivé srážky. Vpředu byl však jen jediný vůz, jehož červená koncová světla se navíc spíše vzdalovala, než přibližovala.

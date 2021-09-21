@@ -4,6 +4,8 @@ title: Jolaně se nedaří usnout
 
 Jolana se rozhodla, že si po tom strašlivém včerejšku odpoledne trochu zdřímne, ale stále se jí nedařilo usnout. Už déle než hodinu jenom upírala oči do zdi a poslouchala tiché bzučení klimatizace.
 
+  
+
 Nakonec se natáhla pro matčinu brožuru Mluvíme s cizinci a začala v ní namátkou listovat.
 
 Pronto soccorso. První pomoc.

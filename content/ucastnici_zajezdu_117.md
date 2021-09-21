@@ -4,6 +4,8 @@ title: Ekonomika pro každého
 
 Krátce po jedenácté se Max vrátil na pokoj.
 
+  
+
 Vysprchoval se a zkoušel si ještě chvíli v posteli číst, ale neustále ho rušily hlasy ze sousedního pokoje, kde se Jarda a Jituš z jakéhosi důvodu vulgárně a především hlasitě hádali o problémech české ekonomiky. Nemohl se na čtení soustředit, a tak knihu odložil, zhasl a snažil se neposlouchat své opilé sousedy.
 
 Po chvíli se mu zdálo, že kdosi krátce zaklepal. Nebyl si jistý, a tak se jen trochu nadzdvihl na polštáři, zatajil dech a s bušícím srdcem naslouchal.

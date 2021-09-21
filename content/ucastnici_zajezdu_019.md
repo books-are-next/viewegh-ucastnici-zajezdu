@@ -4,6 +4,8 @@ title: "Zpráva,která udělala z\_Ignáce vlastence"
 
 Když se palubní mikrofon konečně definitivně odmlčel, Oskar, Ignác i Max se vrátili k rozečteným novinám.
 
+  
+
 „Dobře situované vietnamské dívky se dávají operativně prodlužovat,“ přečetl přátelům Oskar. „Prý doufají, že se tak zvýší jejich šance na společenské uplatnění.“
 
 Max s Ignácem o té zprávě přemýšleli.

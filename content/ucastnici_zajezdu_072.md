@@ -4,6 +4,8 @@ title: Rodiče za tmavým sklem
 
 Jolana konečně také usnula.
 
+  
+
 Když autobus zastavil, otevřela oči: zjistila, že už je ráno a že už jsou v Itálii. Dokonce už svítilo slunce. Ven se jí ale přesto nechtělo – byla unavená. Rozhodla se, že zůstane sedět uvnitř.
 
 „Nechceš jít s námi ven?“ dotazovala se matka tiše, neboť Ukrajinec na vedlejším sedadle stále ještě spal.

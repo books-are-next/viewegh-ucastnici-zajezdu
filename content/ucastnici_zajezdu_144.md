@@ -4,6 +4,8 @@ title: "Proč Maxpíše o\_takových věcech?"
 
 „Proč píšeš o takových věcech?“ vytýkala Maxovi Pamela.
 
+  
+
 „O jakých?“
 
 „O ošklivých,“ řekla Pamela.

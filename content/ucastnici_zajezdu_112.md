@@ -4,6 +4,8 @@ title: Pamelin návrh
 
 Pršelo i po obědě.
 
+  
+
 Většina účastníků zůstala sedět v jídelně. Pamela obešla všechny stoly, aby účastníkům zájezdu osobně vysvětlila, že ona za to špatné počasí opravdu nemůže.
 
 „Dejte si v klidu kafíčko,“ říkala se zářivým úsměvem. „Třeba mezitím přestane.“

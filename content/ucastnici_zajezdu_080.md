@@ -4,6 +4,8 @@ title: Selektivní metoda výběru spolustolovníků
 
 Irma s Denisou už byly také vysprchované i nalíčené a nyní seděly na postelích a přemýšlely, po kolika asi budou stoly v hotelové restauraci. Obě byly jenom v kalhotkách, aby si nezmačkaly šaty.
 
+  
+
 „Myslíš, že po čtyřech?“ pochybovala Irma.
 
 „To nevím,“ řekla Denisa, „ale vím, že jestli budem příštích sedm večerů sedět s těma dvěma šílenejma stařenama, tak mě z toho fakt jebne.“

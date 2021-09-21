@@ -4,6 +4,8 @@ title: Proč proboha Ukrajinec?!(2)
 
 „Ale proč?“ nechápal Jolanino rozhodnutí Hynek. „Chápal bych, že se s ním občas vyspí – ale proč si ho proboha hned bere?“
 
+  
+
 „Jasně,“ řekl vesele Ignác, „kdyby zůstala bez závazků, mohla by se světem mužů a žen pohybovat volně, jako opravdová strážkyně práv svobodné lásky.“
 
 Oskar na Ignáce vyčítavě pohlédl.

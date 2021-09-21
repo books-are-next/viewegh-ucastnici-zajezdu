@@ -4,6 +4,8 @@ title: "Autor a\_jeho čtenářka"
 
 „Promiňte,“ přistoupila k Maxovi průvodkyně se zářivým úsměvem, „mám tu čest?“
 
+  
+
 Co je to za pitomou otázku? napadlo Maxe.
 
 Odkašlal si:

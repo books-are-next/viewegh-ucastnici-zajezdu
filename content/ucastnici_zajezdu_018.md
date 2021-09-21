@@ -4,6 +4,8 @@ title: Hnědé podšálky
 
 „A nyní,“ řekla Pamela, „vám něco řeknou také naši páni řidiči, které bych vám chtěla zároveň představit. Jeden se jmenuje Karel a ten druhý –“ Pamela se šibalsky, ale půvabně rozesmála, „– Karel.“
 
+  
+
 Někteří cestující zatleskali.
 
 „Řekneš jim to ty, Karle?“ řekl mladší Karel.

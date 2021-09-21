@@ -4,6 +4,8 @@ title: Hysterická opatrnost
 
 Jakub si znovu uvědomil, že si teď mnohem líp rozumí s mámou.
 
+  
+
 Začalo to už někdy před rokem, když se ve škole odhlásil z historického kroužku a z Klubu mladého diváka a přihlásil se dvakrát týdně na judo; jemu, Jakubovi, to připadalo jako ta nejrozumnější věc na světě, kterou měl ostatně udělat už dávno, ale táta doslova vyšiloval a ptal se ho, jestli prý mu na vytloukání mozku nestačí časopis Bravo, který mu kupuje máma. Navíc se mohl zbláznit, když zjistil, že judo není ve škole, ale až v té tělocvičně v Riegrových sadech, a že tam bude muset dojíždět. Máma naštěstí úplně klidně řekla, že ho tam bude vozit, a to taky dělala, takže fotříkovi sklaplo. S tou jeho hysterickou opatrností to bylo vážně hrozný – ještě teď se Jakub propadá hanbou, když si vzpomene, že ho táta ještě ve druhý třídě vodil přede všema klukama přes ulici za ruku. Za ruku! Někdy měl fakt pocit, že tátovi v tomhle směru už trochu hrabe – třeba loni v létě na Sázavě, kde všichni ostatní kluci úplně normálně skákali z vyvráceného stromu do řeky, ale on nemohl, dokud táta vlastníma rukama neprohmatal dno, jestli tam prej není nějakej nebezpečnej kůl nebo balvan. Co by panebože dělal kůl v řece? Všichni se mu kvůli tomu smáli. Nebo jednou, když si dělal úkol ze zeměpisu a normálně u toho cucal pastelku, tak se táta z ničeho nic přiřítil, vytrhl mu ji z pusy a zkoumal, jestli prej není toxická. Nebo když si koupí nanuk, tak u toho musí vždycky sedět, aby si prej nevrazil do krku tu dřevěnou štangli. Prostě blázen. Dokonce i máma říkala, že neví, jestli se má smát, nebo brečet, a ona sama uznávala, že je to hysterická opatrnost.
 
 Potom není divu, že při takové výchově nevyroste z člověka normální kluk, ale homosexuál.

@@ -4,6 +4,8 @@ title: Dívka doslova milujícísvou práci
 
 Oskar se dostavil deset minut před stanoveným odjezdem; většina účastníků zájezdu však už způsobně seděla na svých místech.
 
+  
+
 „Už jsem začínala být netrpělivá,“ řekla mu slečna průvodkyně s hranou výčitkou a zářivě se na něho usmála. Oskar rozpačitě pokrčil rameny a očima vyhledal Ignáce s Maxem; zamířil k nim a s postřehnutelnou úlevou se posadil na volné místo vedle Ignáce.
 
 „Sorry,“ otočil se k Maxovi Ignác, „navždy nás spojila láska k hudbě Johna Lennona, nedůvěra v lidi nad třicet a víra ve spravedlivější společenské uspořádání.“

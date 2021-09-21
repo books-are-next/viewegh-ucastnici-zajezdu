@@ -4,6 +4,8 @@ title: Hnědé podšálky
 
 „Jdem si koupit kafčo,“ otočili se k Maxovi Oskar s Ignácem.
 
+  
+
 „Tak já taky,“ řekl Max.
 
 „Ty černošský chcanky,“ řekl Ignác, když procházel uličkou.

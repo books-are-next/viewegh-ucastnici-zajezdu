@@ -4,6 +4,8 @@ title: Dodatečné zapojení Ukrajince
 
 Max si nebyl zcela jist, zda stromy, pod jejichž korunami se s Jolanou ubírá k moři, jsou opravdu pinie; byly vyšší a statnější, než by u pinií očekával. Jejich stín byl příjemný, ale protože kmeny vyrůstaly přímo z úzkého chodníku, zároveň trochu překážely. Vzduch byl již hodně teplý, ale přesto dosud svěží. Starší Italka, která je míjela na kole, se patrně vracela z tržiště, protože v košíku pod řidítky měla několik ryb. Z hotelu Miramare vyšly dvě ženy v pracovních růžových šatech a širokými plastovými hráběmi na dlouhých násadách začaly uhrabávat bílý štěrk na přístupové cestě; řidič projíždějící dodávky je pozdravil mocným zatroubením klaksonu a obě ženy mu na oplátku přátelsky zamávaly. Sousední restaurace Trattoria Gina měla stažené žaluzie; na sluncem spáleném trávníku pod terasou ležela tlustá hnědá kočka a sekala ocasem.
 
+  
+
 V podloubí před obchodem s ovocem a zeleninou potkali Ukrajince, vedle kterého seděla Jolana po cestě z Prahy. Na sobě měl tytéž laciné džínsy, které si Max pamatoval z autobusu, a jakýsi podivný přiléhavý bílý pulovr s krátkým rukávem; stál zády k nim a zaujatě si prohlížel velké avokado.
 
 Jolana mu zaklepala na rameno.
@@ -76,7 +78,7 @@ Jolana tomu prý také zprvu nevěřila, ale po tom všem, co jí říkal, už t
 
 „Tak to mu věřím,“ řekl Max.
 
-Rozhodl se, že pojede pracovat do Čech, pokračovala Jolana. Pět dní stál frontu na pas; první dva dny se střídali s kamarádem po dvanácti hodinách, ale potom jim jakýsi správce fronty střídání zakázal. Když přijel do Prahy, byl prý šťastný, ale dlouho nemohl sehnat pracovní povolení. Asi tři měsíce pracoval na černo, ale musel se pořád vyhýbat šťárám, a tak si pracovní povolení raději koupil. Nyní pracuje jako stavební dělník u jedné české firmy. Dostává dvě stě dolarů měsíčně. Musí pracovat i v sobotu a v neděli, ale je moc spokojený, protože mnozí z čtrnácti Ukrajinců, s nimiž bydlí v jediné místnosti v sokolovně na Zbraslavi, berou o dvacet, nebo i o třicet dolarů méně. Pracuje vždycky dva měsíce a potom jede na týden domů. Příbuzným vozí jídlo a hračky.
+Rozhodl se, že pojede pracovat do Čech, pokračovala Jolana. Pět dní stál frontu na pas; první dva dny se střídali s kamarádem po dvanácti hodinách, ale potom jim jakýsi _správce fronty_ střídání zakázal. Když přijel do Prahy, byl prý šťastný, ale dlouho nemohl sehnat pracovní povolení. Asi tři měsíce pracoval na černo, ale musel se pořád vyhýbat šťárám, a tak si pracovní povolení raději koupil. Nyní pracuje jako stavební dělník u jedné české firmy. Dostává dvě stě dolarů měsíčně. Musí pracovat i v sobotu a v neděli, ale je moc spokojený, protože mnozí z čtrnácti Ukrajinců, s nimiž bydlí v jediné místnosti v sokolovně na Zbraslavi, berou o dvacet, nebo i o třicet dolarů méně. Pracuje vždycky dva měsíce a potom jede na týden domů. Příbuzným vozí jídlo a hračky.
 
 „Dcera jeho sestry je v celé Ovruči jediná, kdo má panenku Barbie,“ řekla Jolana.
 

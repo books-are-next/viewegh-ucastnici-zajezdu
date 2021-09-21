@@ -4,6 +4,8 @@ title: Vkusjako generační otázka
 
 Jolana zavřela dveře, otočila zámkem a s hlubokým povzdechem se posadila na kufr. Svoboda, řekla polohlasem, ale znělo to malátně. Také její obličej zůstával zcela bezdůvodně ve střehu – jako kdyby ji ještě teď mohl někdo pozorovat. Po chvíli vstala a prošla se pokojem – aby si ho v klidu ještě jednou prohlédla a aby se zároveň přesvědčila, že tu skutečně nikdo není. K některým detailům a barevným kombinacím měla jisté estetické výhrady, ale to koneckonců nebylo důležité; důležité bylo, že rodičům se jejich společné dvoupokojové apartmá líbilo.
 
+  
+
 Kdysi dávno se jí líbily stejné věci jako jim, ale později se její a jejich vkus zvolna rozešly. Jolana to cítila zvláště v posledních letech, kdy v domě rodičů přibylo hned několik umělecky nanejvýš sporných obrazů, které si otec i matka přiváželi ze služebních cest – konkrétně měla na mysli ten příšerný zlatý chrám z otcovy cesty do Japonska, ten pestrobarevný email z matčiny právnické mise do Kazachstánu a konečně ten unylý, ale prý neoimpresionistický – tvrdil otec – Montmartre v dešti. Definitivně si to uvědomila teprve nedávno, v den svých třicátých narozenin, kdy od rodičů dostala dřevěnou stojací lampu s bílým froté stínítkem, připomínající – Jolana se ještě i teď uchechtla – cosi jako svítící ručník.
 
 Jim se ale údajně na první pohled líbila.

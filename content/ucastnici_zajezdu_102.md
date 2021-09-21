@@ -4,6 +4,8 @@ title: Suvenýry
 
 Max navštívil Paříž v době, kdy už byl pevně rozhodnut, že se děj jeho příštího románu bude celý odehrávat na zájezdě.
 
+  
+
 Jeho poněkud účelově zjitřené smysly proto od prvního dne poslušně nasávaly atmosféru: Hezkou dívku s cigaretou v ruce, rychle sbíhajícící páchnoucí schody do metra. Zelené uklízeče se zelenými košťaty. Francouze nejrůznějšího věku, zpívající v neděli dopoledne v kostele. Žebráka, kterého ze spánku neprobudilo ani cinknutí mince. Všudypřítomný proud vody podél chodníků, odplavující smetí kamsi do břicha Paříže. Araby v pletených čepicích, postávající nečinně na chodníku. Pouličního umělce, vyrývajícího jméno starší německé turistky na zrnko rýže. Mladého černocha, který si v parku rozpustile přičichl ke kolemjdoucí bílé dívce a kterého jeho starší společník udeřil do hlavy složenými novinami.
 
 A tak dále.
