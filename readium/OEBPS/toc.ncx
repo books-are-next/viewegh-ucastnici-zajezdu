@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:40cec7d8-503d-40e6-b62c-c11e26527888" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Účastníci zájezdu</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Část první CESTA DO LETOVISKA</text>
+      </navLabel>
+      <content src="Text/ucastnici_zajezdu_005.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Ignácův batoh</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_006.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Šarlota se už nedokáže soustředit</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_007.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Denisa a Irma</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_008.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Beach Boy a jeho dcera</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_009.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Maxova pochybnost</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_010.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Kufr</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_011.xhtml#toc_marker-1-6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Pamela</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_012.xhtml#toc_marker-1-7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Poslancovo předsevzetí</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_013.xhtml#toc_marker-1-8"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Proč Maxe vůbec napadlo napsat román, který by se celý odehrávalna turistickém zájezdu?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_014.xhtml#toc_marker-1-9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Chlap přes uličku</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_015.xhtml#toc_marker-1-10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Člověk vedle Jolany</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_016.xhtml#toc_marker-1-11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Dívka doslova milující svou práci</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_017.xhtml#toc_marker-1-12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Hnědé podšálky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_018.xhtml#toc_marker-1-13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Zpráva,která udělala z Ignáce vlastence</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_019.xhtml#toc_marker-1-14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Max je se svým místem v autobuse zatím nadmíru spokojen</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_020.xhtml#toc_marker-1-15"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Hnědé podšálky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_021.xhtml#toc_marker-1-16"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Jituš si čte</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_022.xhtml#toc_marker-1-17"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Max přiděluje jména. Max a Budějovičáci</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_023.xhtml#toc_marker-1-18"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Přátelské gesto</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_024.xhtml#toc_marker-1-19"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Slovní fotbal</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_025.xhtml#toc_marker-1-20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Hysterická opatrnost</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_026.xhtml#toc_marker-1-21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Citát</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_027.xhtml#toc_marker-1-22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Jolanino první zvracení</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_028.xhtml#toc_marker-1-23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Rozhovor</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_029.xhtml#toc_marker-1-24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Philadelphia a ženy v politice</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_030.xhtml#toc_marker-1-25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>První Jakubův problém</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_031.xhtml#toc_marker-1-26"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Odklad</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_032.xhtml#toc_marker-1-27"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Balení intelektuálek</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_033.xhtml#toc_marker-1-28"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Autor a jeho čtenářka</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_034.xhtml#toc_marker-1-29"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Max stewardem</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_035.xhtml#toc_marker-1-30"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Druhý Jakubův problém</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_036.xhtml#toc_marker-1-31"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Slunečnicové pole po levé straně</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_037.xhtml#toc_marker-1-32"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Kdo je pan Petrescu a paní Košťálová?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_038.xhtml#toc_marker-1-33"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>A co na to česká literární kritika?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_039.xhtml#toc_marker-1-34"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Stojící Helga</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_040.xhtml#toc_marker-1-35"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Problém s odstředivou silou</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_041.xhtml#toc_marker-1-36"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Utrpení dvanáctiletého homosexuála</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_042.xhtml#toc_marker-1-37"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Kdo je pan Petrescu a paní Košťálová??</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_043.xhtml#toc_marker-1-38"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Zvuky Jakubovi nevadí</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_044.xhtml#toc_marker-1-39"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Mrkání</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_045.xhtml#toc_marker-1-40"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Rapsodie v modrém</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_046.xhtml#toc_marker-1-41"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Servírky a literatura</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_047.xhtml#toc_marker-1-42"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Max má problémy s citáty</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_048.xhtml#toc_marker-1-43"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Deštivé počasí může dovolenouu moře značně znepříjemnit</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_049.xhtml#toc_marker-1-44"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>Co je trapnýho na tom, zahrát si na chvíli softík?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_050.xhtml#toc_marker-1-45"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Pas v modrém pouzdře</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_051.xhtml#toc_marker-1-46"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Přerušení příběhu: výpravčí</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_052.xhtml#toc_marker-1-47"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Kdo proboha jsou pan Petrescu a paní Košťálová???</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_053.xhtml#toc_marker-1-48"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Zima, zimička</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_054.xhtml#toc_marker-1-49"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Jsou u moře moli?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_055.xhtml#toc_marker-1-50"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Nečekané drama</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_056.xhtml#toc_marker-1-51"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Pohádka na dobrou noc</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_057.xhtml#toc_marker-1-52"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Max experimentuje s formou</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_058.xhtml#toc_marker-1-53"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Dvacet minut je asi málo</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_059.xhtml#toc_marker-1-54"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Kruté zklamání</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_060.xhtml#toc_marker-1-55"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Spojité nádoby</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_061.xhtml#toc_marker-1-56"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Urážlivá diskriminace</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_062.xhtml#toc_marker-1-57"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Zuzana, Hynek a masmédia</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_063.xhtml#toc_marker-1-58"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Max, Hynek a svědomí národa</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_064.xhtml#toc_marker-1-59"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Projekty Jolaniny matky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_065.xhtml#toc_marker-1-60"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Všímavý homosexuál</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_066.xhtml#toc_marker-1-61"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Zachránce</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_067.xhtml#toc_marker-1-62"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Z Šarlotina cestovního deníku</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_068.xhtml#toc_marker-1-63"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Helga by potřebovalaMaxovy nohy</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_069.xhtml#toc_marker-1-64"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>A co na to literární kritika</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_070.xhtml#toc_marker-1-65"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Jací lidé chodí také volit</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_071.xhtml#toc_marker-1-66"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Rodiče za tmavým sklem</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_072.xhtml#toc_marker-1-67"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Hnědé podšálky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_073.xhtml#toc_marker-1-68"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>Část druhá POBYT V LETOVISKU</text>
+      </navLabel>
+      <content src="Text/ucastnici_zajezdu_074.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Did she like that room? – Líbil se jí ten pokoj?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_075.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Vkus jako generační otázka</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_076.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Sentimentalita</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_077.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>A už žádné trojčení</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_078.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Je už Šarlota úplně pitomá?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_079.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>Selektivní metoda výběru spolustolovníků</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_080.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Na místa!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_081.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Kdo je kdo (1)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_082.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>Kdo je kdo (2)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_083.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Žlutej meloun, uzenej losos a máta!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_084.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Ukrajinec, kočka, uklízečka a krab</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_085.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Max, moře a absence myšlenek</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_086.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>A co na to česká literární kritika?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_087.xhtml#toc_marker-2-13"/>
+      </navPoint>
+      <navPoint id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>Maxa racionální předsevzetí</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_088.xhtml#toc_marker-2-14"/>
+      </navPoint>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>Sice ne žádní intelektuálové, ale zato docela milí lidé</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_089.xhtml#toc_marker-2-15"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>Max bojuje s živly</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_090.xhtml#toc_marker-2-16"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>Air-bagy na obou sedadlech</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_091.xhtml#toc_marker-2-17"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>A když přijdou k moři, i skály se jim dvoří</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_092.xhtml#toc_marker-2-18"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>To jsou, panečku, kejty!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_093.xhtml#toc_marker-2-19"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>Problémy se žaluziemi</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_094.xhtml#toc_marker-2-20"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>Maxa metoda proudu vědomí</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_095.xhtml#toc_marker-2-21"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>Citát</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_096.xhtml#toc_marker-2-22"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>Přesný zásah jedlové šišky aneb nezávislý kritik</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_097.xhtml#toc_marker-2-23"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>Citát</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_098.xhtml#toc_marker-2-24"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>Mámivá vůně ibiškových květů</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_099.xhtml#toc_marker-2-25"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>Už zase citát?!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_100.xhtml#toc_marker-2-26"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>Olina, Láďa a kamera</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_101.xhtml#toc_marker-2-27"/>
+      </navPoint>
+      <navPoint id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>Suvenýry</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_102.xhtml#toc_marker-2-28"/>
+      </navPoint>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>Z pohledu kamery</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_103.xhtml#toc_marker-2-29"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>Obměna přátel (1)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_104.xhtml#toc_marker-2-30"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>Kdo jsou pan Petrescu a paní Košťálová???!!! (poslední pokus)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_105.xhtml#toc_marker-2-31"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>Maxova osobnost je tragicky rozpolcena!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_106.xhtml#toc_marker-2-32"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>Max zobrazuje tělesnou touhu</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_107.xhtml#toc_marker-2-33"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>Obměna přátel (2)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_108.xhtml#toc_marker-2-34"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>Honda Accord</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_109.xhtml#toc_marker-2-35"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>Chčije</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_110.xhtml#toc_marker-2-36"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>Rodina v teplém dešti</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_111.xhtml#toc_marker-2-37"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>Pamelin návrh</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_112.xhtml#toc_marker-2-38"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>Před tanečním večerem</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_113.xhtml#toc_marker-2-39"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>Irma a Beach Boy</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_114.xhtml#toc_marker-2-40"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>Nepříjemná absence otázek zjišťovacích</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_115.xhtml#toc_marker-2-41"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>Další tance</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_116.xhtml#toc_marker-2-42"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>Ekonomika pro každého</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_117.xhtml#toc_marker-2-43"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>Mejdan na dvěstěčtrnáctce?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_118.xhtml#toc_marker-2-44"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>Born to be wild</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_119.xhtml#toc_marker-2-45"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>Kam se pořád Ignác tak řítí?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_120.xhtml#toc_marker-2-46"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>Potřebuje Max milenku?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_121.xhtml#toc_marker-2-47"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>Něco, co o sexu vědět nechceme</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_122.xhtml#toc_marker-2-48"/>
+      </navPoint>
+      <navPoint id="navPoint-119" playOrder="119">
+        <navLabel>
+          <text>Co znamená být spisovatelem</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_123.xhtml#toc_marker-2-49"/>
+      </navPoint>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>K některým dalším aspektům milostné předehry</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_124.xhtml#toc_marker-2-50"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>Dva muži a kondom</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_125.xhtml#toc_marker-2-51"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>Trapas</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_126.xhtml#toc_marker-2-52"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>Jsme lidi, nejsme zvířata, že?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_127.xhtml#toc_marker-2-53"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>Když se Max ráno probudil</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_128.xhtml#toc_marker-2-54"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>Renting a car</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_129.xhtml#toc_marker-2-55"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>Nechoď, dcero, na jezero!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_130.xhtml#toc_marker-2-56"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>Dodatečné zapojení Ukrajince</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_131.xhtml#toc_marker-2-57"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>Vzkaz jako literární žánr</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_132.xhtml#toc_marker-2-58"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>K některým aspektům ranní komunikace</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_133.xhtml#toc_marker-2-59"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>Krátké štěstí mladého poslance</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_134.xhtml#toc_marker-2-60"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>Benátky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_135.xhtml#toc_marker-2-61"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>Podobenství o skutečném významu literární kritiky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_136.xhtml#toc_marker-2-62"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>Co řekl Hitchcock Truffautovi</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_137.xhtml#toc_marker-2-63"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>Žlutá vodní kola</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_138.xhtml#toc_marker-2-64"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>Kdo jsou pan Petrescu a paní Košťálová??? (vážně naposledy)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_139.xhtml#toc_marker-2-65"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>Hynek, Zuzana, televize a Denisa</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_140.xhtml#toc_marker-2-66"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>Naprosto normální depka</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_141.xhtml#toc_marker-2-67"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>Jolaně se nedaří usnout</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_142.xhtml#toc_marker-2-68"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>Umění milovat (po patnácti letech)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_143.xhtml#toc_marker-2-69"/>
+      </navPoint>
+      <navPoint id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>Proč Max píše o takových věcech?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_144.xhtml#toc_marker-2-70"/>
+      </navPoint>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>Účastníci a stíhačky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_145.xhtml#toc_marker-2-71"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>Citát</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_146.xhtml#toc_marker-2-72"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>Hádanky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_147.xhtml#toc_marker-2-73"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>Raději bez názvu</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_148.xhtml#toc_marker-2-74"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>Jolana čekající</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_149.xhtml#toc_marker-2-75"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>Ukrajinský sex (1)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_150.xhtml#toc_marker-2-76"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>Jolanina matka má pro Maxe fantastický námět</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_151.xhtml#toc_marker-2-77"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>Co chce Ignác dělat v Římě?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_152.xhtml#toc_marker-2-78"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>Helga a Šarlota stojí před obtížným úkolem</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_153.xhtml#toc_marker-2-79"/>
+      </navPoint>
+      <navPoint id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>It was just a dream</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_154.xhtml#toc_marker-2-80"/>
+      </navPoint>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>Jolanin pragmatismus</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_155.xhtml#toc_marker-2-81"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>Zmarněná příležitost</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_156.xhtml#toc_marker-2-82"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>Taneční hra čepičková a jiné hry</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_157.xhtml#toc_marker-2-83"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>Pravidla Provlékání provázku</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_158.xhtml#toc_marker-2-84"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>Provlékání</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_159.xhtml#toc_marker-2-85"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>Ukrajinský sex (2)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_160.xhtml#toc_marker-2-86"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>Na Maxe padla nečekaná sklíčenost!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_161.xhtml#toc_marker-2-87"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>Náhoda?!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_162.xhtml#toc_marker-2-88"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>Jak minout eden, jenž do těch pekel vede?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_163.xhtml#toc_marker-2-89"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-160" playOrder="160">
+      <navLabel>
+        <text>Část třetí CESTA Z LETOVISKA</text>
+      </navLabel>
+      <content src="Text/ucastnici_zajezdu_164.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>Hnědé podšálky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_165.xhtml#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>Jak to skončí?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_166.xhtml#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>Meditace</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_167.xhtml#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>Jolanina matka to Maxovi hodila na papír</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_168.xhtml#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>Nedochvilnost</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_169.xhtml#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>Co jim má Jolana říct?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_170.xhtml#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>Do stejné řeky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_171.xhtml#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>Redaktor, autor a text</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_172.xhtml#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>Oskar znovu potvrzuje svůj hezký vztah k dětem!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_173.xhtml#toc_marker-3-9"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>Happy ending</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_174.xhtml#toc_marker-3-10"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>Denisino podezření</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_175.xhtml#toc_marker-3-11"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>Proč proboha Ukrajinec? (1)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_176.xhtml#toc_marker-3-12"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>Max a smrt (1)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_177.xhtml#toc_marker-3-13"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>Proč proboha Ukrajinec?! (2)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_178.xhtml#toc_marker-3-14"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>Ona to chápe,ale chápe taky on ji?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_179.xhtml#toc_marker-3-15"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>Dva zátylky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_180.xhtml#toc_marker-3-16"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>Max jim do hlavy nevidí!</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_181.xhtml#toc_marker-3-17"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>Změna vypravěče</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_182.xhtml#toc_marker-3-18"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>Max a smrt (2)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_183.xhtml#toc_marker-3-19"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>A co na to česká literární kritika?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_184.xhtml#toc_marker-3-20"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>Zuzana a ovce</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_185.xhtml#toc_marker-3-21"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>Inzultace poslance</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_186.xhtml#toc_marker-3-22"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>A co jsou tedy příběhy?</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_187.xhtml#toc_marker-3-23"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>Hnědé podšálky</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_188.xhtml#toc_marker-3-24"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>Nečekané drama (už druhé)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_189.xhtml#toc_marker-3-25"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>Co Maxe na psaní tak přitahuje (ale vážně)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_190.xhtml#toc_marker-3-26"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>Co by Hynek bral</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_191.xhtml#toc_marker-3-27"/>
+      </navPoint>
+      <navPoint id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>Maxovo statečné vystoupení</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_192.xhtml#toc_marker-3-28"/>
+      </navPoint>
+      <navPoint id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>Bilance</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_193.xhtml#toc_marker-3-29"/>
+      </navPoint>
+      <navPoint id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>Je Jolana dobře napsaná? (trochu Kundery)</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_194.xhtml#toc_marker-3-30"/>
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>Loučení s panem Petrescem</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_195.xhtml#toc_marker-3-31"/>
+      </navPoint>
+      <navPoint id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>Konec</text>
+        </navLabel>
+        <content src="Text/ucastnici_zajezdu_196.xhtml#toc_marker-3-32"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
