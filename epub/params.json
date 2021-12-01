@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Účastníci zájezdu",
@@ -6,7 +7,9 @@
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-21T12:10:35.433Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven1-cast MLP-uroven2-kapitola ",
@@ -32,7 +35,7 @@
         "filename": "ucastnici_zajezdu_001.md",
         "xhtml": "ucastnici_zajezdu_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -3468,3 +3471,4 @@
     "generatedAt": 1632230181196
   }
 }
+
