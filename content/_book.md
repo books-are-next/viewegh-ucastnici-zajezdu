@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-21T12:10:35.433Z'
   languageCode: cs
-chapters:
-  - ucastnici_zajezdu_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - ucastnici_zajezdu_002.html
   - ucastnici_zajezdu_003.html
   - ucastnici_zajezdu_005.html
@@ -205,6 +206,7 @@ chapters:
   - ucastnici_zajezdu_194.html
   - ucastnici_zajezdu_195.html
   - ucastnici_zajezdu_196.html
+  - colophon.html
 tocBase:
   - link: ucastnici_zajezdu_005.html
     title: Část první CESTA DO LETOVISKA
@@ -347,7 +349,6 @@ tocBase:
         title: Rodiče za tmavým sklem
       - link: ucastnici_zajezdu_073.html
         title: Hnědé podšálky
-    numberedChildren: false
   - link: ucastnici_zajezdu_074.html
     title: Část druhá POBYTV LETOVISKU
     children:
@@ -529,7 +530,6 @@ tocBase:
         title: Náhoda?!
       - link: ucastnici_zajezdu_163.html
         title: Jak minout eden, jenž do těch pekel vede?
-    numberedChildren: false
   - link: ucastnici_zajezdu_164.html
     title: Část třetí CESTAZ LETOVISKA
     children:
@@ -597,12 +597,12 @@ tocBase:
         title: Loučení s panem Petrescem
       - link: ucastnici_zajezdu_196.html
         title: Konec
-    numberedChildren: false
 static:
   - style
   - scripts
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
