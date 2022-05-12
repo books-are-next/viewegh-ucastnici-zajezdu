@@ -1,5 +1,6 @@
 ---
 title: Co znamená být spisovatelem
+contentType: prose
 ---
 
 _„Být spisovatelem představuje náročnou souhru mezi velmi  

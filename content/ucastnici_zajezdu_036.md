@@ -1,5 +1,6 @@
 ---
 title: Druhý Jakubův problém
+contentType: prose
 ---
 
 Nagy do Jakubovy třídy propadl. Za dobu své školní docházky propadl ostatně už několikrát. Bylo mu už čtrnáct, takže byl o tři roky starší a o hlavu větší než Jakub a jeho spolužáci. Měl už kompletně ochlupené přirození, takže ve věcech sexu byl ve třídě jednoznačně nejvyšší autorita.

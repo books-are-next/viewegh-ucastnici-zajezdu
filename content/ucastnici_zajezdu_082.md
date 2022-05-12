@@ -1,5 +1,6 @@
 ---
 title: Kdo je kdo(1)
+contentType: prose
 ---
 
 Jestliže toto obnovení tradičního zvyku někdejších odborářských rekreací většinu přítomných řekněme poněkud zaskočilo, pak Max jím byl upřímně vyděšen. Měl už své postavy dávno vybrané, jejich charaktery přinejmenším solidně nahozené, a dokonce všem pracně přidělil i jakžtakž obstojná jména – a teď mu to ta holka celé rozbourá!

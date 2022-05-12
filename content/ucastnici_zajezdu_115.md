@@ -1,5 +1,6 @@
 ---
 title: Nepříjemná absenceotázek zjišťovacích
+contentType: prose
 ---
 
 Jolanina matka si všimla, že Jolana tančí s Hynkem. Několikrát se po nich ohlédla: Hynek Jolaně cosi vyprávěl; zdálo se, že se oba dva vcelku dobře baví.

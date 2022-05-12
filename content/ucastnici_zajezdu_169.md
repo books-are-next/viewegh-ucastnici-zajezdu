@@ -1,5 +1,6 @@
 ---
 title: Nedochvilnost
+contentType: prose
 ---
 
 „Nastupovat!“ volala vesele Pamela na konci první zastávky.

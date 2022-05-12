@@ -1,5 +1,6 @@
 ---
 title: Sice ne žádní intelektuálové,ale zato docela milí lidé
+contentType: prose
 ---
 
 Hynek se znamenitě vyspal a slunečné ráno za okny jeho dobrou náladu ještě umocnilo. Při holení si prozpěvoval, během oblékání žertoval s Jakubem a později u snídaně dokonce i se Zuzanou, takže na pláž odcházeli v atmosféře dlouho nepoznané rodinné pohody.

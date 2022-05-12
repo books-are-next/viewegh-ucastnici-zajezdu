@@ -1,5 +1,6 @@
 ---
 title: "Deštivé počasí může dovolenouu\_moře značně znepříjemnit"
+contentType: prose
 ---
 
 _Odehrává se u jednoho z modrých stolů v motorestu Aral._

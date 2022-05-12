@@ -1,5 +1,6 @@
 ---
 title: To jsou, panečku, kejty!
+contentType: prose
 ---
 
 Pamela v moři hlasitě zavýskla.

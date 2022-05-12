@@ -1,5 +1,6 @@
 ---
 title: "Loučení s\_panem Petrescem"
+contentType: prose
 ---
 
 „Dovolíte?“ řekl dvorně Max a odnesl paní Košťálové kufr do taxíku.

@@ -1,5 +1,6 @@
 ---
 title: "Max experimentuje s\_formou"
+contentType: prose
 ---
 
 Kritika Pameliny pohádky přivedla ovšem Maxe k jeho vlastnímu textu. Nyní v duchu znepokojeně přemýšlel, zda onen do značné míry tradiční vypravěčský způsob, který si pro svůj román z prostředí autobusového zájezdu bez velkého přemýšlení zvolil, je skutečně ideální. Kdykoli se totiž snažil popsat kupříkladu nějaký objekt, jenž některá z jeho postav v určité chvíli pozoruje z okna, musel si – ač nerad – přiznat, že ani ten nejvěrnější realistický popis onu sugestivní dynamiku rychlé jízdy a stejně rychle ubíhající krajiny zachytit nedokáže.

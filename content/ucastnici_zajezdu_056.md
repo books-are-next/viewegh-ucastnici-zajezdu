@@ -1,5 +1,6 @@
 ---
 title: Nečekané drama
+contentType: prose
 ---
 
 Hned vzápětí Šarlota zděšeně vykřikla.

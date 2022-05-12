@@ -1,5 +1,6 @@
 ---
 title: Citát
+contentType: prose
 ---
 
 _„Udělal byste dobře, kdybyste odejel, raději dnes než zítra.“_

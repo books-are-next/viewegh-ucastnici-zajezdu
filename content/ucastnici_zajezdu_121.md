@@ -1,5 +1,6 @@
 ---
 title: Potřebuje Max milenku?
+contentType: prose
 ---
 
 Když se vrátil do pokoje, všiml si, že Denisa s Hynkem odešli. Ignác usnul. Irma brečela v koupelně.

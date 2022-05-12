@@ -1,5 +1,6 @@
 ---
 title: Ignácův batoh
+contentType: prose
 ---
 
 První, koho Max spatřil, byl Ignác.

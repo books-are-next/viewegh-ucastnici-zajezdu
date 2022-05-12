@@ -1,5 +1,6 @@
 ---
 title: Projekty Jolaniny matky
+contentType: prose
 ---
 
 Když autobus krátce před třetí v noci zastavil na malém, špatně osvětleném parkovišti kdesi v horách, většina cestujících spala.

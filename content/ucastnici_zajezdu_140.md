@@ -1,5 +1,6 @@
 ---
 title: "Hynek, Zuzana, televizea\_Denisa"
+contentType: prose
 ---
 
 Hynek s Denisou po cestě do hotelu mluvili o televizi.

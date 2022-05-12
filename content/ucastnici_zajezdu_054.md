@@ -1,5 +1,6 @@
 ---
 title: Zima, zimička
+contentType: prose
 ---
 
 Světlo měklo a zlátlo a řidiči protijedoucích vozů postupně rozsvěcovali reflektory.

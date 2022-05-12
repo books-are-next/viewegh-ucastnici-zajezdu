@@ -1,5 +1,6 @@
 ---
 title: Jolanino první zvracení
+contentType: prose
 ---
 
 Jolana si vzala druhý Travel Gum okamžitě poté, co ucítila důvěrně známé příznaky přicházející nevolnosti.

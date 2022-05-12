@@ -1,5 +1,6 @@
 ---
 title: "Účastníci a\_stíhačky"
+contentType: prose
 ---
 
 Stíhačky se nad pláží pravidelně objevovaly už v minulých dnech, ale v druhé polovině týdne se intenzita jejich přeletů několikanásobně zvýšila; dunivý zvuk motorů se nyní z oblohy snášel někdy i třikrát v průběhu jediné hodiny. V novinách sice psali, že jde o pravidelné a plánované kontrolní lety nad bosenským územím, ale Šarlota s Helgou přesto vzhlížely k burácejícímu nebi s jakýmsi podezíravým znepokojením; Helga si dokonce Pamele několikrát stěžovala – jako by předpokládala, že pravomoc mladičké průvodkyně dosahuje až do hlavního stanu štábu NATO – že ji ta letadla strašlivě rozčilují.

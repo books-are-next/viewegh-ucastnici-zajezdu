@@ -1,5 +1,6 @@
 ---
 title: Proč proboha Ukrajinec?!(2)
+contentType: prose
 ---
 
 „Ale proč?“ nechápal Jolanino rozhodnutí Hynek. „Chápal bych, že se s ním občas vyspí – ale proč si ho proboha hned bere?“

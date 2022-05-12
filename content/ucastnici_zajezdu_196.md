@@ -1,5 +1,6 @@
 ---
 title: Konec
+contentType: prose
 ---
 
 Dveře taxíku bouchly.

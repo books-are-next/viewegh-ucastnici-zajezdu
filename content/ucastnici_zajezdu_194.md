@@ -1,5 +1,6 @@
 ---
 title: Je Jolana dobře napsaná?(trochu Kundery)
+contentType: prose
 ---
 
 Jolanin otec s námahou vytahoval kufry ze zavazadlového prostoru. Potil se, supěl a vůbec nevypadal dobře. Jolana mu chtěla největší kufr odebrat, ale on její pomoc podrážděně odmítl.

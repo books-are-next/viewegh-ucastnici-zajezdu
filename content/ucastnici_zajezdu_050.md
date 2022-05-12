@@ -1,5 +1,6 @@
 ---
 title: Co je trapnýho na tom,zahrát si na chvíli softík?
+contentType: prose
 ---
 
 „Ta holka je naprosto bezprecedentní,“ řekla Denisa.

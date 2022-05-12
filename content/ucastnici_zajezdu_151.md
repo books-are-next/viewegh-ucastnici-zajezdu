@@ -1,5 +1,6 @@
 ---
 title: Jolanina matka má pro Maxefantastický námět
+contentType: prose
 ---
 
 Přestože šel Max spát nezvykle brzy, nebyl ráno vůbec schopen vstát; zmeškal dokonce i snídani. Když konečně z postele vylezl, zbývalo do oběda už jen půl druhé hodiny. Nerozhodně pohlédl z okna: Aschenbach, s rukama sepjatýma v klíně, se díval ven, spokojen, že je zase tady, potřásaje nespokojeně hlavou nad vlastní kolísavostí, nad tím, že neví, co chce. Nemělo smysl chodit na pláž, a tak si řekl, že zbytek dopoledne stráví u hotelového bazénu.

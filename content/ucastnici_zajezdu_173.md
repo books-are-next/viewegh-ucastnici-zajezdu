@@ -1,5 +1,6 @@
 ---
 title: "Oskar znovu potvrzujesvůj hezký vztah k\_dětem!"
+contentType: prose
 ---
 
 Účastníci zájezdu po pohádce postupně usínali.

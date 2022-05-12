@@ -1,5 +1,6 @@
 ---
 title: "K\_některým dalším aspektůmmilostné předehry"
+contentType: prose
 ---
 
 Denisa odemkla, rozsvítila a rovnou se šla sprchovat.

@@ -1,5 +1,6 @@
 ---
 title: Jituš si čte
+contentType: prose
 ---
 
 Jituš se rozhodla, že si bude číst, ale nejprve si do kapsy na zadní straně sedadla před sebou uložila walkman, dvě kazety, tři osvěžující hygienické ubrousky, jedny pepermintové bonbony bez cukru a publikaci Anglicky za tři měsíce. Ještě si nafoukla nafukovací cestovní polštářek a řekla Jardovi, aby ho zatím hodil nahoru do síťky na zavazadla. Přemýšlela, jestli už se má převléknout – proud vzduchu z klimatizace ji totiž trochu studil na nahých kolenou – ale nakonec si přes kolena pouze přehodila svetr; řekla si, že teď, dokud je teplo, zůstane v kraťasech a do šusťákové soupravy se převlékne teprve večer, až se ochladí. Autobus najel na dálnici a do očí jí začalo nepříjemně svítit slunce. Řekla proto Jardovi, aby jí z cestovní kabely vyndal sluneční brýle, a nasadila si je. Vzala si rozečtený Magazín Blesku, ale po chvíli listování přerušila, protože pravé rameno měla od slunce celé rozpálené. Zeptala se Jardy, jestli by se s tím sluncem nedalo něco udělat. Jarda vzdychl a stáhl dolů olivově zelenou roletu na okně.

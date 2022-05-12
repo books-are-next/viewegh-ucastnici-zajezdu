@@ -1,5 +1,6 @@
 ---
 title: Ukrajinský sex(2)
+contentType: prose
 ---
 
 Ani tentokrát Jolana z jejich milování mnoho neměla.

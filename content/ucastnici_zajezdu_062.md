@@ -1,5 +1,6 @@
 ---
 title: Urážlivá diskriminace
+contentType: prose
 ---
 
 Hned po paní Košťálové se dostavili Oskar s Ignácem.

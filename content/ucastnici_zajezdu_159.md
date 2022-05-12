@@ -1,5 +1,6 @@
 ---
 title: Provlékání
+contentType: prose
 ---
 
 1.

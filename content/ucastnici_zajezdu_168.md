@@ -1,5 +1,6 @@
 ---
 title: Jolanina matka to Maxovihodila na papír
+contentType: prose
 ---
 
 „Milý Maxi, příběh, který Vám chci vyprávět, by se mohl jmenovat Co si kdo zaseje, to také sklidí. Začal na jaře roku 1988, v jedné velké továrně v jednom v malém městečku. Je to velmi smutný příběh, takže by z něj mohl být dobrý humoristický román,“ četl Max.

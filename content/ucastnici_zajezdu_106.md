@@ -1,5 +1,6 @@
 ---
 title: Maxova osobnostje tragicky rozpolcena!
+contentType: prose
 ---
 
 Max chtěl během odpolední siesty psát, ale namísto toho během odpolední siesty dvakrát onanoval.

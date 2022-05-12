@@ -1,5 +1,6 @@
 ---
 title: Nečekané drama (už druhé)
+contentType: prose
 ---
 
 Převlékání pod stanem tentokrát Helze a Šarlotě trvalo nezvykle dlouho.

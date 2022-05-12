@@ -1,5 +1,6 @@
 ---
 title: Dívka doslova milujícísvou práci
+contentType: prose
 ---
 
 Oskar se dostavil deset minut před stanoveným odjezdem; většina účastníků zájezdu však už způsobně seděla na svých místech.

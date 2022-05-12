@@ -1,5 +1,6 @@
 ---
 title: "Renting a\_car"
+contentType: prose
 ---
 
 Jakub chtěl, aby si vypůjčili nějakou pořádnou, silnou káru, minimálně dvoulitr, ale matka ho požádala, aby se laskavě vzpamatoval. Byla naopak ráda, když zjistila, že před půjčovnou aut stojí mimo jiné i dva Opely Corsa, neboť s vozem téže značky jezdila už druhý rok v práci.

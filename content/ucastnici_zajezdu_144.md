@@ -1,5 +1,6 @@
 ---
 title: "Proč Maxpíše o\_takových věcech?"
+contentType: prose
 ---
 
 „Proč píšeš o takových věcech?“ vytýkala Maxovi Pamela.

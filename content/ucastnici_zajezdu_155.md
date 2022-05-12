@@ -1,5 +1,6 @@
 ---
 title: Jolanin pragmatismus
+contentType: prose
 ---
 
 Jolanin otec už po obědě na pláž nešel.

@@ -1,5 +1,6 @@
 ---
 title: Šarlota se už nedokážesoustředit
+contentType: prose
 ---
 
 Helga byla unavená.

@@ -1,5 +1,6 @@
 ---
 title: "Redaktor, autor a\_text"
+contentType: prose
 ---
 
 Stmívalo se. Karel už před chvílí rozsvítil reflektory.

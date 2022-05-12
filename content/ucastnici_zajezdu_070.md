@@ -1,5 +1,6 @@
 ---
 title: "A\_co na to literární kritika"
+contentType: prose
 ---
 
 _„Ale nad tvou nevychovaností se, milý autore, nebudeme rozčilovat, to nepatří do oboru literární kritiky.“_

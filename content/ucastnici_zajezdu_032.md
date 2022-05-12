@@ -1,5 +1,6 @@
 ---
 title: Odklad
+contentType: prose
 ---
 
 „Zaházíme si?“ řekla Irma.

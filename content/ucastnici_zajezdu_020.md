@@ -1,5 +1,6 @@
 ---
 title: "Max je se svým místem v\_autobuse zatím nadmíru spokojen"
+contentType: prose
 ---
 
 Max znovu krátce pohlédl na mladého muže po své pravici; jeho manželka, sedící se synem za nimi, ho oslovovala Hynku. Na Maxův pozdrav odpověděl před chvílí až nápadně srdečně, ale Max si stále nemohl vzpomenout, odkud Hynka zná. Rozhodl se však, že mu nebude klást vůbec žádné otázky, aby s ním pak nedejbože nemusel celou cestu konverzovat. Byl sice obvykle považován za člověka společenského, nicméně sám věděl nejlíp, že jeho takzvaná společenskost je nanejvýš rozmarná mašina, která rozhodně nenaskočí pokaždé, a pokud ano, pak se nejdéle do dvou hodin zadře.

@@ -1,5 +1,6 @@
 ---
 title: "Kdo jsou pan Petrescua\_paní Košťálová???!!!(poslední pokus)"
+contentType: prose
 ---
 
 Max už sice problém s postavami pana Petresca a paní Košťálové považoval za vyřešený, ale když je při návratu z pláže potkal na pobřežní promenádě, nedalo mu to a ještě jednou se pokusil vyzvědět, co jsou zač. Rozhodl se, že tentokrát na to půjde rafinovanou oklikou.

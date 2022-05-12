@@ -1,5 +1,6 @@
 ---
 title: Dvacet minut je asi málo
+contentType: prose
 ---
 
 Přítomnost více než dvou desítek zájezdových autobusů na přeplněném parkovišti u benzinového čerpadla dávala tušit, že fronta před dámskou toaletou bude tentokrát ještě delší než obvykle.

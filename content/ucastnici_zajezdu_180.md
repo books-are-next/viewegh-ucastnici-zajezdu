@@ -1,5 +1,6 @@
 ---
 title: Dva zátylky
+contentType: prose
 ---
 
 Max mezitím pozoroval zátylky dvou starších manželů, kteří seděli o dvě sedadla před ním. Mužovy vlasy byly dost řídké a na temeni mu už zřetelně prosvítala počínající pleš. Její vlasy nebyly o nic lepší – kdysi dávno obarvené do kaštanova, nyní u kořínků už opět prošedivěle bezvýrazné; nevhodně zvolený krátký účes navíc zbytečně odhaloval její ochablý, tučný krk.

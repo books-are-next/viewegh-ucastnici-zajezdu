@@ -1,5 +1,6 @@
 ---
 title: Meditace
+contentType: prose
 ---
 
 Pavlík s Petříkem byli zmoženi dlouhým posledním koupáním a brzy poté, co se autobus rozjel, oba usnuli.

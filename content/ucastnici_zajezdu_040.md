@@ -1,5 +1,6 @@
 ---
 title: Stojící Helga
+contentType: prose
 ---
 
 „Na chvíli si stoupnu,“ řekla Helga Šarlotě, ale Šarlota jí nerozuměla.

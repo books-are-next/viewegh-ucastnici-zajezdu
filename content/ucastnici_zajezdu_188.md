@@ -1,5 +1,6 @@
 ---
 title: Hnědé podšálky
+contentType: prose
 ---
 
 „Kájo, zastav!“

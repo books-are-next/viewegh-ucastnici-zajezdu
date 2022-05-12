@@ -1,5 +1,6 @@
 ---
 title: "Max má problémy s\_citáty"
+contentType: prose
 ---
 
 Max byl odjakživa zvyklý číst knihy s tužkou v ruce a věty, které ho něčím zaujmou, si vypisovat: především ty o literatuře a o psaní, ale i nejrůznější vtipné nebo chytré úvahy a postřehy o životě vůbec.

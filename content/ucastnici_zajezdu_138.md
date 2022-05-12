@@ -1,5 +1,6 @@
 ---
 title: Žlutá vodní kola
+contentType: prose
 ---
 
 Neočekávanou změnu Hynkovy podivně sentimentální nálady způsobila až – světe, div se – šlapací vodní kola.

@@ -1,5 +1,6 @@
 ---
 title: Bilance
+contentType: prose
 ---
 
 Autobus se blížil k Praze. Sídliště na periferii už bylo na dohled, ale ještě stále tu všichni byli:

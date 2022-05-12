@@ -1,5 +1,6 @@
 ---
 title: Změna vypravěče
+contentType: prose
 ---
 
 Ovce se nudila.

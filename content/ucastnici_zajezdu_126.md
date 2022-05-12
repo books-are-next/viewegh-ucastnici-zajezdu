@@ -1,5 +1,6 @@
 ---
 title: Trapas
+contentType: prose
 ---
 
 Pamela seděla v jednom z křesel na odpočívadle.

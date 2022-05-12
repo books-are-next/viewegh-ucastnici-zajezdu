@@ -1,5 +1,6 @@
 ---
 title: Vzkaz jako literární žánr
+contentType: prose
 ---
 
 Hynek se probudil krátce po půl deváté. Max v pokoji nebyl. Přičichl si k prstům a ucítil Denisino pohlaví.

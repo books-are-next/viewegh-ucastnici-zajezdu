@@ -1,5 +1,6 @@
 ---
 title: Suvenýry
+contentType: prose
 ---
 
 Max navštívil Paříž v době, kdy už byl pevně rozhodnut, že se děj jeho příštího románu bude celý odehrávat na zájezdě.

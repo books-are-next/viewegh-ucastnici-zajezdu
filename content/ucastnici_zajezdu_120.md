@@ -1,5 +1,6 @@
 ---
 title: Kam se pořád Ignáctak řítí?
+contentType: prose
 ---
 
 Jolana otce po půlnoci doprovodila na pokoj, ale sama se ještě vrátila a sedla si vedle Maxe.

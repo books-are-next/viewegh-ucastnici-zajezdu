@@ -1,5 +1,6 @@
 ---
 title: Jací lidé chodí také volit
+contentType: prose
 ---
 
 Po obvodu parkoviště stály bytelné dřevěné stoly; Max se s kávou posadil za nejbližší z nich. Teprve poté si všiml, že z nedalekého odpadkového koše přetéká na zem obvyklá změť zbytků jídel, zmuchlaných ubrousků, plechovek od coca-coly, obalů od nanuků, starých časopisů, pecek od broskví a cigaret.

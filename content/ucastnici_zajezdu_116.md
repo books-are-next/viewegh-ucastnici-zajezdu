@@ -1,5 +1,6 @@
 ---
 title: Další tance
+contentType: prose
 ---
 
 1.

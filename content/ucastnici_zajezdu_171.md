@@ -1,5 +1,6 @@
 ---
 title: Do stejné řeky
+contentType: prose
 ---
 
 „Mohly bychom si jít zítra zaházet,“ navrhla Denisa opatrně.

@@ -1,5 +1,6 @@
 ---
 title: Vkusjako generační otázka
+contentType: prose
 ---
 
 Jolana zavřela dveře, otočila zámkem a s hlubokým povzdechem se posadila na kufr. Svoboda, řekla polohlasem, ale znělo to malátně. Také její obličej zůstával zcela bezdůvodně ve střehu – jako kdyby ji ještě teď mohl někdo pozorovat. Po chvíli vstala a prošla se pokojem – aby si ho v klidu ještě jednou prohlédla a aby se zároveň přesvědčila, že tu skutečně nikdo není. K některým detailům a barevným kombinacím měla jisté estetické výhrady, ale to koneckonců nebylo důležité; důležité bylo, že rodičům se jejich společné dvoupokojové apartmá líbilo.

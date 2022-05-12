@@ -1,5 +1,6 @@
 ---
 title: "Z\_pohledu kamery"
+contentType: prose
 ---
 
 _1\. obraz_:

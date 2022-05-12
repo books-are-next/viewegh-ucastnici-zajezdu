@@ -1,5 +1,6 @@
 ---
 title: Hádanky
+contentType: prose
 ---
 
 „Ty ještě někam jdeš?“ řekla Jolanina matka, když krátce před devátou nakoukla do Jolanina pokoje a viděla, že se Jolana obléká. „Takhle pozdě?“

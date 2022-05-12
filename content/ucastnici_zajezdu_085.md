@@ -1,5 +1,6 @@
 ---
 title: "Ukrajinec, kočka, uklízečkaa\_krab"
+contentType: prose
 ---
 
 Oleg se probudil – tak jak byl za poslední rok v Praze navyklý – v půl šesté. Škvírou mezi závěsy už prosvítalo ranní světlo; otočil se k oknu zády, ale usnout se mu už stejně nepodařilo. Vstal, rozhrnul závěsy a otevřel okno dokořán. Ačkoli bylo časné ráno, venku bylo už teplo. Před zavřenými dveřmi do hotelové kuchyně seděla kočka. Opodál stálo několik zelených igelitových pytlů s odpadky; Olegovi se líbilo, že jsou pečlivě zavázané. V kuchyni se už svítilo, ale jinak celý hotel ještě spal. Závěsy ve všech pokojích byly zatažené. Na většině balkonů visely pestrobarevné plavky a ručníky. Oleg se spokojeně protáhl. Takhle brzy bylo v Praze ještě chladno a vzduch ve výkopech, kde pracovali, syrový. Násady lopat a krumpáčů byly nepříjemně studené a vlhká hlína občas páchla splašky prosakujícími z kanalizace. Teď v červenci se však vzduch vždy rychle ohřál a Olegův zelený pracovní kabát visíval na nejbližším plotě většinou už před osmou. Pracovní doba začínala v sedm; končili ve čtyři, někdy, když bylo třeba, o něco déle. Na oběd a na svačinu bylavždycky minimálně půlhodina a v sobotu a v neděli jim šéf skoro pokaždé dovolil skončit dřív. A nevydělávali přitom nijak málo.

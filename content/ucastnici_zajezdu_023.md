@@ -1,5 +1,6 @@
 ---
-title: "Max přiděluje jména.Max a\_Budějovičáci"
+title: "Max přiděluje jména\\.Max a\_Budějovičáci"
+contentType: prose
 ---
 
 Max začal neochotně – a proto bez koncepce, jen tak namátkou – uvažovat nad jmény postav.

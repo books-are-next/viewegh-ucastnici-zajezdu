@@ -1,5 +1,6 @@
 ---
 title: Co řekl Hitchcock Truffautovi
+contentType: prose
 ---
 
 „Víte, co jednou řekl Hitchcock Truffautovi?“ řekla Maxovi paní Košťálová.

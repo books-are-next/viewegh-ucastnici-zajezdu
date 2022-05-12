@@ -1,5 +1,6 @@
 ---
 title: Selektivní metoda výběru spolustolovníků
+contentType: prose
 ---
 
 Irma s Denisou už byly také vysprchované i nalíčené a nyní seděly na postelích a přemýšlely, po kolika asi budou stoly v hotelové restauraci. Obě byly jenom v kalhotkách, aby si nezmačkaly šaty.

@@ -1,5 +1,6 @@
 ---
 title: Denisino podezření
+contentType: prose
 ---
 
 Denisa se nenápadně otočila, aby se podívala, co dělá Hynek: Hovořil o čemsi s manželkou. Když se otáčela nazpátek, všimla si, že Jolana a ten Ukrajinec, kteří seděli na sedadlech za ní, mají přes nohy přehozenou tenkou kostkovanou přikrývku. Na tom by samozřejmě nebylo nic divného, neboť teď v noci měli nějakou přikrývku nebo alespoň větší osušku téměř všichni, jenomže Denisa si i v onom přítmí, které v autobuse panovalo, dobře všimla Ukrajincovy pravé ruky, jejíž silueta pod pokrývkou nepřipouštěla žádnou pochybnost. Ano, ležela přímo v Jolanině klíně.

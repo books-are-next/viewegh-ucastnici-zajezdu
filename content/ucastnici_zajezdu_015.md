@@ -1,5 +1,6 @@
 ---
 title: Chlap přes uličku
+contentType: prose
 ---
 
 Loni na podzim se Max sešel v kavárně Gany’s se spolužačkou z fakulty. Před dvěma týdny se vdala, a Max proto očekával, že bude mluvit o svatbě a o manželovi. Sotva se však posadili, řekla, že mu musí vyprávět o své prázdninové cestě do Španělska.

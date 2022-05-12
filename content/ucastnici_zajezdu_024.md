@@ -1,5 +1,6 @@
 ---
 title: Přátelské gesto
+contentType: prose
 ---
 
 Skutečnost, že sedí vedle mladého poslance českého parlamentu, ovšem Maxe nikterak netěšila. Neměl na politiku – a tudíž ani na politiky – náladu. Politikou se musel zabývat prakticky celý minulý rok, když psal pro MF DNES krátké satirické sloupky; chtěli po něm dva týdně. Napsal jich více než šedesát – a nyní měl politiky až po krk. A oni ho jako na potvoru posadí vedle poslance… Jel přece na tenhle zájezd proto, aby si od politiky odpočinul – a ne aby se o ní bavil. Čekalo ho patnáct či kolik hodin cesty, které zamýšlel strávit četbou, spánkem a především tichými úvahami o novém románu – a nikoli debatou o koaličních sporech nebo územně správních celcích. A teď tohle.

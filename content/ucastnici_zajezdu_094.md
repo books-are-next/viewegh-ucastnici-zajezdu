@@ -1,5 +1,6 @@
 ---
 title: Problémy se žaluziemi
+contentType: prose
 ---
 
 Hynek přistoupil k oknu. Zuzana s Jakubem byli ještě u bazénu, přestože slunce už před více než půlhodinou zašlo. Zuzana právě cosi vykládala Láďovi.

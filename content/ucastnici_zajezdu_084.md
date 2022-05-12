@@ -1,5 +1,6 @@
 ---
 title: "Žlutej meloun, uzenej lososa\_máta!"
+contentType: prose
 ---
 
 Zjištění, že Ignác s Oskarem jsou homosexuálové, přirozeně vyvolalo u jednotlivých účastníků zájezdu odlišné reakce.

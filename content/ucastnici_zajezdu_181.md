@@ -1,5 +1,6 @@
 ---
 title: Max jim do hlavy nevidí!
+contentType: prose
 ---
 
 Za okny autobusu začínalo svítat. Cestující se probouzeli a připravovali se k ohlášené přestávce.

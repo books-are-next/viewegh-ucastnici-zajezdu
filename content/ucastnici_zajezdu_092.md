@@ -1,5 +1,6 @@
 ---
 title: "A\_když přijdou k\_moři,i\_skály se jim dvoří"
+contentType: prose
 ---
 
 Když Max vylézal z vody, všiml si, že přicházejí Šarlota a Helga.

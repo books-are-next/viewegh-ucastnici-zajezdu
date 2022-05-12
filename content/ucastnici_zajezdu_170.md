@@ -1,5 +1,6 @@
 ---
 title: Co jim má Jolana říct?
+contentType: prose
 ---
 
 Co jim mám říct? říkala si v duchu Jolana.

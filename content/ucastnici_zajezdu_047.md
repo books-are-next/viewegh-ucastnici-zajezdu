@@ -1,5 +1,6 @@
 ---
 title: "Servírky a\_literatura"
+contentType: prose
 ---
 
 „Pánové mají vybráno?“ pravila mladá servírka s okouzlujícím úsměvem.

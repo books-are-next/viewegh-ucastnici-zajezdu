@@ -1,5 +1,6 @@
 ---
 title: Jolana čekající
+contentType: prose
 ---
 
 Jolana čekala.

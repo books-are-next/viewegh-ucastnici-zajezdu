@@ -1,5 +1,6 @@
 ---
 title: Mejdan na dvěstěčtrnáctce?
+contentType: prose
 ---
 
 Maxe napadlo, že by se o to nepříliš vítané břemeno mohl spravedlivě podělit s kamarády.

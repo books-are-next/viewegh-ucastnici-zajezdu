@@ -1,5 +1,6 @@
 ---
 title: Jak minout eden,jenž do těch pekel vede?
+contentType: prose
 ---
 
 Pamela mluvila a mluvila, ale Max mlčel.

@@ -1,5 +1,6 @@
 ---
 title: "Pas v\_modrém pouzdře"
+contentType: prose
 ---
 
 Šarlota opatrně překročila úzký záhonek s růžemi a přitiskla tvář na okno motorestu. Dlaněmi si zastínila oči: Zuzana, s níž se Šarlota spřátelila již na předchozí zastávce, seděla se synem u jednoho ze stolů v levé řadě.

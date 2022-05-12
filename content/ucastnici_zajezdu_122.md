@@ -1,5 +1,6 @@
 ---
 title: "Něco, co o\_sexu vědětnechceme"
+contentType: prose
 ---
 
 Oskar zaklepal na dveře koupelny. Irma vyšla, požádala Maxe o ještě trochu toho sena a vyšla na balkon. Max nepříliš šikovně ubalil křivou a nestejnoměrně naplněnou cigaretu. Zapálil ji a vtáhl do sebe palčivý kouř. Zachytil Oskarův pohled.
