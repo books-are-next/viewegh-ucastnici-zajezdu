@@ -46,7 +46,7 @@
         "filename": "ucastnici_zajezdu_002.md",
         "xhtml": "ucastnici_zajezdu_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -3471,4 +3471,3 @@
     "generatedAt": 1632230181196
   }
 }
-
