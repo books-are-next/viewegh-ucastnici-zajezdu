@@ -1,5 +1,6 @@
 ---
 title: "Max a\_smrt(1)"
+contentType: prose
 ---
 
 Do Israele jel Max loni na konci listopadu. Byl pozván, aby tu uvedl hebrejský překlad svého zatím posledního románu. Vcelku se na tu cestu těšil. Právě v té pošmourné studené době se totiž musel definitivně odstěhovat od manželky a dcery do podnájmu v Krči, a říkal si proto, že by týdenní pobyt v tom exotickém prostředí mohl snad rozptýlit jeho občasný a podzimními plískanicemi ještě umocněný stesk a pocity osamělosti.

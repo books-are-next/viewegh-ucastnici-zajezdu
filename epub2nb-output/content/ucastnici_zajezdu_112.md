@@ -1,5 +1,6 @@
 ---
 title: Pamelin návrh
+contentType: prose
 ---
 
 Pršelo i po obědě.

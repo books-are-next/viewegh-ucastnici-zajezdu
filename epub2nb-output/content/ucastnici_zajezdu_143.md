@@ -1,5 +1,6 @@
 ---
 title: Umění milovat(po patnácti letech)
+contentType: prose
 ---
 
 Hynek Maxovi večer tvrdil, že je pro něj čím dál větším problémem se Zuzanou spát.

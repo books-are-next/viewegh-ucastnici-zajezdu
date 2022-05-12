@@ -1,5 +1,6 @@
 ---
 title: Je už Šarlota úplně pitomá?
+contentType: prose
 ---
 
 Helga s Šarlotou se dohodly, že se začnou oblékat v půl sedmé. Večeře se podává v půl osmé, počítala v duchu Helga, takže když budou hotové v sedm, je to akorát. Sama však začala s oblékáním asi o deset minut dřív – a Šarlota, ze samého strachu, že na ni Helga bude muset čekat, se oblékla tak rychle, že nakonec byly obě kompletně připravené už ve tři čtvrtě na sedm.

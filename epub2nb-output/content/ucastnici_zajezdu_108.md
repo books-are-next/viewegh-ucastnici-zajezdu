@@ -1,5 +1,6 @@
 ---
 title: Obměna přátel(2)
+contentType: prose
 ---
 
 Náhle měl Max mnohem lepší náladu. Připadal si sebevědomější a rozhodnější. Vypnul notebook a sešel do jídelny. Ignác byl u stolu zatím sám.

@@ -1,5 +1,6 @@
 ---
 title: Hysterická opatrnost
+contentType: prose
 ---
 
 Jakub si znovu uvědomil, že si teď mnohem líp rozumí s mámou.

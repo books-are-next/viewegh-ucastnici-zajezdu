@@ -1,5 +1,6 @@
 ---
 title: Slunečnicové polepo levé straně
+contentType: prose
 ---
 
 „Všimli jste si těch slunečnic?“ řekl nadšeně Jolanin otec.

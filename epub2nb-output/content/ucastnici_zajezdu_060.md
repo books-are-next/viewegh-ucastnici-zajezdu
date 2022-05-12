@@ -1,5 +1,6 @@
 ---
 title: Kruté zklamání
+contentType: prose
 ---
 
 Uprostřed bouřlivých oslav objevu nové literární formy Max náhle ztuhl. Šampaňské mu okamžitě přestalo chutnat a i ta milá a půvabná striptérka na jeho psacím stole se mu v té jediné vteřině znelíbila.

@@ -1,5 +1,6 @@
 ---
 title: "Philadelphia a\_ženy v\_politice"
+contentType: prose
 ---
 
 „Myslím, že vás znám,“ řekl Maxovi na odpočívadle Hynek.

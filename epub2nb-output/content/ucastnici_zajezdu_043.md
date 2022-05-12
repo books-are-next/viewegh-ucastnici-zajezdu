@@ -1,5 +1,6 @@
 ---
 title: "Kdo je pan Petrescua\_paní Košťálová??"
+contentType: prose
 ---
 
 Max si předsevzal, že se s okamžitou platností přestane v duchu zabývat tou Pamelou a konečně vyřeší přetrvávající problém Petrescu-Košťálová.

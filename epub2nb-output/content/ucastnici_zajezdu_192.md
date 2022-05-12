@@ -1,5 +1,6 @@
 ---
 title: Maxovo statečné vystoupení
+contentType: prose
 ---
 
 „Co je to tam?“ řekl Karel.

@@ -1,5 +1,6 @@
 ---
 title: Balení intelektuálek
+contentType: prose
 ---
 
 Oskar dostal nápad. Byl to – vzhledem k Oskarovým zvykům, názorům a povaze – dost šílený nápad. Oskar věděl, že chce-li ho uskutečnit, musí to udělat hned. Dřív než ztratí kuráž.

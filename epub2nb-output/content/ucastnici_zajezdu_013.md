@@ -1,5 +1,6 @@
 ---
 title: Poslancovo předsevzetí
+contentType: prose
 ---
 
 Hynek se – jak si pevně předsevzal – snažil. Když Zuzana kupříkladu zjistila, že má knihu, kterou si chtěla vzít do autobusu, ve svém kufru, jenž už byl ovšem dávno uložen kdesi v zavazadlovém prostoru, nabídl se, že poprosí řidiče, jestli by jim zavazadlový prostor ještě jednou neotevřel. Zuzana to ocenila úsměvem: řekla, že je prý od něho velkorysé, když se v tom vedru chystá vzpírat s těžkými kufry kvůli Jackie Collinsové, kterou – jak mnohokrát prohlásil – bytostně nesnáší. K Hynkově nemalé úlevě ale nakonec prohlásila, že to není třeba. Bude prý spát nebo poslouchat walkman. Usmála se. Hynek se také usmál. Dostal nápad. Pod jakousi záminkou odešel, upozornil tu hezkou průvodkyni, že si ještě na tři minutky odskočí, a běžel do nedaleké trafiky koupit nějaké ženské časopisy. Prodavač ho poznal a začal s ním přátelsky diskutovat o problémech se zřízením senátu. Hynek se omluvil, že nemá čas, a rychle vybíral časopisy vystavené na pultě. Koupil dokonce i ty drahé: Cosmopolitan a Elle. Dva časopisy koupil Jakubovi. Aby odškodnil prodavače za to, že se mu nemohl věnovat, nechal mu velké spropitné.

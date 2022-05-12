@@ -1,5 +1,6 @@
 ---
 title: "Maxa\_metoda proudu vědomí"
+contentType: prose
 ---
 
 Maxovi se ještě nechtělo spát, a tak si v posteli četl.

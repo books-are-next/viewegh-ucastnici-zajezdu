@@ -1,5 +1,6 @@
 ---
 title: Na místa!
+contentType: prose
 ---
 
 Účastníci zájezdu měli v rozlehlé hotelové restauraci vyhrazen relativně samostatný rohový salonek, oddělený od ostatních prostor z jedné strany modrými vitrážovými skly ve zlatých mosazných rámech, z druhé strany pak impozantní hradbou nejrůznějších subtropických květin; zbývající dvě stěny tvořila velká a většinou otevřená okna s výhledem na přilehlý piniový háj, pláž a moře. Zlatomodré ladění salonku Maxovi mile připomnělo jeho oblíbenou pražskou kavárnu Gany’s; prostorové uspořádání navíc vyhovovalo jeho dětinské slabosti pro souměrnost: přímo uprostřed stál kulatý a každé následující ráno bohatě prostřený švédský stůl, na jehož oběžné dráze byly rozmístěny čtyři menší kulaté stoly, každý s šesti modrými satelitními židlemi.

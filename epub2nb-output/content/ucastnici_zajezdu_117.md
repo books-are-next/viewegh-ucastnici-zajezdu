@@ -1,5 +1,6 @@
 ---
 title: Ekonomika pro každého
+contentType: prose
 ---
 
 Krátce po jedenácté se Max vrátil na pokoj.

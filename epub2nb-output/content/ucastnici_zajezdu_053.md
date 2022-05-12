@@ -1,5 +1,6 @@
 ---
 title: "Kdo proboha jsou pan Petrescua\_paní Košťálová???"
+contentType: prose
 ---
 
 „Nepřipadá ti ta Košťálová trochu afektovaná?“ řekla Hynkovi Zuzana.

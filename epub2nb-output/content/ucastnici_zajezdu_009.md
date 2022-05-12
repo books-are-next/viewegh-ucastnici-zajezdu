@@ -1,5 +1,6 @@
 ---
 title: "Beach Boy a\_jeho dcera"
+contentType: prose
 ---
 
 Jolanin otec byl podrážděný.

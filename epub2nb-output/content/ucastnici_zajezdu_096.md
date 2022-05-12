@@ -1,5 +1,6 @@
 ---
 title: Citát
+contentType: prose
 ---
 
 _„Aschenbach brzy znal každou linii i pózu onoho tak vznosného,  

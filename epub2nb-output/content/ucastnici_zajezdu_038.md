@@ -1,5 +1,6 @@
 ---
 title: "Kdo je pan Petrescua\_paní Košťálová?"
+contentType: prose
 ---
 
 O většině svých postav Max již začínal mít celkem jasno – kromě paní Košťálové a pana Petresca. Všechny poznámky, které si k nim zatím udělal, později pokaždé roztrhal. Jistá záhadnost, provázející tuto dvojici od samého počátku, vzbuzovala ostatně nejen Maxovu zvědavost – odlišná příjmení a zhruba desetiletý věkový rozdíl byly už vděčným předmětem nejedné ženské debaty.

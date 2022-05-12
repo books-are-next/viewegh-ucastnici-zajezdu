@@ -1,5 +1,6 @@
 ---
 title: "Zuzana, Hynek a\_masmédia"
+contentType: prose
 ---
 
 Noc byla na postupu.

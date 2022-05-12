@@ -2,6 +2,7 @@
 title: >-
   Proč Maxe vůbec napadlo napsat román,který by se celý odehrávalna turistickém
   zájezdu?
+contentType: prose
 ---
 
 Max si už přesně nepamatoval, kdy ho poprvé napadlo napsat román, jenž by se celý odehrával během zahraničního turistického zájezdu – bylo to snad někdy na jaře nebo možná v létě roku 1993. Jakkoli ani on sám nedokázal jednoznačně zodpovědět otázku, proč si zvolil právě tohle téma, začínal jím být stále více přitahován. Kdykoli si v té době představoval protagonisty své příští knihy, bůhvíproč je viděl nastupovat do dálkových autobusů, pokuřovat na dálničních odpočívadlech nebo vybalovat kufry v hotelových pokojích. Celé dlouhé večery si zapisoval nejrůznější kompoziční nápady, náčrtky budoucích scén – a stále častěji zjišťoval, že jsou to vesměs scény z autobusu či z pláže a že všechny ty zamýšlené postavy, k nimž si dělal potřebné poznámky, jsou bez výjimky účastníci jakéhosi fiktivního zájezdu. Tehdy už věděl, že ten zájezdový román opravdu napíše, bez ohledu na to, zda svou počínající posedlost dokáže dostatečně přesvědčivě vysvětlit.

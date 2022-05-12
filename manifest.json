@@ -1,21 +1,220 @@
 {
-  "author": "Michal Viewegh",
-  "edition": "beletrie",
-  "identifier": "viewegh-ucastnici-zajezdu-118f515",
-  "languagecode": "cs",
-  "modified": "2021-09-21T12:10:35.433Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Účastníci zájezdu",
-  "revision": "118f515",
+  "author": "Michal Viewegh",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "viewegh-ucastnici-zajezdu-c8af774",
+  "revision": "c8af774",
+  "readingOrder": [
+    "promo.html",
+    "ucastnici_zajezdu_003.html",
+    "ucastnici_zajezdu_005.html",
+    "ucastnici_zajezdu_006.html",
+    "ucastnici_zajezdu_007.html",
+    "ucastnici_zajezdu_008.html",
+    "ucastnici_zajezdu_009.html",
+    "ucastnici_zajezdu_010.html",
+    "ucastnici_zajezdu_011.html",
+    "ucastnici_zajezdu_012.html",
+    "ucastnici_zajezdu_013.html",
+    "ucastnici_zajezdu_014.html",
+    "ucastnici_zajezdu_015.html",
+    "ucastnici_zajezdu_016.html",
+    "ucastnici_zajezdu_017.html",
+    "ucastnici_zajezdu_018.html",
+    "ucastnici_zajezdu_019.html",
+    "ucastnici_zajezdu_020.html",
+    "ucastnici_zajezdu_021.html",
+    "ucastnici_zajezdu_022.html",
+    "ucastnici_zajezdu_023.html",
+    "ucastnici_zajezdu_024.html",
+    "ucastnici_zajezdu_025.html",
+    "ucastnici_zajezdu_026.html",
+    "ucastnici_zajezdu_027.html",
+    "ucastnici_zajezdu_028.html",
+    "ucastnici_zajezdu_029.html",
+    "ucastnici_zajezdu_030.html",
+    "ucastnici_zajezdu_031.html",
+    "ucastnici_zajezdu_032.html",
+    "ucastnici_zajezdu_033.html",
+    "ucastnici_zajezdu_034.html",
+    "ucastnici_zajezdu_035.html",
+    "ucastnici_zajezdu_036.html",
+    "ucastnici_zajezdu_037.html",
+    "ucastnici_zajezdu_038.html",
+    "ucastnici_zajezdu_039.html",
+    "ucastnici_zajezdu_040.html",
+    "ucastnici_zajezdu_041.html",
+    "ucastnici_zajezdu_042.html",
+    "ucastnici_zajezdu_043.html",
+    "ucastnici_zajezdu_044.html",
+    "ucastnici_zajezdu_045.html",
+    "ucastnici_zajezdu_046.html",
+    "ucastnici_zajezdu_047.html",
+    "ucastnici_zajezdu_048.html",
+    "ucastnici_zajezdu_049.html",
+    "ucastnici_zajezdu_050.html",
+    "ucastnici_zajezdu_051.html",
+    "ucastnici_zajezdu_052.html",
+    "ucastnici_zajezdu_053.html",
+    "ucastnici_zajezdu_054.html",
+    "ucastnici_zajezdu_055.html",
+    "ucastnici_zajezdu_056.html",
+    "ucastnici_zajezdu_057.html",
+    "ucastnici_zajezdu_058.html",
+    "ucastnici_zajezdu_059.html",
+    "ucastnici_zajezdu_060.html",
+    "ucastnici_zajezdu_061.html",
+    "ucastnici_zajezdu_062.html",
+    "ucastnici_zajezdu_063.html",
+    "ucastnici_zajezdu_064.html",
+    "ucastnici_zajezdu_065.html",
+    "ucastnici_zajezdu_066.html",
+    "ucastnici_zajezdu_067.html",
+    "ucastnici_zajezdu_068.html",
+    "ucastnici_zajezdu_069.html",
+    "ucastnici_zajezdu_070.html",
+    "ucastnici_zajezdu_071.html",
+    "ucastnici_zajezdu_072.html",
+    "ucastnici_zajezdu_073.html",
+    "ucastnici_zajezdu_074.html",
+    "ucastnici_zajezdu_075.html",
+    "ucastnici_zajezdu_076.html",
+    "ucastnici_zajezdu_077.html",
+    "ucastnici_zajezdu_078.html",
+    "ucastnici_zajezdu_079.html",
+    "ucastnici_zajezdu_080.html",
+    "ucastnici_zajezdu_081.html",
+    "ucastnici_zajezdu_082.html",
+    "ucastnici_zajezdu_083.html",
+    "ucastnici_zajezdu_084.html",
+    "ucastnici_zajezdu_085.html",
+    "ucastnici_zajezdu_086.html",
+    "ucastnici_zajezdu_087.html",
+    "ucastnici_zajezdu_088.html",
+    "ucastnici_zajezdu_089.html",
+    "ucastnici_zajezdu_090.html",
+    "ucastnici_zajezdu_091.html",
+    "ucastnici_zajezdu_092.html",
+    "ucastnici_zajezdu_093.html",
+    "ucastnici_zajezdu_094.html",
+    "ucastnici_zajezdu_095.html",
+    "ucastnici_zajezdu_096.html",
+    "ucastnici_zajezdu_097.html",
+    "ucastnici_zajezdu_098.html",
+    "ucastnici_zajezdu_099.html",
+    "ucastnici_zajezdu_100.html",
+    "ucastnici_zajezdu_101.html",
+    "ucastnici_zajezdu_102.html",
+    "ucastnici_zajezdu_103.html",
+    "ucastnici_zajezdu_104.html",
+    "ucastnici_zajezdu_105.html",
+    "ucastnici_zajezdu_106.html",
+    "ucastnici_zajezdu_107.html",
+    "ucastnici_zajezdu_108.html",
+    "ucastnici_zajezdu_109.html",
+    "ucastnici_zajezdu_110.html",
+    "ucastnici_zajezdu_111.html",
+    "ucastnici_zajezdu_112.html",
+    "ucastnici_zajezdu_113.html",
+    "ucastnici_zajezdu_114.html",
+    "ucastnici_zajezdu_115.html",
+    "ucastnici_zajezdu_116.html",
+    "ucastnici_zajezdu_117.html",
+    "ucastnici_zajezdu_118.html",
+    "ucastnici_zajezdu_119.html",
+    "ucastnici_zajezdu_120.html",
+    "ucastnici_zajezdu_121.html",
+    "ucastnici_zajezdu_122.html",
+    "ucastnici_zajezdu_123.html",
+    "ucastnici_zajezdu_124.html",
+    "ucastnici_zajezdu_125.html",
+    "ucastnici_zajezdu_126.html",
+    "ucastnici_zajezdu_127.html",
+    "ucastnici_zajezdu_128.html",
+    "ucastnici_zajezdu_129.html",
+    "ucastnici_zajezdu_130.html",
+    "ucastnici_zajezdu_131.html",
+    "ucastnici_zajezdu_132.html",
+    "ucastnici_zajezdu_133.html",
+    "ucastnici_zajezdu_134.html",
+    "ucastnici_zajezdu_135.html",
+    "ucastnici_zajezdu_136.html",
+    "ucastnici_zajezdu_137.html",
+    "ucastnici_zajezdu_138.html",
+    "ucastnici_zajezdu_139.html",
+    "ucastnici_zajezdu_140.html",
+    "ucastnici_zajezdu_141.html",
+    "ucastnici_zajezdu_142.html",
+    "ucastnici_zajezdu_143.html",
+    "ucastnici_zajezdu_144.html",
+    "ucastnici_zajezdu_145.html",
+    "ucastnici_zajezdu_146.html",
+    "ucastnici_zajezdu_147.html",
+    "ucastnici_zajezdu_148.html",
+    "ucastnici_zajezdu_149.html",
+    "ucastnici_zajezdu_150.html",
+    "ucastnici_zajezdu_151.html",
+    "ucastnici_zajezdu_152.html",
+    "ucastnici_zajezdu_153.html",
+    "ucastnici_zajezdu_154.html",
+    "ucastnici_zajezdu_155.html",
+    "ucastnici_zajezdu_156.html",
+    "ucastnici_zajezdu_157.html",
+    "ucastnici_zajezdu_158.html",
+    "ucastnici_zajezdu_159.html",
+    "ucastnici_zajezdu_160.html",
+    "ucastnici_zajezdu_161.html",
+    "ucastnici_zajezdu_162.html",
+    "ucastnici_zajezdu_163.html",
+    "ucastnici_zajezdu_164.html",
+    "ucastnici_zajezdu_165.html",
+    "ucastnici_zajezdu_166.html",
+    "ucastnici_zajezdu_167.html",
+    "ucastnici_zajezdu_168.html",
+    "ucastnici_zajezdu_169.html",
+    "ucastnici_zajezdu_170.html",
+    "ucastnici_zajezdu_171.html",
+    "ucastnici_zajezdu_172.html",
+    "ucastnici_zajezdu_173.html",
+    "ucastnici_zajezdu_174.html",
+    "ucastnici_zajezdu_175.html",
+    "ucastnici_zajezdu_176.html",
+    "ucastnici_zajezdu_177.html",
+    "ucastnici_zajezdu_178.html",
+    "ucastnici_zajezdu_179.html",
+    "ucastnici_zajezdu_180.html",
+    "ucastnici_zajezdu_181.html",
+    "ucastnici_zajezdu_182.html",
+    "ucastnici_zajezdu_183.html",
+    "ucastnici_zajezdu_184.html",
+    "ucastnici_zajezdu_185.html",
+    "ucastnici_zajezdu_186.html",
+    "ucastnici_zajezdu_187.html",
+    "ucastnici_zajezdu_188.html",
+    "ucastnici_zajezdu_189.html",
+    "ucastnici_zajezdu_190.html",
+    "ucastnici_zajezdu_191.html",
+    "ucastnici_zajezdu_192.html",
+    "ucastnici_zajezdu_193.html",
+    "ucastnici_zajezdu_194.html",
+    "ucastnici_zajezdu_195.html",
+    "ucastnici_zajezdu_196.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 10:13:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638440019742
+    "date": "Thu May 12 2022 10:36:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351814984
   },
   "documents": [
     {
-      "title": "Účastníci zájezdu",
-      "file": "ucastnici_zajezdu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +222,7 @@
       "order": 0,
       "prev": null,
       "next": "ucastnici_zajezdu_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Účastníci zájezdu",
@@ -41,7 +232,7 @@
       "ideas": 2,
       "role": "chapter",
       "order": 1,
-      "prev": "ucastnici_zajezdu_002.html",
+      "prev": "promo.html",
       "next": "ucastnici_zajezdu_005.html",
       "toc": [
         {
@@ -54,7 +245,7 @@
       ]
     },
     {
-      "title": "Část prvníCESTA DO LETOVISKA • Účastníci zájezdu",
+      "title": "Část prvníCESTA DO LETOVISKA",
       "file": "ucastnici_zajezdu_005.html",
       "words": 4,
       "chars": 28,
@@ -74,7 +265,7 @@
       ]
     },
     {
-      "title": "Ignácův batoh • Účastníci zájezdu",
+      "title": "Ignácův batoh",
       "file": "ucastnici_zajezdu_006.html",
       "words": 481,
       "chars": 2969,
@@ -94,7 +285,7 @@
       ]
     },
     {
-      "title": "Šarlota se už nedokážesoustředit • Účastníci zájezdu",
+      "title": "Šarlota se už nedokážesoustředit",
       "file": "ucastnici_zajezdu_007.html",
       "words": 326,
       "chars": 2183,
@@ -114,7 +305,7 @@
       ]
     },
     {
-      "title": "Denisa a Irma • Účastníci zájezdu",
+      "title": "Denisa a Irma",
       "file": "ucastnici_zajezdu_008.html",
       "words": 223,
       "chars": 1403,
@@ -134,7 +325,7 @@
       ]
     },
     {
-      "title": "Beach Boy a jeho dcera • Účastníci zájezdu",
+      "title": "Beach Boy a jeho dcera",
       "file": "ucastnici_zajezdu_009.html",
       "words": 848,
       "chars": 5239,
@@ -154,7 +345,7 @@
       ]
     },
     {
-      "title": "Maxova pochybnost • Účastníci zájezdu",
+      "title": "Maxova pochybnost",
       "file": "ucastnici_zajezdu_010.html",
       "words": 390,
       "chars": 2540,
@@ -174,7 +365,7 @@
       ]
     },
     {
-      "title": "Kufr • Účastníci zájezdu",
+      "title": "Kufr",
       "file": "ucastnici_zajezdu_011.html",
       "words": 118,
       "chars": 744,
@@ -194,7 +385,7 @@
       ]
     },
     {
-      "title": "Pamela • Účastníci zájezdu",
+      "title": "Pamela",
       "file": "ucastnici_zajezdu_012.html",
       "words": 454,
       "chars": 2959,
@@ -214,7 +405,7 @@
       ]
     },
     {
-      "title": "Poslancovo předsevzetí • Účastníci zájezdu",
+      "title": "Poslancovo předsevzetí",
       "file": "ucastnici_zajezdu_013.html",
       "words": 724,
       "chars": 4295,
@@ -234,7 +425,7 @@
       ]
     },
     {
-      "title": "Proč Maxe vůbec napadlo napsat román,který by se celý odehrávalna turistickém zájezdu? • Účastníci zájezdu",
+      "title": "Proč Maxe vůbec napadlo napsat román,který by se celý odehrávalna turistickém zájezdu?",
       "file": "ucastnici_zajezdu_014.html",
       "words": 762,
       "chars": 4915,
@@ -254,7 +445,7 @@
       ]
     },
     {
-      "title": "Chlap přes uličku • Účastníci zájezdu",
+      "title": "Chlap přes uličku",
       "file": "ucastnici_zajezdu_015.html",
       "words": 281,
       "chars": 1707,
@@ -274,7 +465,7 @@
       ]
     },
     {
-      "title": "Člověk vedle Jolany • Účastníci zájezdu",
+      "title": "Člověk vedle Jolany",
       "file": "ucastnici_zajezdu_016.html",
       "words": 362,
       "chars": 2260,
@@ -294,7 +485,7 @@
       ]
     },
     {
-      "title": "Dívka doslova milujícísvou práci • Účastníci zájezdu",
+      "title": "Dívka doslova milujícísvou práci",
       "file": "ucastnici_zajezdu_017.html",
       "words": 619,
       "chars": 4074,
@@ -314,7 +505,7 @@
       ]
     },
     {
-      "title": "Hnědé podšálky • Účastníci zájezdu",
+      "title": "Hnědé podšálky",
       "file": "ucastnici_zajezdu_018.html",
       "words": 568,
       "chars": 3477,
@@ -334,7 +525,7 @@
       ]
     },
     {
-      "title": "Zpráva,která udělala z Ignáce vlastence • Účastníci zájezdu",
+      "title": "Zpráva,která udělala z Ignáce vlastence",
       "file": "ucastnici_zajezdu_019.html",
       "words": 337,
       "chars": 2171,
@@ -354,7 +545,7 @@
       ]
     },
     {
-      "title": "Max je se svým místem v autobuse zatím nadmíru spokojen • Účastníci zájezdu",
+      "title": "Max je se svým místem v autobuse zatím nadmíru spokojen",
       "file": "ucastnici_zajezdu_020.html",
       "words": 444,
       "chars": 2763,
@@ -374,7 +565,7 @@
       ]
     },
     {
-      "title": "Hnědé podšálky • Účastníci zájezdu",
+      "title": "Hnědé podšálky",
       "file": "ucastnici_zajezdu_021.html",
       "words": 138,
       "chars": 821,
@@ -394,7 +585,7 @@
       ]
     },
     {
-      "title": "Jituš si čte • Účastníci zájezdu",
+      "title": "Jituš si čte",
       "file": "ucastnici_zajezdu_022.html",
       "words": 370,
       "chars": 2187,
@@ -414,7 +605,7 @@
       ]
     },
     {
-      "title": "Max přiděluje jména.Max a Budějovičáci • Účastníci zájezdu",
+      "title": "Max přiděluje jména.Max a Budějovičáci",
       "file": "ucastnici_zajezdu_023.html",
       "words": 758,
       "chars": 4781,
@@ -434,7 +625,7 @@
       ]
     },
     {
-      "title": "Přátelské gesto • Účastníci zájezdu",
+      "title": "Přátelské gesto",
       "file": "ucastnici_zajezdu_024.html",
       "words": 389,
       "chars": 2363,
@@ -454,7 +645,7 @@
       ]
     },
     {
-      "title": "Slovní fotbal • Účastníci zájezdu",
+      "title": "Slovní fotbal",
       "file": "ucastnici_zajezdu_025.html",
       "words": 358,
       "chars": 2255,
@@ -474,7 +665,7 @@
       ]
     },
     {
-      "title": "Hysterická opatrnost • Účastníci zájezdu",
+      "title": "Hysterická opatrnost",
       "file": "ucastnici_zajezdu_026.html",
       "words": 573,
       "chars": 3226,
@@ -494,7 +685,7 @@
       ]
     },
     {
-      "title": "Citát • Účastníci zájezdu",
+      "title": "Citát",
       "file": "ucastnici_zajezdu_027.html",
       "words": 61,
       "chars": 403,
@@ -514,7 +705,7 @@
       ]
     },
     {
-      "title": "Jolanino první zvracení • Účastníci zájezdu",
+      "title": "Jolanino první zvracení",
       "file": "ucastnici_zajezdu_028.html",
       "words": 638,
       "chars": 4076,
@@ -534,7 +725,7 @@
       ]
     },
     {
-      "title": "Rozhovor • Účastníci zájezdu",
+      "title": "Rozhovor",
       "file": "ucastnici_zajezdu_029.html",
       "words": 192,
       "chars": 1148,
@@ -554,7 +745,7 @@
       ]
     },
     {
-      "title": "Philadelphia a ženy v politice • Účastníci zájezdu",
+      "title": "Philadelphia a ženy v politice",
       "file": "ucastnici_zajezdu_030.html",
       "words": 858,
       "chars": 5325,
@@ -574,7 +765,7 @@
       ]
     },
     {
-      "title": "První Jakubův problém • Účastníci zájezdu",
+      "title": "První Jakubův problém",
       "file": "ucastnici_zajezdu_031.html",
       "words": 424,
       "chars": 2473,
@@ -594,7 +785,7 @@
       ]
     },
     {
-      "title": "Odklad • Účastníci zájezdu",
+      "title": "Odklad",
       "file": "ucastnici_zajezdu_032.html",
       "words": 31,
       "chars": 179,
@@ -614,7 +805,7 @@
       ]
     },
     {
-      "title": "Balení intelektuálek • Účastníci zájezdu",
+      "title": "Balení intelektuálek",
       "file": "ucastnici_zajezdu_033.html",
       "words": 641,
       "chars": 3872,
@@ -634,7 +825,7 @@
       ]
     },
     {
-      "title": "Autor a jeho čtenářka • Účastníci zájezdu",
+      "title": "Autor a jeho čtenářka",
       "file": "ucastnici_zajezdu_034.html",
       "words": 810,
       "chars": 5071,
@@ -654,7 +845,7 @@
       ]
     },
     {
-      "title": "Max stewardem • Účastníci zájezdu",
+      "title": "Max stewardem",
       "file": "ucastnici_zajezdu_035.html",
       "words": 324,
       "chars": 2010,
@@ -674,7 +865,7 @@
       ]
     },
     {
-      "title": "Druhý Jakubův problém • Účastníci zájezdu",
+      "title": "Druhý Jakubův problém",
       "file": "ucastnici_zajezdu_036.html",
       "words": 290,
       "chars": 1723,
@@ -694,7 +885,7 @@
       ]
     },
     {
-      "title": "Slunečnicové polepo levé straně • Účastníci zájezdu",
+      "title": "Slunečnicové polepo levé straně",
       "file": "ucastnici_zajezdu_037.html",
       "words": 563,
       "chars": 3708,
@@ -714,7 +905,7 @@
       ]
     },
     {
-      "title": "Kdo je pan Petrescua paní Košťálová? • Účastníci zájezdu",
+      "title": "Kdo je pan Petrescua paní Košťálová?",
       "file": "ucastnici_zajezdu_038.html",
       "words": 352,
       "chars": 2260,
@@ -734,7 +925,7 @@
       ]
     },
     {
-      "title": "A co na točeská literární kritika? • Účastníci zájezdu",
+      "title": "A co na točeská literární kritika?",
       "file": "ucastnici_zajezdu_039.html",
       "words": 36,
       "chars": 247,
@@ -754,7 +945,7 @@
       ]
     },
     {
-      "title": "Stojící Helga • Účastníci zájezdu",
+      "title": "Stojící Helga",
       "file": "ucastnici_zajezdu_040.html",
       "words": 312,
       "chars": 1950,
@@ -774,7 +965,7 @@
       ]
     },
     {
-      "title": "Problém s odstředivou silou • Účastníci zájezdu",
+      "title": "Problém s odstředivou silou",
       "file": "ucastnici_zajezdu_041.html",
       "words": 787,
       "chars": 4881,
@@ -794,7 +985,7 @@
       ]
     },
     {
-      "title": "Utrpení dvanáctiletého homosexuála • Účastníci zájezdu",
+      "title": "Utrpení dvanáctiletého homosexuála",
       "file": "ucastnici_zajezdu_042.html",
       "words": 542,
       "chars": 3274,
@@ -814,7 +1005,7 @@
       ]
     },
     {
-      "title": "Kdo je pan Petrescua paní Košťálová?? • Účastníci zájezdu",
+      "title": "Kdo je pan Petrescua paní Košťálová??",
       "file": "ucastnici_zajezdu_043.html",
       "words": 515,
       "chars": 3219,
@@ -834,7 +1025,7 @@
       ]
     },
     {
-      "title": "Zvuky Jakubovi nevadí • Účastníci zájezdu",
+      "title": "Zvuky Jakubovi nevadí",
       "file": "ucastnici_zajezdu_044.html",
       "words": 592,
       "chars": 3631,
@@ -854,7 +1045,7 @@
       ]
     },
     {
-      "title": "Mrkání • Účastníci zájezdu",
+      "title": "Mrkání",
       "file": "ucastnici_zajezdu_045.html",
       "words": 82,
       "chars": 442,
@@ -874,7 +1065,7 @@
       ]
     },
     {
-      "title": "Rapsodie v modrém • Účastníci zájezdu",
+      "title": "Rapsodie v modrém",
       "file": "ucastnici_zajezdu_046.html",
       "words": 438,
       "chars": 2653,
@@ -894,7 +1085,7 @@
       ]
     },
     {
-      "title": "Servírky a literatura • Účastníci zájezdu",
+      "title": "Servírky a literatura",
       "file": "ucastnici_zajezdu_047.html",
       "words": 442,
       "chars": 2859,
@@ -914,7 +1105,7 @@
       ]
     },
     {
-      "title": "Max má problémy s citáty • Účastníci zájezdu",
+      "title": "Max má problémy s citáty",
       "file": "ucastnici_zajezdu_048.html",
       "words": 500,
       "chars": 3091,
@@ -934,7 +1125,7 @@
       ]
     },
     {
-      "title": "Deštivé počasí může dovolenouu moře značně znepříjemnit • Účastníci zájezdu",
+      "title": "Deštivé počasí může dovolenouu moře značně znepříjemnit",
       "file": "ucastnici_zajezdu_049.html",
       "words": 353,
       "chars": 2101,
@@ -954,7 +1145,7 @@
       ]
     },
     {
-      "title": "Co je trapnýho na tom,zahrát si na chvíli softík? • Účastníci zájezdu",
+      "title": "Co je trapnýho na tom,zahrát si na chvíli softík?",
       "file": "ucastnici_zajezdu_050.html",
       "words": 652,
       "chars": 3966,
@@ -974,7 +1165,7 @@
       ]
     },
     {
-      "title": "Pas v modrém pouzdře • Účastníci zájezdu",
+      "title": "Pas v modrém pouzdře",
       "file": "ucastnici_zajezdu_051.html",
       "words": 350,
       "chars": 2186,
@@ -994,7 +1185,7 @@
       ]
     },
     {
-      "title": "Přerušení příběhu: výpravčí • Účastníci zájezdu",
+      "title": "Přerušení příběhu: výpravčí",
       "file": "ucastnici_zajezdu_052.html",
       "words": 441,
       "chars": 2966,
@@ -1014,7 +1205,7 @@
       ]
     },
     {
-      "title": "Kdo proboha jsou pan Petrescua paní Košťálová??? • Účastníci zájezdu",
+      "title": "Kdo proboha jsou pan Petrescua paní Košťálová???",
       "file": "ucastnici_zajezdu_053.html",
       "words": 220,
       "chars": 1492,
@@ -1034,7 +1225,7 @@
       ]
     },
     {
-      "title": "Zima, zimička • Účastníci zájezdu",
+      "title": "Zima, zimička",
       "file": "ucastnici_zajezdu_054.html",
       "words": 506,
       "chars": 3331,
@@ -1054,7 +1245,7 @@
       ]
     },
     {
-      "title": "Jsou u moře moli? • Účastníci zájezdu",
+      "title": "Jsou u moře moli?",
       "file": "ucastnici_zajezdu_055.html",
       "words": 635,
       "chars": 4108,
@@ -1074,7 +1265,7 @@
       ]
     },
     {
-      "title": "Nečekané drama • Účastníci zájezdu",
+      "title": "Nečekané drama",
       "file": "ucastnici_zajezdu_056.html",
       "words": 806,
       "chars": 5039,
@@ -1094,7 +1285,7 @@
       ]
     },
     {
-      "title": "Pohádka na dobrou noc • Účastníci zájezdu",
+      "title": "Pohádka na dobrou noc",
       "file": "ucastnici_zajezdu_057.html",
       "words": 582,
       "chars": 3868,
@@ -1114,7 +1305,7 @@
       ]
     },
     {
-      "title": "Max experimentuje s formou • Účastníci zájezdu",
+      "title": "Max experimentuje s formou",
       "file": "ucastnici_zajezdu_058.html",
       "words": 250,
       "chars": 1642,
@@ -1134,7 +1325,7 @@
       ]
     },
     {
-      "title": "Dvacet minut je asi málo • Účastníci zájezdu",
+      "title": "Dvacet minut je asi málo",
       "file": "ucastnici_zajezdu_059.html",
       "words": 168,
       "chars": 1113,
@@ -1154,7 +1345,7 @@
       ]
     },
     {
-      "title": "Kruté zklamání • Účastníci zájezdu",
+      "title": "Kruté zklamání",
       "file": "ucastnici_zajezdu_060.html",
       "words": 78,
       "chars": 485,
@@ -1174,7 +1365,7 @@
       ]
     },
     {
-      "title": "Spojité nádoby • Účastníci zájezdu",
+      "title": "Spojité nádoby",
       "file": "ucastnici_zajezdu_061.html",
       "words": 323,
       "chars": 2000,
@@ -1194,7 +1385,7 @@
       ]
     },
     {
-      "title": "Urážlivá diskriminace • Účastníci zájezdu",
+      "title": "Urážlivá diskriminace",
       "file": "ucastnici_zajezdu_062.html",
       "words": 643,
       "chars": 4118,
@@ -1214,7 +1405,7 @@
       ]
     },
     {
-      "title": "Zuzana, Hynek a masmédia • Účastníci zájezdu",
+      "title": "Zuzana, Hynek a masmédia",
       "file": "ucastnici_zajezdu_063.html",
       "words": 536,
       "chars": 3209,
@@ -1234,7 +1425,7 @@
       ]
     },
     {
-      "title": "Max, Hyneka svědomí národa • Účastníci zájezdu",
+      "title": "Max, Hyneka svědomí národa",
       "file": "ucastnici_zajezdu_064.html",
       "words": 353,
       "chars": 2320,
@@ -1254,7 +1445,7 @@
       ]
     },
     {
-      "title": "Projekty Jolaniny matky • Účastníci zájezdu",
+      "title": "Projekty Jolaniny matky",
       "file": "ucastnici_zajezdu_065.html",
       "words": 653,
       "chars": 4191,
@@ -1274,7 +1465,7 @@
       ]
     },
     {
-      "title": "Všímavý homosexuál • Účastníci zájezdu",
+      "title": "Všímavý homosexuál",
       "file": "ucastnici_zajezdu_066.html",
       "words": 213,
       "chars": 1337,
@@ -1294,7 +1485,7 @@
       ]
     },
     {
-      "title": "Zachránce • Účastníci zájezdu",
+      "title": "Zachránce",
       "file": "ucastnici_zajezdu_067.html",
       "words": 237,
       "chars": 1434,
@@ -1314,7 +1505,7 @@
       ]
     },
     {
-      "title": "Z Šarlotina cestovního deníku • Účastníci zájezdu",
+      "title": "Z Šarlotina cestovního deníku",
       "file": "ucastnici_zajezdu_068.html",
       "words": 4,
       "chars": 29,
@@ -1334,7 +1525,7 @@
       ]
     },
     {
-      "title": "Helga by potřebovalaMaxovy nohy • Účastníci zájezdu",
+      "title": "Helga by potřebovalaMaxovy nohy",
       "file": "ucastnici_zajezdu_069.html",
       "words": 437,
       "chars": 2749,
@@ -1354,7 +1545,7 @@
       ]
     },
     {
-      "title": "A co na to literární kritika • Účastníci zájezdu",
+      "title": "A co na to literární kritika",
       "file": "ucastnici_zajezdu_070.html",
       "words": 26,
       "chars": 166,
@@ -1374,7 +1565,7 @@
       ]
     },
     {
-      "title": "Jací lidé chodí také volit • Účastníci zájezdu",
+      "title": "Jací lidé chodí také volit",
       "file": "ucastnici_zajezdu_071.html",
       "words": 512,
       "chars": 3188,
@@ -1394,7 +1585,7 @@
       ]
     },
     {
-      "title": "Rodiče za tmavým sklem • Účastníci zájezdu",
+      "title": "Rodiče za tmavým sklem",
       "file": "ucastnici_zajezdu_072.html",
       "words": 252,
       "chars": 1573,
@@ -1414,7 +1605,7 @@
       ]
     },
     {
-      "title": "Hnědé podšálky • Účastníci zájezdu",
+      "title": "Hnědé podšálky",
       "file": "ucastnici_zajezdu_073.html",
       "words": 107,
       "chars": 589,
@@ -1434,7 +1625,7 @@
       ]
     },
     {
-      "title": "Část druháPOBYTV LETOVISKU • Účastníci zájezdu",
+      "title": "Část druháPOBYTV LETOVISKU",
       "file": "ucastnici_zajezdu_074.html",
       "words": 3,
       "chars": 26,
@@ -1454,7 +1645,7 @@
       ]
     },
     {
-      "title": "Did she like that room? –Líbil se jí ten pokoj? • Účastníci zájezdu",
+      "title": "Did she like that room? –Líbil se jí ten pokoj?",
       "file": "ucastnici_zajezdu_075.html",
       "words": 627,
       "chars": 3743,
@@ -1474,7 +1665,7 @@
       ]
     },
     {
-      "title": "Vkusjako generační otázka • Účastníci zájezdu",
+      "title": "Vkusjako generační otázka",
       "file": "ucastnici_zajezdu_076.html",
       "words": 979,
       "chars": 5898,
@@ -1494,7 +1685,7 @@
       ]
     },
     {
-      "title": "Sentimentalita • Účastníci zájezdu",
+      "title": "Sentimentalita",
       "file": "ucastnici_zajezdu_077.html",
       "words": 34,
       "chars": 221,
@@ -1514,7 +1705,7 @@
       ]
     },
     {
-      "title": "A už žádné trojčení • Účastníci zájezdu",
+      "title": "A už žádné trojčení",
       "file": "ucastnici_zajezdu_078.html",
       "words": 216,
       "chars": 1317,
@@ -1534,7 +1725,7 @@
       ]
     },
     {
-      "title": "Je už Šarlota úplně pitomá? • Účastníci zájezdu",
+      "title": "Je už Šarlota úplně pitomá?",
       "file": "ucastnici_zajezdu_079.html",
       "words": 361,
       "chars": 2160,
@@ -1554,7 +1745,7 @@
       ]
     },
     {
-      "title": "Selektivní metoda výběru spolustolovníků • Účastníci zájezdu",
+      "title": "Selektivní metoda výběru spolustolovníků",
       "file": "ucastnici_zajezdu_080.html",
       "words": 919,
       "chars": 5620,
@@ -1574,7 +1765,7 @@
       ]
     },
     {
-      "title": "Na místa! • Účastníci zájezdu",
+      "title": "Na místa!",
       "file": "ucastnici_zajezdu_081.html",
       "words": 848,
       "chars": 5435,
@@ -1594,7 +1785,7 @@
       ]
     },
     {
-      "title": "Kdo je kdo(1) • Účastníci zájezdu",
+      "title": "Kdo je kdo(1)",
       "file": "ucastnici_zajezdu_082.html",
       "words": 1037,
       "chars": 6300,
@@ -1614,7 +1805,7 @@
       ]
     },
     {
-      "title": "Kdo je kdo(2) • Účastníci zájezdu",
+      "title": "Kdo je kdo(2)",
       "file": "ucastnici_zajezdu_083.html",
       "words": 635,
       "chars": 3802,
@@ -1634,7 +1825,7 @@
       ]
     },
     {
-      "title": "Žlutej meloun, uzenej lososa máta! • Účastníci zájezdu",
+      "title": "Žlutej meloun, uzenej lososa máta!",
       "file": "ucastnici_zajezdu_084.html",
       "words": 473,
       "chars": 3019,
@@ -1654,7 +1845,7 @@
       ]
     },
     {
-      "title": "Ukrajinec, kočka, uklízečkaa krab • Účastníci zájezdu",
+      "title": "Ukrajinec, kočka, uklízečkaa krab",
       "file": "ucastnici_zajezdu_085.html",
       "words": 717,
       "chars": 4325,
@@ -1674,7 +1865,7 @@
       ]
     },
     {
-      "title": "Max, moře a absence myšlenek • Účastníci zájezdu",
+      "title": "Max, moře a absence myšlenek",
       "file": "ucastnici_zajezdu_086.html",
       "words": 476,
       "chars": 2853,
@@ -1694,7 +1885,7 @@
       ]
     },
     {
-      "title": "A co na to česká literární kritika? • Účastníci zájezdu",
+      "title": "A co na to česká literární kritika?",
       "file": "ucastnici_zajezdu_087.html",
       "words": 26,
       "chars": 167,
@@ -1714,7 +1905,7 @@
       ]
     },
     {
-      "title": "Maxa racionální předsevzetí • Účastníci zájezdu",
+      "title": "Maxa racionální předsevzetí",
       "file": "ucastnici_zajezdu_088.html",
       "words": 306,
       "chars": 1845,
@@ -1734,7 +1925,7 @@
       ]
     },
     {
-      "title": "Sice ne žádní intelektuálové,ale zato docela milí lidé • Účastníci zájezdu",
+      "title": "Sice ne žádní intelektuálové,ale zato docela milí lidé",
       "file": "ucastnici_zajezdu_089.html",
       "words": 597,
       "chars": 3580,
@@ -1754,7 +1945,7 @@
       ]
     },
     {
-      "title": "Max bojuje s živly • Účastníci zájezdu",
+      "title": "Max bojuje s živly",
       "file": "ucastnici_zajezdu_090.html",
       "words": 657,
       "chars": 3852,
@@ -1774,7 +1965,7 @@
       ]
     },
     {
-      "title": "Air-bagy na obou sedadlech • Účastníci zájezdu",
+      "title": "Air-bagy na obou sedadlech",
       "file": "ucastnici_zajezdu_091.html",
       "words": 343,
       "chars": 2044,
@@ -1794,7 +1985,7 @@
       ]
     },
     {
-      "title": "A když přijdou k moři,i skály se jim dvoří • Účastníci zájezdu",
+      "title": "A když přijdou k moři,i skály se jim dvoří",
       "file": "ucastnici_zajezdu_092.html",
       "words": 528,
       "chars": 3362,
@@ -1814,7 +2005,7 @@
       ]
     },
     {
-      "title": "To jsou, panečku, kejty! • Účastníci zájezdu",
+      "title": "To jsou, panečku, kejty!",
       "file": "ucastnici_zajezdu_093.html",
       "words": 406,
       "chars": 2533,
@@ -1834,7 +2025,7 @@
       ]
     },
     {
-      "title": "Problémy se žaluziemi • Účastníci zájezdu",
+      "title": "Problémy se žaluziemi",
       "file": "ucastnici_zajezdu_094.html",
       "words": 779,
       "chars": 4859,
@@ -1854,7 +2045,7 @@
       ]
     },
     {
-      "title": "Maxa metoda proudu vědomí • Účastníci zájezdu",
+      "title": "Maxa metoda proudu vědomí",
       "file": "ucastnici_zajezdu_095.html",
       "words": 556,
       "chars": 3478,
@@ -1874,7 +2065,7 @@
       ]
     },
     {
-      "title": "Citát • Účastníci zájezdu",
+      "title": "Citát",
       "file": "ucastnici_zajezdu_096.html",
       "words": 43,
       "chars": 245,
@@ -1894,7 +2085,7 @@
       ]
     },
     {
-      "title": "Přesný zásah jedlové šiškyaneb nezávislý kritik • Účastníci zájezdu",
+      "title": "Přesný zásah jedlové šiškyaneb nezávislý kritik",
       "file": "ucastnici_zajezdu_097.html",
       "words": 997,
       "chars": 6072,
@@ -1914,7 +2105,7 @@
       ]
     },
     {
-      "title": "Citát • Účastníci zájezdu",
+      "title": "Citát",
       "file": "ucastnici_zajezdu_098.html",
       "words": 16,
       "chars": 96,
@@ -1934,7 +2125,7 @@
       ]
     },
     {
-      "title": "Mámivá vůně ibiškových květů • Účastníci zájezdu",
+      "title": "Mámivá vůně ibiškových květů",
       "file": "ucastnici_zajezdu_099.html",
       "words": 385,
       "chars": 2392,
@@ -1954,7 +2145,7 @@
       ]
     },
     {
-      "title": "Už zase citát?! • Účastníci zájezdu",
+      "title": "Už zase citát?!",
       "file": "ucastnici_zajezdu_100.html",
       "words": 21,
       "chars": 116,
@@ -1974,7 +2165,7 @@
       ]
     },
     {
-      "title": "Olina, Láďa a kamera • Účastníci zájezdu",
+      "title": "Olina, Láďa a kamera",
       "file": "ucastnici_zajezdu_101.html",
       "words": 508,
       "chars": 2930,
@@ -1994,7 +2185,7 @@
       ]
     },
     {
-      "title": "Suvenýry • Účastníci zájezdu",
+      "title": "Suvenýry",
       "file": "ucastnici_zajezdu_102.html",
       "words": 343,
       "chars": 2131,
@@ -2014,7 +2205,7 @@
       ]
     },
     {
-      "title": "Z pohledu kamery • Účastníci zájezdu",
+      "title": "Z pohledu kamery",
       "file": "ucastnici_zajezdu_103.html",
       "words": 138,
       "chars": 828,
@@ -2034,7 +2225,7 @@
       ]
     },
     {
-      "title": "Obměna přátel(1) • Účastníci zájezdu",
+      "title": "Obměna přátel(1)",
       "file": "ucastnici_zajezdu_104.html",
       "words": 48,
       "chars": 281,
@@ -2054,7 +2245,7 @@
       ]
     },
     {
-      "title": "Kdo jsou pan Petrescua paní Košťálová???!!!(poslední pokus) • Účastníci zájezdu",
+      "title": "Kdo jsou pan Petrescua paní Košťálová???!!!(poslední pokus)",
       "file": "ucastnici_zajezdu_105.html",
       "words": 431,
       "chars": 2604,
@@ -2074,7 +2265,7 @@
       ]
     },
     {
-      "title": "Maxova osobnostje tragicky rozpolcena! • Účastníci zájezdu",
+      "title": "Maxova osobnostje tragicky rozpolcena!",
       "file": "ucastnici_zajezdu_106.html",
       "words": 301,
       "chars": 1917,
@@ -2094,7 +2285,7 @@
       ]
     },
     {
-      "title": "Maxzobrazuje tělesnou touhu • Účastníci zájezdu",
+      "title": "Maxzobrazuje tělesnou touhu",
       "file": "ucastnici_zajezdu_107.html",
       "words": 895,
       "chars": 5642,
@@ -2114,7 +2305,7 @@
       ]
     },
     {
-      "title": "Obměna přátel(2) • Účastníci zájezdu",
+      "title": "Obměna přátel(2)",
       "file": "ucastnici_zajezdu_108.html",
       "words": 96,
       "chars": 597,
@@ -2134,7 +2325,7 @@
       ]
     },
     {
-      "title": "Honda Accord • Účastníci zájezdu",
+      "title": "Honda Accord",
       "file": "ucastnici_zajezdu_109.html",
       "words": 196,
       "chars": 1176,
@@ -2154,7 +2345,7 @@
       ]
     },
     {
-      "title": "Chčije • Účastníci zájezdu",
+      "title": "Chčije",
       "file": "ucastnici_zajezdu_110.html",
       "words": 326,
       "chars": 1987,
@@ -2174,7 +2365,7 @@
       ]
     },
     {
-      "title": "Rodina v teplém dešti • Účastníci zájezdu",
+      "title": "Rodina v teplém dešti",
       "file": "ucastnici_zajezdu_111.html",
       "words": 467,
       "chars": 2850,
@@ -2194,7 +2385,7 @@
       ]
     },
     {
-      "title": "Pamelin návrh • Účastníci zájezdu",
+      "title": "Pamelin návrh",
       "file": "ucastnici_zajezdu_112.html",
       "words": 156,
       "chars": 964,
@@ -2214,7 +2405,7 @@
       ]
     },
     {
-      "title": "Před tanečním večerem • Účastníci zájezdu",
+      "title": "Před tanečním večerem",
       "file": "ucastnici_zajezdu_113.html",
       "words": 433,
       "chars": 2564,
@@ -2234,7 +2425,7 @@
       ]
     },
     {
-      "title": "Irma a Beach Boy • Účastníci zájezdu",
+      "title": "Irma a Beach Boy",
       "file": "ucastnici_zajezdu_114.html",
       "words": 748,
       "chars": 4373,
@@ -2254,7 +2445,7 @@
       ]
     },
     {
-      "title": "Nepříjemná absenceotázek zjišťovacích • Účastníci zájezdu",
+      "title": "Nepříjemná absenceotázek zjišťovacích",
       "file": "ucastnici_zajezdu_115.html",
       "words": 297,
       "chars": 1818,
@@ -2274,7 +2465,7 @@
       ]
     },
     {
-      "title": "Další tance • Účastníci zájezdu",
+      "title": "Další tance",
       "file": "ucastnici_zajezdu_116.html",
       "words": 846,
       "chars": 5129,
@@ -2294,7 +2485,7 @@
       ]
     },
     {
-      "title": "Ekonomika pro každého • Účastníci zájezdu",
+      "title": "Ekonomika pro každého",
       "file": "ucastnici_zajezdu_117.html",
       "words": 631,
       "chars": 3696,
@@ -2314,7 +2505,7 @@
       ]
     },
     {
-      "title": "Mejdan na dvěstěčtrnáctce? • Účastníci zájezdu",
+      "title": "Mejdan na dvěstěčtrnáctce?",
       "file": "ucastnici_zajezdu_118.html",
       "words": 920,
       "chars": 5684,
@@ -2334,7 +2525,7 @@
       ]
     },
     {
-      "title": "Born to be wild • Účastníci zájezdu",
+      "title": "Born to be wild",
       "file": "ucastnici_zajezdu_119.html",
       "words": 1135,
       "chars": 6921,
@@ -2354,7 +2545,7 @@
       ]
     },
     {
-      "title": "Kam se pořád Ignáctak řítí? • Účastníci zájezdu",
+      "title": "Kam se pořád Ignáctak řítí?",
       "file": "ucastnici_zajezdu_120.html",
       "words": 227,
       "chars": 1305,
@@ -2374,7 +2565,7 @@
       ]
     },
     {
-      "title": "Potřebuje Max milenku? • Účastníci zájezdu",
+      "title": "Potřebuje Max milenku?",
       "file": "ucastnici_zajezdu_121.html",
       "words": 507,
       "chars": 3030,
@@ -2394,7 +2585,7 @@
       ]
     },
     {
-      "title": "Něco, co o sexu vědětnechceme • Účastníci zájezdu",
+      "title": "Něco, co o sexu vědětnechceme",
       "file": "ucastnici_zajezdu_122.html",
       "words": 551,
       "chars": 3214,
@@ -2414,7 +2605,7 @@
       ]
     },
     {
-      "title": "Co znamená být spisovatelem • Účastníci zájezdu",
+      "title": "Co znamená být spisovatelem",
       "file": "ucastnici_zajezdu_123.html",
       "words": 39,
       "chars": 263,
@@ -2434,7 +2625,7 @@
       ]
     },
     {
-      "title": "K některým dalším aspektůmmilostné předehry • Účastníci zájezdu",
+      "title": "K některým dalším aspektůmmilostné předehry",
       "file": "ucastnici_zajezdu_124.html",
       "words": 725,
       "chars": 4544,
@@ -2454,7 +2645,7 @@
       ]
     },
     {
-      "title": "Dva muži a kondom • Účastníci zájezdu",
+      "title": "Dva muži a kondom",
       "file": "ucastnici_zajezdu_125.html",
       "words": 212,
       "chars": 1299,
@@ -2474,7 +2665,7 @@
       ]
     },
     {
-      "title": "Trapas • Účastníci zájezdu",
+      "title": "Trapas",
       "file": "ucastnici_zajezdu_126.html",
       "words": 192,
       "chars": 1145,
@@ -2494,7 +2685,7 @@
       ]
     },
     {
-      "title": "Jsme lidi,nejsme zvířata, že? • Účastníci zájezdu",
+      "title": "Jsme lidi,nejsme zvířata, že?",
       "file": "ucastnici_zajezdu_127.html",
       "words": 464,
       "chars": 2755,
@@ -2514,7 +2705,7 @@
       ]
     },
     {
-      "title": "Když se Max ráno probudil • Účastníci zájezdu",
+      "title": "Když se Max ráno probudil",
       "file": "ucastnici_zajezdu_128.html",
       "words": 785,
       "chars": 4698,
@@ -2534,7 +2725,7 @@
       ]
     },
     {
-      "title": "Renting a car • Účastníci zájezdu",
+      "title": "Renting a car",
       "file": "ucastnici_zajezdu_129.html",
       "words": 486,
       "chars": 2863,
@@ -2554,7 +2745,7 @@
       ]
     },
     {
-      "title": "Nechoď, dcero, na jezero! • Účastníci zájezdu",
+      "title": "Nechoď, dcero, na jezero!",
       "file": "ucastnici_zajezdu_130.html",
       "words": 334,
       "chars": 2021,
@@ -2574,7 +2765,7 @@
       ]
     },
     {
-      "title": "Dodatečné zapojení Ukrajince • Účastníci zájezdu",
+      "title": "Dodatečné zapojení Ukrajince",
       "file": "ucastnici_zajezdu_131.html",
       "words": 974,
       "chars": 6043,
@@ -2594,7 +2785,7 @@
       ]
     },
     {
-      "title": "Vzkaz jako literární žánr • Účastníci zájezdu",
+      "title": "Vzkaz jako literární žánr",
       "file": "ucastnici_zajezdu_132.html",
       "words": 606,
       "chars": 3560,
@@ -2614,7 +2805,7 @@
       ]
     },
     {
-      "title": "K některým aspektůmranní komunikace • Účastníci zájezdu",
+      "title": "K některým aspektůmranní komunikace",
       "file": "ucastnici_zajezdu_133.html",
       "words": 439,
       "chars": 2668,
@@ -2634,7 +2825,7 @@
       ]
     },
     {
-      "title": "Krátké štěstí mladého poslance • Účastníci zájezdu",
+      "title": "Krátké štěstí mladého poslance",
       "file": "ucastnici_zajezdu_134.html",
       "words": 730,
       "chars": 4396,
@@ -2654,7 +2845,7 @@
       ]
     },
     {
-      "title": "Benátky • Účastníci zájezdu",
+      "title": "Benátky",
       "file": "ucastnici_zajezdu_135.html",
       "words": 574,
       "chars": 3560,
@@ -2674,7 +2865,7 @@
       ]
     },
     {
-      "title": "Podobenství o skutečném významu literární kritiky • Účastníci zájezdu",
+      "title": "Podobenství o skutečném významu literární kritiky",
       "file": "ucastnici_zajezdu_136.html",
       "words": 871,
       "chars": 5574,
@@ -2694,7 +2885,7 @@
       ]
     },
     {
-      "title": "Co řekl Hitchcock Truffautovi • Účastníci zájezdu",
+      "title": "Co řekl Hitchcock Truffautovi",
       "file": "ucastnici_zajezdu_137.html",
       "words": 60,
       "chars": 369,
@@ -2714,7 +2905,7 @@
       ]
     },
     {
-      "title": "Žlutá vodní kola • Účastníci zájezdu",
+      "title": "Žlutá vodní kola",
       "file": "ucastnici_zajezdu_138.html",
       "words": 624,
       "chars": 3805,
@@ -2734,7 +2925,7 @@
       ]
     },
     {
-      "title": "Kdo jsou pan Petrescua paní Košťálová???(vážně naposledy) • Účastníci zájezdu",
+      "title": "Kdo jsou pan Petrescua paní Košťálová???(vážně naposledy)",
       "file": "ucastnici_zajezdu_139.html",
       "words": 605,
       "chars": 3605,
@@ -2754,7 +2945,7 @@
       ]
     },
     {
-      "title": "Hynek, Zuzana, televizea Denisa • Účastníci zájezdu",
+      "title": "Hynek, Zuzana, televizea Denisa",
       "file": "ucastnici_zajezdu_140.html",
       "words": 350,
       "chars": 2193,
@@ -2774,7 +2965,7 @@
       ]
     },
     {
-      "title": "Naprosto normálnídepka • Účastníci zájezdu",
+      "title": "Naprosto normálnídepka",
       "file": "ucastnici_zajezdu_141.html",
       "words": 603,
       "chars": 3716,
@@ -2794,7 +2985,7 @@
       ]
     },
     {
-      "title": "Jolaně se nedaří usnout • Účastníci zájezdu",
+      "title": "Jolaně se nedaří usnout",
       "file": "ucastnici_zajezdu_142.html",
       "words": 135,
       "chars": 833,
@@ -2814,7 +3005,7 @@
       ]
     },
     {
-      "title": "Umění milovat(po patnácti letech) • Účastníci zájezdu",
+      "title": "Umění milovat(po patnácti letech)",
       "file": "ucastnici_zajezdu_143.html",
       "words": 457,
       "chars": 2686,
@@ -2834,7 +3025,7 @@
       ]
     },
     {
-      "title": "Proč Maxpíše o takových věcech? • Účastníci zájezdu",
+      "title": "Proč Maxpíše o takových věcech?",
       "file": "ucastnici_zajezdu_144.html",
       "words": 131,
       "chars": 774,
@@ -2854,7 +3045,7 @@
       ]
     },
     {
-      "title": "Účastníci a stíhačky • Účastníci zájezdu",
+      "title": "Účastníci a stíhačky",
       "file": "ucastnici_zajezdu_145.html",
       "words": 302,
       "chars": 1923,
@@ -2874,7 +3065,7 @@
       ]
     },
     {
-      "title": "Citát • Účastníci zájezdu",
+      "title": "Citát",
       "file": "ucastnici_zajezdu_146.html",
       "words": 64,
       "chars": 383,
@@ -2894,7 +3085,7 @@
       ]
     },
     {
-      "title": "Hádanky • Účastníci zájezdu",
+      "title": "Hádanky",
       "file": "ucastnici_zajezdu_147.html",
       "words": 774,
       "chars": 4717,
@@ -2914,7 +3105,7 @@
       ]
     },
     {
-      "title": "Raději bez názvu • Účastníci zájezdu",
+      "title": "Raději bez názvu",
       "file": "ucastnici_zajezdu_148.html",
       "words": 56,
       "chars": 330,
@@ -2934,7 +3125,7 @@
       ]
     },
     {
-      "title": "Jolana čekající • Účastníci zájezdu",
+      "title": "Jolana čekající",
       "file": "ucastnici_zajezdu_149.html",
       "words": 437,
       "chars": 2556,
@@ -2954,7 +3145,7 @@
       ]
     },
     {
-      "title": "Ukrajinský sex(1) • Účastníci zájezdu",
+      "title": "Ukrajinský sex(1)",
       "file": "ucastnici_zajezdu_150.html",
       "words": 719,
       "chars": 4367,
@@ -2974,7 +3165,7 @@
       ]
     },
     {
-      "title": "Jolanina matka má pro Maxefantastický námět • Účastníci zájezdu",
+      "title": "Jolanina matka má pro Maxefantastický námět",
       "file": "ucastnici_zajezdu_151.html",
       "words": 630,
       "chars": 3843,
@@ -2994,7 +3185,7 @@
       ]
     },
     {
-      "title": "Co chce Ignác dělatv Římě? • Účastníci zájezdu",
+      "title": "Co chce Ignác dělatv Římě?",
       "file": "ucastnici_zajezdu_152.html",
       "words": 97,
       "chars": 593,
@@ -3014,7 +3205,7 @@
       ]
     },
     {
-      "title": "Helga a Šarlotastojí před obtížným úkolem • Účastníci zájezdu",
+      "title": "Helga a Šarlotastojí před obtížným úkolem",
       "file": "ucastnici_zajezdu_153.html",
       "words": 207,
       "chars": 1352,
@@ -3034,7 +3225,7 @@
       ]
     },
     {
-      "title": "It was just a dream • Účastníci zájezdu",
+      "title": "It was just a dream",
       "file": "ucastnici_zajezdu_154.html",
       "words": 481,
       "chars": 2997,
@@ -3054,7 +3245,7 @@
       ]
     },
     {
-      "title": "Jolanin pragmatismus • Účastníci zájezdu",
+      "title": "Jolanin pragmatismus",
       "file": "ucastnici_zajezdu_155.html",
       "words": 533,
       "chars": 3205,
@@ -3074,7 +3265,7 @@
       ]
     },
     {
-      "title": "Zmarněná příležitost • Účastníci zájezdu",
+      "title": "Zmarněná příležitost",
       "file": "ucastnici_zajezdu_156.html",
       "words": 523,
       "chars": 3066,
@@ -3094,7 +3285,7 @@
       ]
     },
     {
-      "title": "Taneční hra čepičkováa jiné hry • Účastníci zájezdu",
+      "title": "Taneční hra čepičkováa jiné hry",
       "file": "ucastnici_zajezdu_157.html",
       "words": 687,
       "chars": 4459,
@@ -3114,7 +3305,7 @@
       ]
     },
     {
-      "title": "PravidlaProvlékání provázku • Účastníci zájezdu",
+      "title": "PravidlaProvlékání provázku",
       "file": "ucastnici_zajezdu_158.html",
       "words": 401,
       "chars": 2543,
@@ -3134,7 +3325,7 @@
       ]
     },
     {
-      "title": "Provlékání • Účastníci zájezdu",
+      "title": "Provlékání",
       "file": "ucastnici_zajezdu_159.html",
       "words": 599,
       "chars": 3623,
@@ -3154,7 +3345,7 @@
       ]
     },
     {
-      "title": "Ukrajinský sex(2) • Účastníci zájezdu",
+      "title": "Ukrajinský sex(2)",
       "file": "ucastnici_zajezdu_160.html",
       "words": 349,
       "chars": 2094,
@@ -3174,7 +3365,7 @@
       ]
     },
     {
-      "title": "Na Maxe padlanečekaná sklíčenost! • Účastníci zájezdu",
+      "title": "Na Maxe padlanečekaná sklíčenost!",
       "file": "ucastnici_zajezdu_161.html",
       "words": 487,
       "chars": 2955,
@@ -3194,7 +3385,7 @@
       ]
     },
     {
-      "title": "Náhoda?! • Účastníci zájezdu",
+      "title": "Náhoda?!",
       "file": "ucastnici_zajezdu_162.html",
       "words": 26,
       "chars": 151,
@@ -3214,7 +3405,7 @@
       ]
     },
     {
-      "title": "Jak minout eden,jenž do těch pekel vede? • Účastníci zájezdu",
+      "title": "Jak minout eden,jenž do těch pekel vede?",
       "file": "ucastnici_zajezdu_163.html",
       "words": 914,
       "chars": 5420,
@@ -3234,7 +3425,7 @@
       ]
     },
     {
-      "title": "Část třetíCESTAZ LETOVISKA • Účastníci zájezdu",
+      "title": "Část třetíCESTAZ LETOVISKA",
       "file": "ucastnici_zajezdu_164.html",
       "words": 3,
       "chars": 26,
@@ -3254,7 +3445,7 @@
       ]
     },
     {
-      "title": "Hnědé podšálky • Účastníci zájezdu",
+      "title": "Hnědé podšálky",
       "file": "ucastnici_zajezdu_165.html",
       "words": 144,
       "chars": 832,
@@ -3274,7 +3465,7 @@
       ]
     },
     {
-      "title": "Jak to skončí? • Účastníci zájezdu",
+      "title": "Jak to skončí?",
       "file": "ucastnici_zajezdu_166.html",
       "words": 96,
       "chars": 612,
@@ -3294,7 +3485,7 @@
       ]
     },
     {
-      "title": "Meditace • Účastníci zájezdu",
+      "title": "Meditace",
       "file": "ucastnici_zajezdu_167.html",
       "words": 307,
       "chars": 1771,
@@ -3314,7 +3505,7 @@
       ]
     },
     {
-      "title": "Jolanina matka to Maxovihodila na papír • Účastníci zájezdu",
+      "title": "Jolanina matka to Maxovihodila na papír",
       "file": "ucastnici_zajezdu_168.html",
       "words": 1305,
       "chars": 8637,
@@ -3334,7 +3525,7 @@
       ]
     },
     {
-      "title": "Nedochvilnost • Účastníci zájezdu",
+      "title": "Nedochvilnost",
       "file": "ucastnici_zajezdu_169.html",
       "words": 571,
       "chars": 3693,
@@ -3354,7 +3545,7 @@
       ]
     },
     {
-      "title": "Co jim má Jolana říct? • Účastníci zájezdu",
+      "title": "Co jim má Jolana říct?",
       "file": "ucastnici_zajezdu_170.html",
       "words": 470,
       "chars": 2815,
@@ -3374,7 +3565,7 @@
       ]
     },
     {
-      "title": "Do stejné řeky • Účastníci zájezdu",
+      "title": "Do stejné řeky",
       "file": "ucastnici_zajezdu_171.html",
       "words": 109,
       "chars": 684,
@@ -3394,7 +3585,7 @@
       ]
     },
     {
-      "title": "Redaktor, autor a text • Účastníci zájezdu",
+      "title": "Redaktor, autor a text",
       "file": "ucastnici_zajezdu_172.html",
       "words": 541,
       "chars": 3428,
@@ -3414,7 +3605,7 @@
       ]
     },
     {
-      "title": "Oskar znovu potvrzujesvůj hezký vztah k dětem! • Účastníci zájezdu",
+      "title": "Oskar znovu potvrzujesvůj hezký vztah k dětem!",
       "file": "ucastnici_zajezdu_173.html",
       "words": 320,
       "chars": 2110,
@@ -3434,7 +3625,7 @@
       ]
     },
     {
-      "title": "Happy ending • Účastníci zájezdu",
+      "title": "Happy ending",
       "file": "ucastnici_zajezdu_174.html",
       "words": 390,
       "chars": 2396,
@@ -3454,7 +3645,7 @@
       ]
     },
     {
-      "title": "Denisino podezření • Účastníci zájezdu",
+      "title": "Denisino podezření",
       "file": "ucastnici_zajezdu_175.html",
       "words": 592,
       "chars": 3601,
@@ -3474,7 +3665,7 @@
       ]
     },
     {
-      "title": "Proč proboha Ukrajinec?(1) • Účastníci zájezdu",
+      "title": "Proč proboha Ukrajinec?(1)",
       "file": "ucastnici_zajezdu_176.html",
       "words": 276,
       "chars": 1720,
@@ -3494,7 +3685,7 @@
       ]
     },
     {
-      "title": "Max a smrt(1) • Účastníci zájezdu",
+      "title": "Max a smrt(1)",
       "file": "ucastnici_zajezdu_177.html",
       "words": 311,
       "chars": 1927,
@@ -3514,7 +3705,7 @@
       ]
     },
     {
-      "title": "Proč proboha Ukrajinec?!(2) • Účastníci zájezdu",
+      "title": "Proč proboha Ukrajinec?!(2)",
       "file": "ucastnici_zajezdu_178.html",
       "words": 146,
       "chars": 945,
@@ -3534,7 +3725,7 @@
       ]
     },
     {
-      "title": "Ona to chápe,ale chápe taky on ji? • Účastníci zájezdu",
+      "title": "Ona to chápe,ale chápe taky on ji?",
       "file": "ucastnici_zajezdu_179.html",
       "words": 253,
       "chars": 1516,
@@ -3554,7 +3745,7 @@
       ]
     },
     {
-      "title": "Dva zátylky • Účastníci zájezdu",
+      "title": "Dva zátylky",
       "file": "ucastnici_zajezdu_180.html",
       "words": 153,
       "chars": 967,
@@ -3574,7 +3765,7 @@
       ]
     },
     {
-      "title": "Max jim do hlavy nevidí! • Účastníci zájezdu",
+      "title": "Max jim do hlavy nevidí!",
       "file": "ucastnici_zajezdu_181.html",
       "words": 338,
       "chars": 2078,
@@ -3594,7 +3785,7 @@
       ]
     },
     {
-      "title": "Změna vypravěče • Účastníci zájezdu",
+      "title": "Změna vypravěče",
       "file": "ucastnici_zajezdu_182.html",
       "words": 399,
       "chars": 2188,
@@ -3614,7 +3805,7 @@
       ]
     },
     {
-      "title": "Max a smrt(2) • Účastníci zájezdu",
+      "title": "Max a smrt(2)",
       "file": "ucastnici_zajezdu_183.html",
       "words": 384,
       "chars": 2389,
@@ -3634,7 +3825,7 @@
       ]
     },
     {
-      "title": "A co na točeská literární kritika? • Účastníci zájezdu",
+      "title": "A co na točeská literární kritika?",
       "file": "ucastnici_zajezdu_184.html",
       "words": 46,
       "chars": 290,
@@ -3654,7 +3845,7 @@
       ]
     },
     {
-      "title": "Zuzana a ovce • Účastníci zájezdu",
+      "title": "Zuzana a ovce",
       "file": "ucastnici_zajezdu_185.html",
       "words": 315,
       "chars": 1773,
@@ -3674,7 +3865,7 @@
       ]
     },
     {
-      "title": "Inzultace poslance • Účastníci zájezdu",
+      "title": "Inzultace poslance",
       "file": "ucastnici_zajezdu_186.html",
       "words": 392,
       "chars": 2357,
@@ -3694,7 +3885,7 @@
       ]
     },
     {
-      "title": "A co jsou tedy příběhy? • Účastníci zájezdu",
+      "title": "A co jsou tedy příběhy?",
       "file": "ucastnici_zajezdu_187.html",
       "words": 244,
       "chars": 1562,
@@ -3714,7 +3905,7 @@
       ]
     },
     {
-      "title": "Hnědé podšálky • Účastníci zájezdu",
+      "title": "Hnědé podšálky",
       "file": "ucastnici_zajezdu_188.html",
       "words": 81,
       "chars": 516,
@@ -3734,7 +3925,7 @@
       ]
     },
     {
-      "title": "Nečekané drama (už druhé) • Účastníci zájezdu",
+      "title": "Nečekané drama (už druhé)",
       "file": "ucastnici_zajezdu_189.html",
       "words": 216,
       "chars": 1358,
@@ -3754,7 +3945,7 @@
       ]
     },
     {
-      "title": "Co Maxe na psaní tak přitahuje(ale vážně) • Účastníci zájezdu",
+      "title": "Co Maxe na psaní tak přitahuje(ale vážně)",
       "file": "ucastnici_zajezdu_190.html",
       "words": 79,
       "chars": 497,
@@ -3774,7 +3965,7 @@
       ]
     },
     {
-      "title": "Co by Hynek bral • Účastníci zájezdu",
+      "title": "Co by Hynek bral",
       "file": "ucastnici_zajezdu_191.html",
       "words": 139,
       "chars": 813,
@@ -3794,7 +3985,7 @@
       ]
     },
     {
-      "title": "Maxovo statečné vystoupení • Účastníci zájezdu",
+      "title": "Maxovo statečné vystoupení",
       "file": "ucastnici_zajezdu_192.html",
       "words": 285,
       "chars": 1778,
@@ -3814,7 +4005,7 @@
       ]
     },
     {
-      "title": "Bilance • Účastníci zájezdu",
+      "title": "Bilance",
       "file": "ucastnici_zajezdu_193.html",
       "words": 172,
       "chars": 1073,
@@ -3834,7 +4025,7 @@
       ]
     },
     {
-      "title": "Je Jolana dobře napsaná?(trochu Kundery) • Účastníci zájezdu",
+      "title": "Je Jolana dobře napsaná?(trochu Kundery)",
       "file": "ucastnici_zajezdu_194.html",
       "words": 253,
       "chars": 1525,
@@ -3854,7 +4045,7 @@
       ]
     },
     {
-      "title": "Loučení s panem Petrescem • Účastníci zájezdu",
+      "title": "Loučení s panem Petrescem",
       "file": "ucastnici_zajezdu_195.html",
       "words": 152,
       "chars": 999,
@@ -3874,7 +4065,7 @@
       ]
     },
     {
-      "title": "Konec • Účastníci zájezdu",
+      "title": "Konec",
       "file": "ucastnici_zajezdu_196.html",
       "words": 233,
       "chars": 1336,
@@ -3894,11 +4085,11 @@
       ]
     },
     {
-      "title": "Tiráž • Účastníci zájezdu",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 139,
-      "chars": 920,
-      "ideas": 20,
+      "words": 124,
+      "chars": 810,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "ucastnici_zajezdu_196.html",
@@ -3916,9 +4107,9 @@
   ],
   "totals": {
     "all": {
-      "words": 80025,
-      "chars": 493208,
-      "ideas": 4300
+      "words": 80010,
+      "chars": 493098,
+      "ideas": 4296
     },
     "chapters": {
       "words": 79880,

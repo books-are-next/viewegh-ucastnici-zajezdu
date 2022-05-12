@@ -1,5 +1,6 @@
 ---
 title: "Autor a\_jeho čtenářka"
+contentType: prose
 ---
 
 „Promiňte,“ přistoupila k Maxovi průvodkyně se zářivým úsměvem, „mám tu čest?“

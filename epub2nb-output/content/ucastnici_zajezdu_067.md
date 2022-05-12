@@ -1,5 +1,6 @@
 ---
 title: Zachránce
+contentType: prose
 ---
 
 Zuby už jí drkotaly zimou. Začínala být zoufalá.

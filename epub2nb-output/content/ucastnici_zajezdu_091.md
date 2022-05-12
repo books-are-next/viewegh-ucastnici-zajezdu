@@ -1,5 +1,6 @@
 ---
 title: Air-bagy na obou sedadlech
+contentType: prose
 ---
 
 Oskar, Ignác, Irma a Denisa se mezitím bavili o rodičích. Denisa pravila, že upřímně obdivuje Jolanu, když se v jejím věku nestydí s rodiči jet na dovolenou. Irma řekla, že Jolanu spíš lituje. Ona si prý něco takového nedokáže ani představit. Její matka je údajně jakžtakž v pohodě, protože si dá říct, ale s kým prý nemůže vyjít vůbec, to je její fotr.

@@ -1,5 +1,6 @@
 ---
 title: Obměna přátel(1)
+contentType: prose
 ---
 
 „Víš, co mi včera řek? Že když se nad tím zamyslí, tak prý zjišťuje, že žije v jakýchsi pravidelných tříletých cyklech,“ smál se Oskar.

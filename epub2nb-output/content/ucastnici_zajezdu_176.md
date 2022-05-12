@@ -1,5 +1,6 @@
 ---
 title: Proč proboha Ukrajinec?(1)
+contentType: prose
 ---
 
 „Ale proč?“ nechápala Jolanina matka. „Proč proboha Ukrajinec?“

@@ -1,5 +1,6 @@
 ---
 title: "Jsou u\_moře moli?"
+contentType: prose
 ---
 
 Zkušené turistky Šarlota s Helgou problém s převlékáním samozřejmě dávno znaly – a vyřešily ho snad trochu komplikovaně, ale zato bezesporu osobitě: již na samém počátku turistického boomu v roce 1990 si spolu s dvěma dalšími kamarádkami – rovněž vášnivými cestovatelkami – ušily ze zbytků různých pestrobarevných látek, mezi kterými nechyběl ani damašek a brokát, jakýsi trojstěnný převlékací stan ve tvaru písmene U, jehož vrchní část vždy pomocí několika zavařovacích gumiček, sponek do vlasů a suchých zipů zavěsily na poličku na odkládání zavazadel, spustily jej nad svá čtyři sedadla a pak se uvnitř v klidu a beze spěchu převlékly. Čtvrtá stěna směrem k oknům zůstávala sice povážlivě nekrytá, ale to se vždy dalo vyřešit zatažením okenního závěsu či žaluzie, a navíc – pokud by nefungovaly čtecí lampičky – tudy přicházelo potřebné světlo.

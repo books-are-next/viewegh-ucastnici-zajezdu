@@ -1,5 +1,6 @@
 ---
 title: Maxzobrazuje tělesnou touhu
+contentType: prose
 ---
 
 Max vyhlédl z okna: dole u bazénu zatím nikdo nebyl. Rozhodl se, že si bude venku číst. V hale u baru si objednal kávu a opatrně si ji odnesl na jeden ze stolků pod modrobílými slunečníky. Zdvihl opěradlo lehátka do nejvyšší polohy, posadil se a vychutnával tichou samotu siesty. Usrkával skvělou, silnou kávu a spokojeně si četl – ale když po chvíli zdvihl oči, spatřil na protější straně bazénu Pamelu, vlekoucí obrovské průsvitné nafukovací křeslo.

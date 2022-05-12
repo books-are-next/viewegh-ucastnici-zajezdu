@@ -1,5 +1,6 @@
 ---
 title: Před tanečním večerem
+contentType: prose
 ---
 
 Helgu s Šarlotou ten nápad opravdu potěšil.

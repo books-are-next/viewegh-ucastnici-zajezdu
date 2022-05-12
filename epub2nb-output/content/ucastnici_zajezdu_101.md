@@ -1,5 +1,6 @@
 ---
 title: "Olina, Láďa a\_kamera"
+contentType: prose
 ---
 
 Petřík s Pavlíkem se vesele honili po pokoji.

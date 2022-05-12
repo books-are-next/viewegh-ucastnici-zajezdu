@@ -1,5 +1,6 @@
 ---
 title: Přesný zásah jedlové šiškyaneb nezávislý kritik
+contentType: prose
 ---
 
 Stála nad Maxovou postelí jako krásná mladá sudička.

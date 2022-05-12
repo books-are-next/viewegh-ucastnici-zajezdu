@@ -1,5 +1,6 @@
 ---
 title: Rozhovor
+contentType: prose
 ---
 
 Většina cestujících vystoupila.

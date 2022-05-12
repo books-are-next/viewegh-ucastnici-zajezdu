@@ -1,5 +1,6 @@
 ---
 title: "A\_co na to česká literární kritika?"
+contentType: prose
 ---
 
 _„Skutečnost, že jeho román zcela postrádá jakékoli myšlenky,  

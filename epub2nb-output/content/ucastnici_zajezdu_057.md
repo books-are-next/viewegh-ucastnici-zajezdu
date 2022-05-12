@@ -1,5 +1,6 @@
 ---
 title: Pohádka na dobrou noc
+contentType: prose
 ---
 
 Pamelino rozrušení stále rostlo.

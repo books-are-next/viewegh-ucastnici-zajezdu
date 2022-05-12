@@ -1,5 +1,6 @@
 ---
 title: Krátké štěstí mladého poslance
+contentType: prose
 ---
 
 Hynek sešel do jídelny, pozdravil se s Olgou a s Láďou a rovnou zamířil ke stolu, kde seděly Denisa s Irmou.

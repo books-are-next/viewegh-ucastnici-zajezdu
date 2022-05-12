@@ -1,5 +1,6 @@
 ---
 title: Náhoda?!
+contentType: prose
 ---
 
 Rozhodl se proto, že se půjde projít na čerstvý vzduch.

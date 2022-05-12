@@ -1,5 +1,6 @@
 ---
 title: Hnědé podšálky
+contentType: prose
 ---
 
 „Jdem si koupit kafčo,“ otočili se k Maxovi Oskar s Ignácem.

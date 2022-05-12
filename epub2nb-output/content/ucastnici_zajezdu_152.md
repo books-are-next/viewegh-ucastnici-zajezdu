@@ -1,5 +1,6 @@
 ---
 title: "Co chce Ignác dělatv\_Římě?"
+contentType: prose
 ---
 
 Oskar přišel k obědu bez Ignáce.

@@ -1,5 +1,6 @@
 ---
 title: První Jakubův problém
+contentType: prose
 ---
 
 První Jakubův problém spočíval v tom, že nemohl čúrat, když vedle něj kdokoli stál.

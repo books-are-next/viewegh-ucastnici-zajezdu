@@ -1,5 +1,6 @@
 ---
 title: Už zase citát?!
+contentType: prose
 ---
 
 _„Můžeme kupříkladu říci, že když si člověk bere ženu, jako by si bral nějaký příběh.“_

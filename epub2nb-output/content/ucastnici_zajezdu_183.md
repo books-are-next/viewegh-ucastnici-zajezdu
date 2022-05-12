@@ -1,5 +1,6 @@
 ---
 title: "Max a\_smrt(2)"
+contentType: prose
 ---
 
 První tři dny v Israeli bydlel Max u překladatelky románu, sympatické starší paní jménem Ruth Bondy, jež žila v pátém patře hezkého dvanáctipodlažního domu na telavivském předměstí Ramat Gan.

@@ -1,5 +1,6 @@
 ---
 title: Kdo je kdo(2)
+contentType: prose
 ---
 
 „Tak ještě tu máme tyhle dva pány na holení,“ ukázala Pamela prstem na Ignáce s Oskarem a potom spočinula dvěma významnými, dlouhými pohledy na Hynkovi a na Maxovi, „a po nich přijde to nejzajímavější!“

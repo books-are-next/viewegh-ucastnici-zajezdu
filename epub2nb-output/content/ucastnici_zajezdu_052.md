@@ -1,5 +1,6 @@
 ---
 title: 'Přerušení příběhu: výpravčí'
+contentType: prose
 ---
 
 Monotónní hučení motoru, ubíhající pás horizontu a drobné pohupování přinášely Maxovi dlouho nepoznaný vnitřní klid: pohodlně opřen a kolébán jízdou se namátkou probíral nejrůznějšími myšlenkami. Nedokázal se příliš soustředit a těkal od jednoho tématu k druhému, ale nevadilo mu to. Byl rád, že konečně dokázal přestat myslet na Pamelu.

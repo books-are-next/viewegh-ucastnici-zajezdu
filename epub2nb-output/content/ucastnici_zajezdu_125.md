@@ -1,5 +1,6 @@
 ---
 title: "Dva muži a\_kondom"
+contentType: prose
 ---
 
 Pokoj Oskara a Ignáce už byl zamčený.

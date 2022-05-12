@@ -1,5 +1,6 @@
 ---
 title: "Zpráva,která udělala z\_Ignáce vlastence"
+contentType: prose
 ---
 
 Když se palubní mikrofon konečně definitivně odmlčel, Oskar, Ignác i Max se vrátili k rozečteným novinám.

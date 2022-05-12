@@ -1,5 +1,6 @@
 ---
 title: "Max, moře a\_absence myšlenek"
+contentType: prose
 ---
 
 Ráno po snídani se Max s Oskarem a Ignácem vydal na pláž. O tom, že hotel, v němž budou ubytováni, má vlastní soukromou pláž, věděl už z prospektu cestovní kanceláře; nepřikládal tomu nejdříve žádný zvláštní význam, ale když nyní pod červenožlutými slunečníky spatřil více než polovinu z těch, které už znal z autobusu a především ze včerejší společné večeře, uvědomil si, jak důležitá je tato okolnost pro jeho psaní – být to normální, veřejná pláž, všechny jeho postavy by se mu kdesi rozprchly a on by o nich ztratil přehled. Takhle se mu bude psát mnohem lépe. Pozdravil se s Denisou a Irmou a s Jolanou a jejími rodiči a nedočkavě se rozběhl k moři.

@@ -1,5 +1,6 @@
 ---
 title: Mrkání
+contentType: prose
 ---
 
 „To je páreček,“ řekla Jituš. „Co tam v tom lese vždycky tak dlouho dělaj?“

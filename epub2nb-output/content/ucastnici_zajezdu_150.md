@@ -1,5 +1,6 @@
 ---
 title: Ukrajinský sex(1)
+contentType: prose
 ---
 
 K jejímu úžasu a navzdory jejím upřímným protestům Oleg všech šest koktejlů, které později přece jen vypili, sám zaplatil. Protestovala. Přece ho pozvala, a navíc ona vypila čtyři koktejly, zatímco on jen dva! On ale její námitky nevzal vůbec na vědomí – pánovitě jí ruku s peněženkou odstrčil, z kapsy košile vytáhl pečlivě složené bankovky, mlčky odpočítal příslušný počet a zasunul je do ubrousku k připravenému účtu.

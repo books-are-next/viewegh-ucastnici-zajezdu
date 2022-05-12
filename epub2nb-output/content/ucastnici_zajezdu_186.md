@@ -1,5 +1,6 @@
 ---
 title: Inzultace poslance
+contentType: prose
 ---
 
 Hynek se nemusel ani otáčet, aby pochopil, že Zuzana otevřela láhev koňaku, který koupil jako dárek pro svého otce. Krátce na Maxe pohlédl a sevřel rty. Max chápal jeho obavy.

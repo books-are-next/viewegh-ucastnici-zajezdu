@@ -1,5 +1,6 @@
 ---
 title: Zvuky Jakubovi nevadí
+contentType: prose
 ---
 
 Krátce poté, co Jolana zaznamenala další záchvěv nevolnosti, požádala řidiče, aby zastavil.

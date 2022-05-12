@@ -1,5 +1,6 @@
 ---
 title: Happy ending
+contentType: prose
 ---
 
 Jolana věděla, že už zvracet nebude. To už poznala. Nohy se jí sice ještě trochu chvěly, takže se po cestě raději chytala navlhlé kůry stromů, ale jinak se jí zřetelně ulevilo. Čas od času jí pod nohama zapraskala větev.

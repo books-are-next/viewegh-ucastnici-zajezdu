@@ -1,5 +1,6 @@
 ---
 title: Born to be wild
+contentType: prose
 ---
 
 Vrátili se dovnitř pokoje, aby jej připravili na příchod hostů. Oskar ustlal Ignácovu postel a posbíral Ignácovy poházené svršky; potom šel uklidit koupelnu.

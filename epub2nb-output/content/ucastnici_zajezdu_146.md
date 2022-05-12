@@ -1,5 +1,6 @@
 ---
 title: Citát
+contentType: prose
 ---
 
 Maxe stíhačky nezajímaly. Pokoušel se číst, ale většinou se stejně díval na Pamelu.

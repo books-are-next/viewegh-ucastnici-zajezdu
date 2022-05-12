@@ -1,5 +1,6 @@
 ---
 title: "Problém s\_odstředivou silou"
+contentType: prose
 ---
 
 Jolanin otec poté, co jeho chvalozpěv na vzpřímené, zářivé a sytě žluté slunečnice ukončil nečekaný a hysterický nesouhlas jeho dcery, uraženě zmlkl.

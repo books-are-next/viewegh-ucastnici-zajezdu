@@ -1,5 +1,6 @@
 ---
 title: "Max, Hyneka\_svědomí národa"
+contentType: prose
 ---
 
 Max se – stejně jako příčetná většina jeho spisovatelských kolegů – rozhodně nepovažoval za živé svědomí kohokoli či čehokoli, natož pak celého národa. Při čtení některých novinových článků, při několika besedách v Německu a zvláště pak na jednom pražském spisovatelském kongresu míval ovšem intenzivní pocit, že je mu podsouvána přímo povinnost pociťovat odpovědnost za kdeco.

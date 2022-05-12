@@ -1,5 +1,6 @@
 ---
 title: "A\_co jsou tedy příběhy?"
+contentType: prose
 ---
 
 „A co jsou tedy příběhy?“ tázal se řečnicky pan Petrescu. „V čem spočívá tajemství jejich přitažlivosti?“

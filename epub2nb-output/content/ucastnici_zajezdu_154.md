@@ -1,5 +1,6 @@
 ---
 title: "It was just a\_dream"
+contentType: prose
 ---
 
 „Tak Svatý otec zatím podle všeho žije,“ oznamoval nazítří u snídaně Maxovi radostně Oskar. „Ve zprávách alespoň o jeho smrti nic nebylo.“

@@ -1,5 +1,6 @@
 ---
 title: "Taneční hra čepičkováa\_jiné hry"
+contentType: prose
 ---
 
 Jakmile dozněla poslední slova Valčíku na rozloučenou a Šarlota s Helgou se posadily, mohla vzít Pamela konečně večírek do svých rukou a seznámit účastníky s hrami, které si pro ně připravila. Čerpala z knihy Jak se chovati ve společnosti, na kterou kdysi docela náhodou narazila na návštěvě u své babičky. Nejcennější připadal Pamele dodatek knihy, obsahující právě různé společenské hry, které prvorepubliková smetánka hrávala samozřejmě nejen na rozlučkových večírcích, ale i na svatebních hostinách, rautech, čajích o páté, maškarních plesích, zahradních slavnostech či river-party. Samotné hry nebyly nijak příliš pozoruhodné, avšak text vykazoval – jakkoli sama Pamela by to patrně takto nevyjádřila – roztomilý starosvětský půvab.

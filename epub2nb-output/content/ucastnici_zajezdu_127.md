@@ -1,5 +1,6 @@
 ---
 title: Jsme lidi,nejsme zvířata, že?
+contentType: prose
 ---
 
 Jolana se probudila vzrušením.

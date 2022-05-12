@@ -1,5 +1,6 @@
 ---
 title: Hnědé podšálky
+contentType: prose
 ---
 
 „Tak kolik jich chybí?“ řekl Karel.

@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Účastníci zájezdu
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - ucastnici_zajezdu_002.html
+  - promo.html
   - ucastnici_zajezdu_003.html
   - ucastnici_zajezdu_005.html
   - ucastnici_zajezdu_006.html

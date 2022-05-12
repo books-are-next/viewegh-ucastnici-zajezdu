@@ -1,5 +1,6 @@
 ---
 title: Spojité nádoby
+contentType: prose
 ---
 
 Pánské toalety byly až za ohybem budovy.

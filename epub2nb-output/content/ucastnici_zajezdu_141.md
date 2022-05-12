@@ -1,5 +1,6 @@
 ---
 title: Naprosto normálnídepka
+contentType: prose
 ---
 
 Deprese se u Irmy navenek obvykle projevovala dvěma věcmi: samomluvou a bezúčelným přecházením po místnosti. Čím hlubší její deprese byla, tím více toho namluvila a nachodila.

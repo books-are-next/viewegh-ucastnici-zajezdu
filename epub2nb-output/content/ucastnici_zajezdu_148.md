@@ -1,5 +1,6 @@
 ---
 title: Raději bez názvu
+contentType: prose
 ---
 
 Tentokrát zahlédl Max Irmu příliš pozdě – už ho uviděla.

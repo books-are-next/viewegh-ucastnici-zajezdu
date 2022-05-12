@@ -1,5 +1,6 @@
 ---
 title: Citát
+contentType: prose
 ---
 
 _„Mohu se vyjadřovat jen skrze svou osobní zkušenost a nemám ctižádost zahalovat ji do fiktivních podobenství._

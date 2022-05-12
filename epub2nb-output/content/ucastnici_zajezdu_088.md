@@ -1,5 +1,6 @@
 ---
 title: "Maxa\_racionální předsevzetí"
+contentType: prose
 ---
 
 Pálila ho sůl v očích, ale byl šťastný.

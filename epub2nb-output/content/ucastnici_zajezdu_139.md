@@ -1,5 +1,6 @@
 ---
 title: "Kdo jsou pan Petrescua\_paní Košťálová???(vážně naposledy)"
+contentType: prose
 ---
 
 Jolanini rodiče později přistihli Jolanu a Maxe v malé kavárničce přímo na pláži. Oba se usmívali: nebudou rušit, přišli si prý jen pro zmrzlinu. Jolana na ně hleděla se směsí pobaveného údivu, studu a podezíravosti.

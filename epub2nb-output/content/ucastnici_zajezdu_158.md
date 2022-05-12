@@ -1,5 +1,6 @@
 ---
 title: PravidlaProvlékání provázku
+contentType: prose
 ---
 
 „Tak hele: Jmenuje se to Provlíkání provázku,“ vysvětloval Jarda pozorně naslouchajícím účastníkům zájezdu.

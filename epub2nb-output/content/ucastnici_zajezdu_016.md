@@ -1,5 +1,6 @@
 ---
 title: Člověk vedle Jolany
+contentType: prose
 ---
 
 Jolana seděla před svými rodiči.

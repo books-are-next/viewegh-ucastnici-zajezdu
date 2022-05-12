@@ -45,7 +45,7 @@
         "filename": "ucastnici_zajezdu_002.md",
         "xhtml": "ucastnici_zajezdu_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -2208,7 +2208,7 @@
       "identifier": "urn:uuid:40cec7d8-503d-40e6-b62c-c11e26527888",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T10:12:40.321Z"
+      "modified": "2019-04-18T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -2344,7 +2344,7 @@
         "xhtml": "ucastnici_zajezdu_022.xhtml"
       },
       {
-        "titleSuggest": "Max přiděluje jména.Max a Budějovičáci",
+        "titleSuggest": "Max přiděluje jména\\.Max a Budějovičáci",
         "subtitleSuggest": "",
         "filename": "ucastnici_zajezdu_023.md",
         "xhtml": "ucastnici_zajezdu_023.xhtml"
@@ -3467,6 +3467,6 @@
       "user": "books-are-next",
       "repo": "viewegh-ucastnici-zajezdu"
     },
-    "generatedAt": 1638439961604
+    "generatedAt": 1652351345386
   }
 }

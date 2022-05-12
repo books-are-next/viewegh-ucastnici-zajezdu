@@ -1,5 +1,6 @@
 ---
 title: Rodiče za tmavým sklem
+contentType: prose
 ---
 
 Jolana konečně také usnula.

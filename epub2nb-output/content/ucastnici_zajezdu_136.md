@@ -1,5 +1,6 @@
 ---
 title: "Podobenství o\_skutečném významu literární kritiky"
+contentType: prose
 ---
 
 Jolaně bylo s Maxem dobře.

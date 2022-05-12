@@ -1,5 +1,6 @@
 ---
 title: Chčije
+contentType: prose
 ---
 
 Jardovi se zdálo, že slyší déšť.

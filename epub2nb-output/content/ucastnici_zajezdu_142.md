@@ -1,5 +1,6 @@
 ---
 title: Jolaně se nedaří usnout
+contentType: prose
 ---
 
 Jolana se rozhodla, že si po tom strašlivém včerejšku odpoledne trochu zdřímne, ale stále se jí nedařilo usnout. Už déle než hodinu jenom upírala oči do zdi a poslouchala tiché bzučení klimatizace.

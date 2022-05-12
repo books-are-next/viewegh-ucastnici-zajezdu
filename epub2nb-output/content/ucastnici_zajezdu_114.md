@@ -1,5 +1,6 @@
 ---
 title: "Irma a\_Beach Boy"
+contentType: prose
 ---
 
 Irmu Beach Boyovo vyzvání k tanci vcelku potěšilo.

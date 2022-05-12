@@ -1,5 +1,6 @@
 ---
 title: "Helga a\_Šarlotastojí před obtížným úkolem"
+contentType: prose
 ---
 
 Helga a Šarlota stály onoho odpoledne před mimořádně obtížným úkolem. Už zítra je čekal závěrečný rozlučkový večírek a ony dobře chápaly, že básnicko-recitační triumf na úvodním večírku seznamovacím je nemálo zavazuje. Věděly, že vzbudily u ostatních účastníků zájezdu jistá oprávněná očekávání – ale dosud vůbec netušily, jak těmto očekáváním dostát.
