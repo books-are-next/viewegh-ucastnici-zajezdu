@@ -3,6 +3,8 @@ title: "Proč Maxpíše o\_takových věcech?"
 contentType: prose
 ---
 
+<section>
+
 „Proč píšeš o takových věcech?“ vytýkala Maxovi Pamela.
 
 „O jakých?“
@@ -26,3 +28,5 @@ Max tu krásnou dívku mlčky pozoroval.
 „Ale proč by to nemělo cenu? Co je na tom špatného – psát o hezkých věcech?“
 
 „Nic.“
+
+</section>

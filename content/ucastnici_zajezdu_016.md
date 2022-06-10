@@ -3,6 +3,8 @@ title: Člověk vedle Jolany
 contentType: prose
 ---
 
+<section>
+
 Jolana seděla před svými rodiči.
 
 Místo u okna bylo dosud volné a Jolana zkoušela v duchu odhadnout, který z dosud nenastoupivších účastníků zájezdu by mohl být jejím sousedem – s ohledem na svou kinetózu by rozhodně dala přednost nějaké starší, laskavé paní. Ideální by byla milosrdná sestra. Bohužel se však ukázalo, že jejím sousedem bude asi čtyřicetiletý muž. Nápadně opálený. A – ušklíbla se v duchu Jolana – samozřejmě s řetězem na krku. V laciných, nekvalitních modrých džínsách, nevkusných černých polobotkách a žlutém tričku z jakéhosi syntetického materiálu. Playboy třetí kategorie, říkala si Jolana opovržlivě. Jeho úsměv byl však s jejím předchozím zařazením trochu v rozporu: působil očividně plaše.
@@ -28,3 +30,5 @@ Znovu se omluvně usmál.
 „Ničevó. Ja tóže užé zabýla rúskij jazyk,“ řekla Jolana vesele.
 
 Cítila nad tím člověkem jistou převahu, a to ji uklidňovalo. Jestliže se před ním vůbec nestydí mluvit, třeba se nebude tolik stydět před ním zvracet.
+
+</section>

@@ -3,6 +3,8 @@ title: Problémy se žaluziemi
 contentType: prose
 ---
 
+<section>
+
 Hynek přistoupil k oknu. Zuzana s Jakubem byli ještě u bazénu, přestože slunce už před více než půlhodinou zašlo. Zuzana právě cosi vykládala Láďovi.
 
 Napadlo ho, že vlastně v žádném z těch mnoha hotelů, ve kterých byl kdy ubytován, nenarazil ještě na pravé „filmové“ žaluzie, které je možné na libovolném místě dvěma prsty maličko rozevřít – jen natolik, aby si dotyčný hrdina či padouch vytvořil dostatečně velkou a přitom zvenčí prakticky nepostřehnutelnou štěrbinu pro své zvědavé, podezíravé či chlípné oko.
@@ -30,3 +32,5 @@ Dokonce ani nemrštil popelníkem o zeď.
 Po pravdě řečeno obě skleničky i popelník umyl spolu s ostatním nádobím, které našpinil, když si ohříval večeři.
 
 Nepoznával se.
+
+</section>

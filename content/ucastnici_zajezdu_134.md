@@ -3,6 +3,8 @@ title: Krátké štěstí mladého poslance
 contentType: prose
 ---
 
+<section>
+
 Hynek sešel do jídelny, pozdravil se s Olgou a s Láďou a rovnou zamířil ke stolu, kde seděly Denisa s Irmou.
 
 Denisu příjemně překvapilo, že je sám.
@@ -36,3 +38,5 @@ Hynek se opájí tím výbuchem vnitřní radosti, která z ní tryská jako vo
 Hynek tomu nerozuměl. Sníval takhle od samého počátku jejich manželství, ale tenkrát to bylo logické – tehdy neměli žádné peníze a koupi obyčejného svetru nebo třeba magnetofonu pokaždé nutně předcházelo několikaměsíční období pouhého snění. Proč o tom ale nepřestává snít i teď? A především: proč o tom sní zrovna teď – když mu Zuzana zamyká jeho vlastní pokoj a krade mu jeho vlastní peníze? Ještě před chvílí jí chtěl rozdupat šminky – a nyní ji touží udělat šťastnou.
 
 Opravdu tomu nerozuměl.
+
+</section>

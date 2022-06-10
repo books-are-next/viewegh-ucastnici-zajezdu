@@ -3,6 +3,8 @@ title: "Servírky a\_literatura"
 contentType: prose
 ---
 
+<section>
+
 „Pánové mají vybráno?“ pravila mladá servírka s okouzlujícím úsměvem.
 
 „Dám si kapra na modro,“ řekl Ignác.
@@ -32,3 +34,5 @@ Ignác s Oskarem vypadali rovněž spokojeně.
 „To mě podrž,“ řekl Oskar.
 
 „Druhý citát na jediné stránce?“ řekl Ignác Maxovi varovně. „Ty si, hochu, zase koleduješ.“
+
+</section>

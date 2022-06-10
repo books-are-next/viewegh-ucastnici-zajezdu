@@ -3,6 +3,8 @@ title: Maxova osobnostje tragicky rozpolcena!
 contentType: prose
 ---
 
+<section>
+
 Max chtěl během odpolední siesty psát, ale namísto toho během odpolední siesty dvakrát onanoval.
 
 Jeho osobnost byla tragicky rozpolcena.
@@ -22,3 +24,5 @@ Takový úkol – uvědomoval si Max – si žádal naprostou negaci prakticky
 Znamenal naprosté, totální sebepopření.
 
 Jenomže ty její bradavky za to fakt stály!
+
+</section>

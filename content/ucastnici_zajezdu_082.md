@@ -3,6 +3,8 @@ title: Kdo je kdo(1)
 contentType: prose
 ---
 
+<section>
+
 Jestliže toto obnovení tradičního zvyku někdejších odborářských rekreací většinu přítomných řekněme poněkud zaskočilo, pak Max jím byl upřímně vyděšen. Měl už své postavy dávno vybrané, jejich charaktery přinejmenším solidně nahozené, a dokonce všem pracně přidělil i jakžtakž obstojná jména – a teď mu to ta holka celé rozbourá!
 
 „Takže já to vezmu hákem, abych nezdržoval, a představím vám rovnou celou naší rodinu,“ začal Jarda. „Takže já se jmenuju Pavel, moje žena se jmenuje Lenka a jsme oba z Mělníka.“
@@ -162,3 +164,5 @@ Ta holka je skvělá, uvědomoval si Max.
 Jeho potlesk byl – poprvé na tomto zájezdu – naprosto upřímný. Jen kdyby byla trochu hezčí, napadlo ho.
 
 Tak snad se to konečně začíná obracet k lepšímu, říkala si Jolana, když si sedala.
+
+</section>

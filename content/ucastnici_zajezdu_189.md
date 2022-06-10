@@ -3,6 +3,8 @@ title: Nečekané drama (už druhé)
 contentType: prose
 ---
 
+<section>
+
 Převlékání pod stanem tentokrát Helze a Šarlotě trvalo nezvykle dlouho.
 
 Helga Šarlotu jako obvykle podrážděně napomínala, že ji vůbec neposlouchá, a sešívaná látka se divoce vlnila jejími podrážděnými pohyby. Potom však hemžení jako na povel ustalo a vzápětí se ozval Helžin pláč.
@@ -36,3 +38,5 @@ Helžina zrudlá, rozcuchaná hlava vykoukla zpod stanu.
 Max se zdvihl, prošel uličkou a vzal Helze kabelku z ruky. Pas byl v jedné z vnitřních kapes.
 
 „Jenom jste se špatně podívala,“ řekl jí chlácholivě.
+
+</section>

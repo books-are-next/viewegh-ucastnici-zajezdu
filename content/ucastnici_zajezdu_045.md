@@ -3,6 +3,8 @@ title: Mrkání
 contentType: prose
 ---
 
+<section>
+
 „To je páreček,“ řekla Jituš. „Co tam v tom lese vždycky tak dlouho dělaj?“
 
 Zasmála se.
@@ -18,3 +20,5 @@ Zasmála se.
 „Fuj,“ smála se Jituš. „Ty seš ale prase!“
 
 Znělo to obdivně.
+
+</section>

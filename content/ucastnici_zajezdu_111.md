@@ -3,6 +3,8 @@ title: "Rodina v\_teplém dešti"
 contentType: prose
 ---
 
+<section>
+
 Romantická procházka v teplém dešti, kterou po ranním usmíření navrhl Zuzaně a Jakubovi Hynek, skončila už po necelé hodině, když Zuzana Hynka žertem obvinila, že si neustále přitahuje deštník na svou stranu, v důsledku čehož má ona úplně promočené šaty na pravém rameni.
 
 Hynek se zastavil.
@@ -78,3 +80,5 @@ Nepřítomně hleděl na ty nesrozumitelné symboly na kartách.
 „Proboha hraj!“ žádala ho Zuzana.
 
 Znělo to zoufale.
+
+</section>

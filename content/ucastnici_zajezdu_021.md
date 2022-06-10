@@ -3,6 +3,8 @@ title: Hnědé podšálky
 contentType: prose
 ---
 
+<section>
+
 „Jdem si koupit kafčo,“ otočili se k Maxovi Oskar s Ignácem.
 
 „Tak já taky,“ řekl Max.
@@ -32,3 +34,5 @@ Byl rád, že je se svými kamarády na tomto zájezdě.
 „Hoši,“ řekl s úsměvem Karel, „vy si děláte prdel, ale nám už se dva podšálky ztratily.“
 
 „Tři,“ otočil se od volantu pochmurně starší Karel. „Už kurva tři. Já to fakticky nechápu.“
+
+</section>

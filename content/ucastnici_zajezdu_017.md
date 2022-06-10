@@ -3,6 +3,8 @@ title: Dívka doslova milujícísvou práci
 contentType: prose
 ---
 
+<section>
+
 Oskar se dostavil deset minut před stanoveným odjezdem; většina účastníků zájezdu však už způsobně seděla na svých místech.
 
 „Už jsem začínala být netrpělivá,“ řekla mu slečna průvodkyně s hranou výčitkou a zářivě se na něho usmála. Oskar rozpačitě pokrčil rameny a očima vyhledal Ignáce s Maxem; zamířil k nim a s postřehnutelnou úlevou se posadil na volné místo vedle Ignáce.
@@ -72,3 +74,5 @@ Jolana vzdychla.
 Ignác na jejího otce pochvalně pohlédl.
 
 „Setkání s lidmi, kteří doslova milují svou práci,“ vysvětlil Jolaně vesele, „může být někdy pro lidské ledviny značná zátěž.“
+
+</section>

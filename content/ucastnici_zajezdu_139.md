@@ -3,6 +3,8 @@ title: "Kdo jsou pan Petrescua\_paní Košťálová???(vážně naposledy)"
 contentType: prose
 ---
 
+<section>
+
 Jolanini rodiče později přistihli Jolanu a Maxe v malé kavárničce přímo na pláži. Oba se usmívali: nebudou rušit, přišli si prý jen pro zmrzlinu. Jolana na ně hleděla se směsí pobaveného údivu, studu a podezíravosti.
 
 „Odkdy jíš, otče, zmrzlinu?“ zeptala se.
@@ -42,3 +44,5 @@ Max šel s Jolanou s nimi. Potom se osprchoval, oblékl a už sám se vydal n
 „Úplně jako z Texasu,“ plácl Max.
 
 Připadal si jako idiot.
+
+</section>

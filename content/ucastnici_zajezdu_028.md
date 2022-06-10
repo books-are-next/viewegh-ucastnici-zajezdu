@@ -3,6 +3,8 @@ title: Jolanino první zvracení
 contentType: prose
 ---
 
+<section>
+
 Jolana si vzala druhý Travel Gum okamžitě poté, co ucítila důvěrně známé příznaky přicházející nevolnosti.
 
 Bílomodrou plochou krabičku měla přichystanou ve vnitřní přihrádce své kabelky, která byla uzavíratelná na zip a v níž měla také peněženku, kreditní kartu a osobní doklady; Jolana použila tuto přihrádku zcela záměrně, neboť katastrofální následky případné ztráty žvýkacích tablet se – alespoň v jejích očích – přinejmenším vyrovnaly případným důsledkům ztráty šesti set německých marek nebo cestovního pasu.
@@ -90,3 +92,5 @@ Potom se několikrát – s vyvalenýma očima a za strašlivých zvuků –
 „Říkala jsem jí, ať si vezme kinedryl,“ řekla Jolanina matka svému muži.
 
 „Doběhnu se vyčúrat,“ oznámil Jakub spěšně matce, když autobus zastavil.
+
+</section>

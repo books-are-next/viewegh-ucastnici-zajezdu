@@ -3,6 +3,8 @@ title: Mámivá vůně ibiškových květů
 contentType: prose
 ---
 
+<section>
+
 Ignác se po příchodu do jídelny zamyšleně zastavil. Vzápětí česky informoval procházející servírku, že venku slunce už dávno otevřelo rudé ibiškové květy, přičemž uvolnilo jejich mámivou vůni, takže by prý byl smrtelný hřích trávit byť jen jedinou další minutu tak nádherného rána uvnitř.
 
 Servírka se zmateně usmívala.
@@ -44,3 +46,5 @@ Maxovi vzhledem k jeho vlastním zkušenostem připadalo, že to skutečně vys
 „Manželství,“ řekl Ignác suše, jako by i tohle jediné slovo bylo dostatečným vysvětlením.
 
 Oskar mu věnoval vyčítavý pohled.
+
+</section>

@@ -3,6 +3,8 @@ title: Nedochvilnost
 contentType: prose
 ---
 
+<section>
+
 „Nastupovat!“ volala vesele Pamela na konci první zastávky.
 
 Ještě přibíhali Jolana a Jakub.
@@ -96,3 +98,5 @@ Jolanina matka útrpně zavrtěla hlavou.
 „Nechceš si na chvíli zdřímnout?“ navrhovala svému muži.
 
 „Dobrý nápad,“ řekla Jolana, „ale hlavně nám, otče, nevypadni do uličky.“
+
+</section>

@@ -3,6 +3,8 @@ title: "Deštivé počasí může dovolenouu\_moře značně znepříjemnit"
 contentType: prose
 ---
 
+<section>
+
 _Odehrává se u jednoho z modrých stolů v motorestu Aral._
 
 > **JARDA** (_pomrkává na Hynka_): Hlavně aby tam byla blízko núdapláž…
@@ -62,3 +64,5 @@ _Rozpačité ticho; Jarda s Jituš pod jakousi záminkou vzápětí odcházejí
 > **HYNEK** (_hájí se_): Ale vždyť já nikým nepohrdám…
 
 > **ZUZANA**: Dej mi pokoj…
+
+</section>

@@ -3,6 +3,8 @@ title: Zmarněná příležitost
 contentType: prose
 ---
 
+<section>
+
 Jakub zaklepal podruhé, ale ani tentokrát se nikdo neozval. Zkusil vzít za kliku. Bylo zamčeno, ačkoliv klíč, jak si cestou všiml, v recepci nevisel. Nechápal to. Věděl, že Ignác jel na výlet do Říma, ale Oskar tu přece zůstal, takže musel být uvnitř.
 
 Proč mu ale neotevřel?
@@ -64,3 +66,5 @@ Jakub cítil, že mu trochu vlhnou oči, a tak si rychle nasadil potápěčské
 „Papež je svině!“ vyhrkl Jakub.
 
 Ještě nám ten dědek zakáže řídit! pomyslel si zuřivě, když vybíhal z pokoje.
+
+</section>

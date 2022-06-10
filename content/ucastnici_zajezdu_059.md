@@ -3,6 +3,8 @@ title: Dvacet minut je asi málo
 contentType: prose
 ---
 
+<section>
+
 Přítomnost více než dvou desítek zájezdových autobusů na přeplněném parkovišti u benzinového čerpadla dávala tušit, že fronta před dámskou toaletou bude tentokrát ještě delší než obvykle.
 
 „Dáme jim radši ne patnáct, ale dvacet minut,“ řekla Pamela Karlovi do palubního mikrofonu.
@@ -30,3 +32,5 @@ Oskar věděl, že během posledních dvou hodin vypil Ignác asi šest piv, a 
 Irma s Denisou se zasmály.
 
 „Za půl hodiny to musej stihnout, i kdyby nechtěly,“ uvažoval nahlas Karel.
+
+</section>

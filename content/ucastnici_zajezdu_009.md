@@ -3,6 +3,8 @@ title: "Beach Boy a\_jeho dcera"
 contentType: prose
 ---
 
+<section>
+
 Jolanin otec byl podrážděný.
 
 Byl podrážděný, protože bylo takové horko, protože se potil a protože autobus stále ještě nedorazil. Především však měl vztek, že to byl on sám, kdo mu koupil ty obrovské, křiklavé, tyrkysové šortky se stylizovanými zelenými palmami, jakousi ležící nahou mulatkou a oranžovým nápisem Beach Boy na obou nohavicích. Koupil si je minulý týden v Praze, kam přijel, aby se tu ucházel o nové zaměstnání. Vstupní pohovor však nedopadl dobře: dotyčná firma totiž na inzerované místo požadovala věk do padesáti let. Navzdory svému předsevzetí během vstupního pohovoru několikrát zvýšil hlas; křičel na ty ignoranty, že je to do nebe volající diskriminace. Samozřejmě už věděl, že to místo nedostane. Během odpoledne se uklidnil. Došel si na dobrý oběd a dal si sedmičku vína; po obědě si dal ještě kávu a koňak.
@@ -86,3 +88,5 @@ Klid, říkala si. Mám vysokou školu, státnice ze dvou jazyků, zajímavou, s
 Do háje, říkala si Jolana, když nastupovala do autobusu. Do háje!
 
 „Vzala sis kinedryl?“ chtěla vědět matka.
+
+</section>

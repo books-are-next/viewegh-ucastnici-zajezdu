@@ -3,6 +3,8 @@ title: Jolaně se nedaří usnout
 contentType: prose
 ---
 
+<section>
+
 Jolana se rozhodla, že si po tom strašlivém včerejšku odpoledne trochu zdřímne, ale stále se jí nedařilo usnout. Už déle než hodinu jenom upírala oči do zdi a poslouchala tiché bzučení klimatizace.
 
 Nakonec se natáhla pro matčinu brožuru Mluvíme s cizinci a začala v ní namátkou listovat.
@@ -20,3 +22,5 @@ Odhodila knihu na zem, vstala a vyšla na balkon. Po chvíli spatřila Olega, j
 Položila ruce na horké zábradlí a zhluboka dýchala.
 
 „Dyšítě glúboko,“ opakovala si polohlasem. „Dyšítě glúboko.“
+
+</section>

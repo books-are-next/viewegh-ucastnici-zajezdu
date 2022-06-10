@@ -3,6 +3,8 @@ title: Vzkaz jako literární žánr
 contentType: prose
 ---
 
+<section>
+
 Hynek se probudil krátce po půl deváté. Max v pokoji nebyl. Přičichl si k prstům a ucítil Denisino pohlaví.
 
 Chvíli se ještě pokoušel usnout, ale potom ztěžka vstal. S odporem posbíral své zmačkané a zakouřené šatstvo; z kapsy kalhot se na koberec vysypalo několik mincí, představující jeho veškerou momentální hotovost. S útrpným hekáním je posbíral a spočítal: měl čtyři a půl tisíce lir, takže si mohl koupit dvě zmrzliny.
@@ -27,28 +29,40 @@ Hledal v pokoji nějaký vzkaz, ale žádný neobjevil. Postele byly ustlané a
 
 Oblékl si plavky, čisté tričko a natáhl si šortky. Z Jakubova nočního stolku vzal poznámkový blok a modrou fixu a sedl si ke stolu.
 
-  
+</section>
+
+<section>
 
 > __Nikdy ti neodpustím, že jsi do naší tzv. hádky v naprostém rozporu se vším, co jsme si mnohokrát závazně slíbili, tentokrát zatáhla nejen všechny ty cizí lidi, ale i Jakuba. Jestli bude večer zamčeno, vyrazím nejdřív dveře a hned po nich tebe. Zařiď se podle toho_,_
 
-  
+</section>
+
+<section>
 
 napsal zuřivě bez jediného zaváhání. Okamžitě papír z bloku vytrhl, zmačkal a strčil do kapsy. Stejně naložil i s dalším papírem, na který – už ne tak rychle – napsal:
 
-  
+</section>
+
+<section>
 
 > _Odpověz si na jedinou otázku: Co ti dává právo jednat se mnou takhle? Víš vůbec, co děláš? Zamykáš si dveře k budoucnosti – opravdu to chceš?_
 
-  
+</section>
+
+<section>
 
 Pod následujícím listem prosvítala Jakubova kresba; nějakou chvíli na ni mlčky hleděl a představoval si různé věci.
 
 Potom vytrhl papír až ze samého konce bloku a napsal na něj:
 
-  
+</section>
+
+<section>
 
 > _Zuzano, prosím tě, smažme ten hloupý včerejšek a nekažme dovolenou ani Jakubovi, ani lidem kolem nás, ani sami sobě. Vím samozřejmě, že ne všechny naše problémy jsou snadno smazatelné hlouposti – ale proč je proboha řešit teď?! Moc tě prosím, vzpomeň si na to, co jsme si před dovolenou slibovali._
 
 > _Navíc mě znervózňuje, že nevím, kde jste. Doufám, že jste v pořádku a že se v klidu všichni sejdeme u večeře._
 
 _Hynek_
+
+</section>

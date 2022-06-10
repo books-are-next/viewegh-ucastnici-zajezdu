@@ -3,6 +3,8 @@ title: Žlutá vodní kola
 contentType: prose
 ---
 
+<section>
+
 Neočekávanou změnu Hynkovy podivně sentimentální nálady způsobila až – světe, div se – šlapací vodní kola.
 
 Byla to Irma, koho napadlo, aby si je na hodinku vypůjčili. Hynek, Denisa a zejména Oskar se k jejímu návrhu stavěli sice zpočátku dosti rezervovaně, ale na její naléhání nakonec všichni souhlasili. Oskar s Ignácem zaplatili jedno a Denisa s Irmou druhé, neboť Hynek, poslanec Českého parlamentu, neměl ani floka. Na okamžik ho znovu ovládl vztek a nenávist k Zuzaně. Plavčík jim žlutá laminátová kola, pohupující se v mělkém přílivu u břehu, zručně odvázal; Denisa i Irma chtěly k pedálům, a tak si sedl nad ně, na jakýsi stylizovaný kapitánský můstek. Dívky zabraly; šlo to dost ztěžka. Na břiše, na opálených stehnech a na lýtkách se jim ostře rýsovaly svaly.
@@ -58,3 +60,5 @@ Jedna z vyšších vln v příští chvíli nazdvihla jejich plavidlo více ne
 „Nevšímej si ho,“ řekla tiše Denisa. „Je vožralej.“
 
 „Tak tebe ušetřím,“ volal Ignác. „Ale všechny vostatní posrance zabiju. A toho Poláka, kterej si myslí, že je ředitelem zeměkoule, taky!“
+
+</section>

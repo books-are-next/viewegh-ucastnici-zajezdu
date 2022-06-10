@@ -3,6 +3,8 @@ title: Obměna přátel(1)
 contentType: prose
 ---
 
+<section>
+
 „Víš, co mi včera řek? Že když se nad tím zamyslí, tak prý zjišťuje, že žije v jakýchsi pravidelných tříletých cyklech,“ smál se Oskar.
 
 „A dál?“
@@ -10,3 +12,5 @@ contentType: prose
 „A že se po těch třech letech vždycky kompletně obmění všichni jeho přátelé…“
 
 Oskar se tvářil posměšně, ale Maxe neoklamal.
+
+</section>

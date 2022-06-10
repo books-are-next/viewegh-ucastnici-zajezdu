@@ -3,6 +3,8 @@ title: Pohádka na dobrou noc
 contentType: prose
 ---
 
+<section>
+
 Pamelino rozrušení stále rostlo.
 
 Převahu nad denním světlem postupně získávala tma, z níž si reflektory autobusu dokázaly přisvojit stále menší díl, zahrnující nakonec jen bledý povrch vozovky, nekonečné bílé jízdní pruhy, kovový lesk svodidel a svítivě zelenou, jakoby přízračnou barvu směrových značení na Udine a Villach. Předjíždějící, svištivě rychlá auta zahájila v potemnělém voze známou klouzavou hru světel a stínů, odpočítávanou rudě žhnoucími číslicemi digitálních hodin na stropním panelu.
@@ -36,3 +38,5 @@ Max se pokoušel rozhodnout, co jím ten večer otřáslo víc: zda – ještě
 „To není průvodkyně,“ řekla Denisa polohlasně. „To je nebeský úkaz.“
 
 Max musel připustit, že na jejích slovech něco je.
+
+</section>

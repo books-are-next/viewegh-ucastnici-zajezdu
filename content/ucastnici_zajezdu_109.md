@@ -3,6 +3,8 @@ title: Honda Accord
 contentType: prose
 ---
 
+<section>
+
 Několik luxusních automobilů, parkujících po celý týden na parkovišti před hotelem, stále přitahovalo Jakubovu pozornost; Oskar ho zastihl právě ve chvíli, když tmavými skly nahlížel dovnitř kabiny zbrusu nového Opelu Vectra CDX.
 
 „Paráda, co?“ řekl Oskar.
@@ -40,3 +42,5 @@ Jenže to si netroufl.
 Věděl, že to na Jakuba udělá dojem.
 
 „Ty vado,“ řekl obdivně Jakub. „Dvoulitr.“
+
+</section>

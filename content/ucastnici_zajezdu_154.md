@@ -3,6 +3,8 @@ title: "It was just a\_dream"
 contentType: prose
 ---
 
+<section>
+
 „Tak Svatý otec zatím podle všeho žije,“ oznamoval nazítří u snídaně Maxovi radostně Oskar. „Ve zprávách alespoň o jeho smrti nic nebylo.“
 
 Pokoušel se vtipkovat, ale rostoucí nervozitu se mu nedařilo zakrýt. Ignác stále nedorazil a odjíždělo se už zítra.
@@ -42,3 +44,5 @@ Max jeho mučednictví rázně odmítl a přinutil ho, aby se laskavě konečn�
 „Pamelin večírek nás určitě rozptýlí,“ ujišťoval ho.
 
 Trochu se obával, že se nemýlí.
+
+</section>

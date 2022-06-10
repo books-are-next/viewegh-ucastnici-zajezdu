@@ -3,6 +3,8 @@ title: Urážlivá diskriminace
 contentType: prose
 ---
 
+<section>
+
 Hned po paní Košťálové se dostavili Oskar s Ignácem.
 
 „S penisem v ruce vyjíždíme pokořit Evropu,“ hulákal Ignác.
@@ -92,3 +94,5 @@ Od kamarádek se jí dostalo nadšeného souhlasu.
 „To je dobrý nápad,“ slyšel se říkat Max, vystavený pohledům zdaleka nikoli jen řidičů tureckých kamionů.
 
 „Postupuj!“ řval s potěchou Ignác. „Schnell! Já ti dám Dobříš!“
+
+</section>

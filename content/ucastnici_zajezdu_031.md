@@ -3,6 +3,8 @@ title: První Jakubův problém
 contentType: prose
 ---
 
+<section>
+
 První Jakubův problém spočíval v tom, že nemohl čúrat, když vedle něj kdokoli stál.
 
 Začalo to už loni na podzim ve škole a od té doby se to jenom zhoršovalo.
@@ -30,3 +32,5 @@ Tři týdny poté – dříve se neodvážil – se svěřil dvěma spolužák
 „To byla doba,“ říkali mu, když vycházel.
 
 Celý šťastný se zapínal.
+
+</section>

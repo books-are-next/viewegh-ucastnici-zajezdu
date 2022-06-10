@@ -3,6 +3,8 @@ title: Nepříjemná absenceotázek zjišťovacích
 contentType: prose
 ---
 
+<section>
+
 Jolanina matka si všimla, že Jolana tančí s Hynkem. Několikrát se po nich ohlédla: Hynek Jolaně cosi vyprávěl; zdálo se, že se oba dva vcelku dobře baví.
 
 „Tak co ti říkal pan poslanec?“ chtěla vědět, když se Jolana vrátila ke stolu. „Docela sympaťák, ne?“
@@ -50,3 +52,5 @@ Jolana se ušklíbla a zakroutila hlavou.
 „Jasně,“ zasmála se Jolana, „máš pravdu. To bude tím.“
 
 Nikoho nic nezajímá, pomyslela si. Všem je všechno předem jasný. Všichni všechno vědí.
+
+</section>

@@ -3,6 +3,8 @@ title: "Renting a\_car"
 contentType: prose
 ---
 
+<section>
+
 Jakub chtěl, aby si vypůjčili nějakou pořádnou, silnou káru, minimálně dvoulitr, ale matka ho požádala, aby se laskavě vzpamatoval. Byla naopak ráda, když zjistila, že před půjčovnou aut stojí mimo jiné i dva Opely Corsa, neboť s vozem téže značky jezdila už druhý rok v práci.
 
 „Proč nejede táta?“ zeptal se Jakub, zatímco slečna v malé, tmavé kanceláři sháněla v garáži na zadním dvoře svého šéfa.
@@ -70,3 +72,5 @@ Zhluboka vydechla a pohlédla na Jakuba.
 „Tak co?“ usmála se statečně. „Dobrý?“
 
 „Řve to jak tank,“ ušklíbl se Jakub.
+
+</section>

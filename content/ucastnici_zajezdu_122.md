@@ -3,6 +3,8 @@ title: "Něco, co o\_sexu vědětnechceme"
 contentType: prose
 ---
 
+<section>
+
 Oskar zaklepal na dveře koupelny. Irma vyšla, požádala Maxe o ještě trochu toho sena a vyšla na balkon. Max nepříliš šikovně ubalil křivou a nestejnoměrně naplněnou cigaretu. Zapálil ji a vtáhl do sebe palčivý kouř. Zachytil Oskarův pohled.
 
 „Dokouříme a jdeme,“ řekl.
@@ -60,3 +62,5 @@ Bezdůvodně se otáčel kolem své osy. Nohy měl neuvěřitelně lehké.
 Kývla a bez ptaní si vlezla pod sprchu. Na to, že jí bylo dvacet, měla už dost povolený zadek. V dané chvíli ztratil Max o sex jakýkoli zájem a nejraději by si byl lehl a spal.
 
 Musel ale jít shánět kondom.
+
+</section>

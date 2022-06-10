@@ -3,6 +3,8 @@ title: "Irma a\_Beach Boy"
 contentType: prose
 ---
 
+<section>
+
 Irmu Beach Boyovo vyzvání k tanci vcelku potěšilo.
 
 Když ji dvorně odváděl na parket, vyměnila si sice s Denisou příslušný pohled a i během tance se tvářila lehce ironicky, ale po pravdě řečeno ji tancování s Beach Boyem docela bavilo. K jejímu překvapení tancovat uměl, i když se šíleně potil a občas dělal takový ty komický figury à la šedesátý léta. Parodicky je po něm napodobovala, takže měli docela ohlas. Několik lidí – včetně Němců a Italů u těch stolů vzadu – jim dokonce zatleskalo. Začínal to být docela fajn večer. Při ploužáku mu za odměnu dovolila, aby se k ní trochu přimáčkl. Jasně že byl pro ni Beach Boy poněkud starej, ale jednak to – buďme realisti – bylo v danou chvíli lepší než nic a jednak se na to dalo dívat i zcela opačně: jak strašlivě mladá musí být ona, Irma, v očích pětapadesátiletýho chlapa. Kterej jí mimochodem každou chvíli nenápadně pohladí zadek. Irma si představovala Beach Boyovo předpokládané vzrušení, které se pak částečně přenášelo i na ni. Jasně, že Denise tohle vyprávět nebude – dovede si představit, co by jí na to Deniska řekla.
@@ -66,3 +68,5 @@ Už se těšila, jak tu historku bude vyprávět Denise: Představ si ty dva če
 Byla ráda, že přišla na slovo šoguni.
 
 Připadalo jí v daném kontextu neobyčejně vtipné.
+
+</section>

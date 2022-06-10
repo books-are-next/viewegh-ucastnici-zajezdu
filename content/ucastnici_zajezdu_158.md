@@ -3,6 +3,8 @@ title: PravidlaProvlékání provázku
 contentType: prose
 ---
 
+<section>
+
 „Tak hele: Jmenuje se to Provlíkání provázku,“ vysvětloval Jarda pozorně naslouchajícím účastníkům zájezdu.
 
 „Potřebujeme dlouhej provázek,“ obrátil se k Pamele.
@@ -86,3 +88,5 @@ Děti už raději uložila.
 „Ale di ty!“ smál se hlasitě Láďa, zatímco zapínal kameru. Obraz naskočil.
 
 „Proč bys to prosím tě nehrála? Dyk vůbec o nic nejde.“
+
+</section>

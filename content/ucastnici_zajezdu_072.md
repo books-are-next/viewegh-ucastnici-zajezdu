@@ -3,6 +3,8 @@ title: Rodiče za tmavým sklem
 contentType: prose
 ---
 
+<section>
+
 Jolana konečně také usnula.
 
 Když autobus zastavil, otevřela oči: zjistila, že už je ráno a že už jsou v Itálii. Dokonce už svítilo slunce. Ven se jí ale přesto nechtělo – byla unavená. Rozhodla se, že zůstane sedět uvnitř.
@@ -22,3 +24,5 @@ Začala předstírat spánek, ale přivřenýma očima se dívala, jak matka pro
 V Jolaně ten němý, banální výjev vyvolal nečekané chvilkové pohnutí.
 
 Zjistila, že se také usmívá.
+
+</section>

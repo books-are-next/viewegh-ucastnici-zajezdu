@@ -3,6 +3,8 @@ title: Šarlota se už nedokážesoustředit
 contentType: prose
 ---
 
+<section>
+
 Helga byla unavená.
 
 Všechno to balení, obstarávání na poslední chvíli, ale především všechny ty ustavičné zápasy s Šarlotou ji bez nadsázky vyčerpaly. Šarlota například trvala na tom, že si zapakuje kufr sama; zabalila si už v úterý, ačkoli se odjíždělo až v pátek – a vítězoslavně to Helze zatelefonovala. Nazítří Helga Šarlotu v jejím vršovickém bytě pro jistotu navštívila: její kufr, jak se právem obávala, obsahoval naprosto nepochopitelné věci. Postupně z něj musela vyházet divadelní kukátko, nefunkční venkovní teploměr, prastaré taneční rukavičky, perletí vykládanou šachovnici, sadu šachových figurek ze slonoviny a tři velké zavařovací sklenice se šroubovacím uzávěrem.
@@ -42,3 +44,5 @@ Než ji však Helga doslova zasypala cestovními prospekty, podobné scény se j
 Ta ženská mě přivede do hrobu, zuřila v duchu Helga.
 
 „Prokristapána, holka, soustřeď se!“ apelovala na Šarlotu naléhavě.
+
+</section>

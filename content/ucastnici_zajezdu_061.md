@@ -3,6 +3,8 @@ title: Spojité nádoby
 contentType: prose
 ---
 
+<section>
+
 Pánské toalety byly až za ohybem budovy.
 
 Max otevřel dveře. Obklopila ho příjemná, nevtíravá citronová vůně. Rozhlédl se: šedomodré dlaždice a kachlíčky na stěnách i oválná světle šedá umývadla – vše bylo na tak frekventované místo až nevysvětlitelně čisté. Max si lámal hlavu, jak je možné, že je tu zcela sám, když na parkovišti i v restauraci je taková spousta lidí. Očekával obvyklou hradbu mužských zad, hluk splachované vody, pronikavé hučení horkovzdušných sušičů rukou, zápach z obsazených kabin a umyvadla zacákaná holicí pěnou a zubní pastou – místo toho tu stál docela sám, v naprostém tichu. Působilo to nevěrohodně a jaksi zbytečně tajuplně.
@@ -28,3 +30,5 @@ Zalomila rukama a zdvihla oči v sloup – působilo to komicky a mladě.
 „Ale vždyť se nic nestalo,“ chlácholil ji vesele Max.
 
 Konečně pochopil, kdo ti dva jsou.
+
+</section>

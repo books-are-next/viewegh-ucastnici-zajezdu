@@ -3,6 +3,8 @@ title: Hnědé podšálky
 contentType: prose
 ---
 
+<section>
+
 „Kájo, zastav!“
 
 „Teď nemůžu, Karle, tady je zákaz.“
@@ -26,3 +28,5 @@ contentType: prose
 „Už jsem řek! Ze mě si nikdo prdel dělat nebude.“
 
 „Tak slyšeli jste kolegu? Tak fofrem svlíkat! Vy tam vzadu, neslyšeli jste?!“
+
+</section>

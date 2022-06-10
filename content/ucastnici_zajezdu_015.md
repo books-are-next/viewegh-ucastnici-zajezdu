@@ -3,6 +3,8 @@ title: Chlap přes uličku
 contentType: prose
 ---
 
+<section>
+
 Loni na podzim se Max sešel v kavárně Gany’s se spolužačkou z fakulty. Před dvěma týdny se vdala, a Max proto očekával, že bude mluvit o svatbě a o manželovi. Sotva se však posadili, řekla, že mu musí vyprávět o své prázdninové cestě do Španělska.
 
 Max zprvu nechápal, proč přikládá tomu zájezdu takovou důležitost.
@@ -38,3 +40,5 @@ Maxovo překvapení bylo nelíčené.
 „Prima příběh,“ pochvaloval si posléze.
 
 „No jo, ale chápeš to?“ pronesla spolužačka naléhavě. „Já ne.“
+
+</section>

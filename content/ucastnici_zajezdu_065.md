@@ -3,6 +3,8 @@ title: Projekty Jolaniny matky
 contentType: prose
 ---
 
+<section>
+
 Když autobus krátce před třetí v noci zastavil na malém, špatně osvětleném parkovišti kdesi v horách, většina cestujících spala.
 
 Jolanin otec slabě chrápal.
@@ -56,3 +58,5 @@ Připadalo jí naprosto neuvěřitelné, že odjeli, aniž si kdokoli všiml jej
 „Zkrátka,“ zasmála se, „nejsem momentálně její projekt.“
 
 Široko daleko však nikdo nebyl, dokonce i okna restaurace byla úplně černá. Uvědomila si, že nemá pas, ani peníze a že má na sobě jen kraťasy a tílko. Hystericky se zachechtala. Popošla několik metrů ke středu parkoviště a potom přešla po temném, vlhkém trávníku až ke svodidlům dálnice. Chvíli sledovala vozidla svištící v obou směrech. Když jedno z aut zablikalo dálkovými světly a zatroubilo, polekaně popoběhla zpátky na parkoviště. Sedla si na studený betonový obrubník chodníku, obemkla si rukama ramena a pomalu, s jakousi přemýšlivou rozvahou se rozplakala.
+
+</section>

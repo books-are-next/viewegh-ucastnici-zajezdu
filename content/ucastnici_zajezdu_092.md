@@ -3,6 +3,8 @@ title: "A\_když přijdou k\_moři,i\_skály se jim dvoří"
 contentType: prose
 ---
 
+<section>
+
 Když Max vylézal z vody, všiml si, že přicházejí Šarlota a Helga.
 
 S tichým údivem spočinul očima na jejich úboru. Věděl sice, že se móda často inspiruje i oblečením z let dávno minulých, nicméně zapochyboval, zda současný módní trend už skutečně rehabilitoval i ony švestkově modré a ostře žluté kostýmky ze syntetického úpletu, ve kterých nyní přicházely na pláž obě staré dámy; po pravdě řečeno měl dokonce jakýsi neurčitý pocit, že se k tomuto typu letních úborů, jež se nosily snad někdy na přelomu šedesátých a sedmdesátých let, móda už nevrátí. Při bližším pohledu – jež nebyl zcela prost jistého pobaveného soucitu – nadto zaznamenal, že Šarlotin modrý krepsilon je na mnoha místech značně vytahaný a že Helžin letitý úplet je posetý bezpočtem zacuchaných žmolkovitých nití; bylo zřejmé, že oba plážové komplety mají své nejlepší období už za sebou – a to zatraceně dlouho.
@@ -48,3 +50,5 @@ Bylo zřejmé, že o čemsi uvažuje.
 Život je boj, říkal si při pohledu na jejich bledou, ochable visící kůži, nehezky vystupující kosti, tlusté zadky, vyhublá svraštělá ňadra, bezpo­četné vrásky a kožní převisy, stařecké pigmentové skvrny, vystouplé čer­vené bradavičky, černé a stříbrné chlupy a klikaté uzlíky křečových žil.
 
 Život je boj, opakoval.
+
+</section>

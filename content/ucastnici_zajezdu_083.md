@@ -3,6 +3,8 @@ title: Kdo je kdo(2)
 contentType: prose
 ---
 
+<section>
+
 „Tak ještě tu máme tyhle dva pány na holení,“ ukázala Pamela prstem na Ignáce s Oskarem a potom spočinula dvěma významnými, dlouhými pohledy na Hynkovi a na Maxovi, „a po nich přijde to nejzajímavější!“
 
 Bylo zřejmé, že si neomalenost svého výroku – nejen vůči oběma Maxovým kamarádům, ale koneckonců vůči všem, kteří se až dosud představili – vůbec neuvědomuje.
@@ -78,3 +80,5 @@ Pamela pravila, že – jak už asi všichni vědí – se jmenuje Pamela a �
 „Amen,“ řekl Ignác.
 
 „Tak,“ řekla Pamela, „a já jim jdu říct, že už můžou nosit večeře.“
+
+</section>

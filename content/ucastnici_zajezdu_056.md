@@ -3,6 +3,8 @@ title: Nečekané drama
 contentType: prose
 ---
 
+<section>
+
 Hned vzápětí Šarlota zděšeně vykřikla.
 
 „Co je?“ řekl Karel, aniž se ohlédl.
@@ -176,3 +178,5 @@ Pár lidí zatleskalo.
 „Magický realismus v praxi,“ řekl Max skromně.
 
 „Ty krávo,“ řekl obdivně Ignác, „proč’s mi takhle nevyčaroval modrou knížku?“
+
+</section>

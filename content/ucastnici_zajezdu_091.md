@@ -3,6 +3,8 @@ title: Air-bagy na obou sedadlech
 contentType: prose
 ---
 
+<section>
+
 Oskar, Ignác, Irma a Denisa se mezitím bavili o rodičích. Denisa pravila, že upřímně obdivuje Jolanu, když se v jejím věku nestydí s rodiči jet na dovolenou. Irma řekla, že Jolanu spíš lituje. Ona si prý něco takového nedokáže ani představit. Její matka je údajně jakžtakž v pohodě, protože si dá říct, ale s kým prý nemůže vyjít vůbec, to je její fotr.
 
 „Ten je snad z nějaký jiný planety!“ tvrdila zapáleně.
@@ -36,3 +38,5 @@ Denisa nevěřícně zavrtěla hlavou.
 „Ale nemám,“ zasmála se Denisa. „To byla jenom taková metafora.“
 
 „Jo tak,“ řekl Oskar.
+
+</section>

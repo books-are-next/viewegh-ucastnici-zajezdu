@@ -3,6 +3,8 @@ title: Born to be wild
 contentType: prose
 ---
 
+<section>
+
 Vrátili se dovnitř pokoje, aby jej připravili na příchod hostů. Oskar ustlal Ignácovu postel a posbíral Ignácovy poházené svršky; potom šel uklidit koupelnu.
 
 „Ukliď si aspoň ten bordel na nočním stolku,“ volal na Ignáce.
@@ -166,3 +168,5 @@ Max se vrátil do pokoje.
 Hynek rozpačitě pokýval hlavou.
 
 Denisa mu pohladila skráně.
+
+</section>

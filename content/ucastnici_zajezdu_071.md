@@ -3,6 +3,8 @@ title: Jací lidé chodí také volit
 contentType: prose
 ---
 
+<section>
+
 Po obvodu parkoviště stály bytelné dřevěné stoly; Max se s kávou posadil za nejbližší z nich. Teprve poté si všiml, že z nedalekého odpadkového koše přetéká na zem obvyklá změť zbytků jídel, zmuchlaných ubrousků, plechovek od coca-coly, obalů od nanuků, starých časopisů, pecek od broskví a cigaret.
 
 „Hned se tu cítím jako doma,“ plácl mechanicky při vzpomínce na svůj neuklizený krčský podnájem.
@@ -114,3 +116,5 @@ Cítil, jak mu ve spáncích buší krev.
 Jituš si Jardu odvedla – ještě než odešel, otočil se a věnoval Ignácovi dlouhý, upřený pohled.
 
 „A takovýhle lidi choděj volit,“ řekl znechuceně Ignác.
+
+</section>

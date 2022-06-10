@@ -3,6 +3,8 @@ title: Zvuky Jakubovi nevadí
 contentType: prose
 ---
 
+<section>
+
 Krátce poté, co Jolana zaznamenala další záchvěv nevolnosti, požádala řidiče, aby zastavil.
 
 „Za dvacet minut stavíme u Aralu, slečno,“ řekl Karel.
@@ -110,3 +112,5 @@ Jakub si připomněl ustavičné hádky svých rodičů a souhlasně kývl.
 „Každej má problémy,“ řekl. „To je logický.“
 
 No jasně, říkala si Jolana. Vždyť je to vlastně logický.
+
+</section>

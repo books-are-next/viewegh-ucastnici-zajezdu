@@ -3,6 +3,8 @@ title: Selektivní metoda výběru spolustolovníků
 contentType: prose
 ---
 
+<section>
+
 Irma s Denisou už byly také vysprchované i nalíčené a nyní seděly na postelích a přemýšlely, po kolika asi budou stoly v hotelové restauraci. Obě byly jenom v kalhotkách, aby si nezmačkaly šaty.
 
 „Myslíš, že po čtyřech?“ pochybovala Irma.
@@ -140,3 +142,5 @@ Max na Oskara s Ignácem pobaveně pohlédl.
 Asi opravdu moc řvala. Jenomže kdyby to neudělala, mohly taky celej tejden sedět s Košťálovou a Petrescem. Jedna z nich dvou prostě tu špinavou práci dělat musí – a Deniska to ví taky.
 
 A místo aby jí byla vděčná, má ještě kecy.
+
+</section>
