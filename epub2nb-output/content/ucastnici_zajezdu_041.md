@@ -5,8 +5,6 @@ contentType: prose
 
 Jolanin otec poté, co jeho chvalozpěv na vzpřímené, zářivé a sytě žluté slunečnice ukončil nečekaný a hysterický nesouhlas jeho dcery, uraženě zmlkl.
 
-  
-
 Je protivná jako činže, říkal si. A kdo? Jeho vlastní dcera! Ta ale dokáže člověka otrávit. Úplně mu otrávila náladu. Celý ten zájezd mu už začínal jít na nervy. Je vůl, že vůbec někam jezdil. Zamýšlel bdít a trucovat ještě dlouho, ale byl zmožený vodkou natolik, že brzy usnul.
 
 Naneštěstí si však předtím nesklopil postranní loketní opěrku.

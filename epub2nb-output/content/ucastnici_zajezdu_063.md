@@ -5,19 +5,21 @@ contentType: prose
 
 Noc byla na postupu.
 
-  
-
 Karel na žádost Jardy a jeho rodiny založil do videa kazetu s českým filmem Slunce, seno a pár facek; přístroj z jakéhosi důvodu zprvu nefungoval, avšak Karlovi se záhy podařilo závadu odstranit. Zuzana (na rozdíl od Hynka a některých dalších účastníků zájezdu) byla ráda: přistihla se totiž, že se bůhvíproč bojí, aby se na obrazovce poté, co obraz naskočí, neobjevil náhle její muž.
 
 Ten pocit jí byl nepříjemný, a když se proto namísto Hynkova obličeje objevily titulky ohlášeného filmu, pocítila jakousi neurčitou úlevu. Hynek se sice v masmédiích ve srovnání s předními politiky neobjevoval nijak příliš často (za celé tři roky jeho kariéry mu vyšlo asi patnáct časopiseckých a novinových rozhovorů, asi desetkrát byl v televizi a několikrát též v rádiu, ale rozptýleno do zmíněných tří let to skutečně nebyla četnost nikterak extrémní), ale Zuzana měla přesto dojem, že její muž je v televizi nebo v novinách pořád.
 
 Zčásti to byl optický klam – jednak se zpočátku dívala i na reprízy pořadů, v nichž se Hynek objevil, a jednak jí její známí a kolegové z práce pravidelně vystřihovali každou Hynkovu větu nebo fotku, takže tentýž článek jí obvykle prošel rukama hned několikrát. Nadpisy některých z nich si pamatovala dodnes:
 
+  
+
 Dotáhnout něco někam, ne sebe někam! říká mladý poslanec…
 
 Dobrý občan by měl dělat víc, než jednou za čas přijít k volbám…
 
 Vojna ze mě udělala manžela…
+
+  
 
 Dovolte, abych se zasmála. Ha ha ha…
 

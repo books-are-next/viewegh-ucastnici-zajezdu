@@ -5,8 +5,6 @@ contentType: prose
 
 Za okny autobusu začínalo svítat. Cestující se probouzeli a připravovali se k ohlášené přestávce.
 
-  
-
 Olga oblékala obě své rozespalé děti a nachystala jim snídani; až autobus zastaví, koupí jim u pana řidiče ještě čaj.
 
 Helze otekly během noci nohy natolik, že se nyní nemohla dostat do bot; na okamžik propadla panice, ale když jí Šarlota a Jituš dostatečně povolily tkaničky, přece jen se jí obout podařilo.

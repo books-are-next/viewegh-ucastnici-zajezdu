@@ -5,8 +5,6 @@ contentType: prose
 
 „Mohly bychom si jít zítra zaházet,“ navrhla Denisa opatrně.
 
-  
-
 Irma mlčela.
 
 „Teda jestli chceš,“ připojila Denisa.

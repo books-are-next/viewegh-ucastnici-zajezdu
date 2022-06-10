@@ -5,8 +5,6 @@ contentType: prose
 
 První Jakubův problém spočíval v tom, že nemohl čúrat, když vedle něj kdokoli stál.
 
-  
-
 Začalo to už loni na podzim ve škole a od té doby se to jenom zhoršovalo.
 
 „Jdem se vychcat,“ říkávali spolužáci o přestávce.

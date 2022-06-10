@@ -5,8 +5,6 @@ contentType: prose
 
 Jolaně bylo s Maxem dobře.
 
-  
-
 Vyhřívala se na slunci, jedla jahody, které jí koupil, a pozorně mu naslouchala. Nevadilo jí, že mluví – očividně ve snaze vyhnout se jakékoli další zmínce o včerejší noci – téměř jen o literatuře a zejména pak o literární kritice; vytušila správně, že trable s literárními kritiky Max podvědomě používá jako okázalou protiváhu svého nočního dolce vita – a svým příštím dotazem mu to žhavé téma dokonce sama znovu přihrála. Maxe její zájem potěšil a začal jí o kriticích vyprávět podrobněji: Jeden prý namítá, že Maxův román je chytrý až přespříliš – zatímco druhý o tomtéž románu tvrdí, že se vyznačuje naprostou absencí myšlenek. Jiný kritik román označí za love story s odhalenou hrudí – a další klidně napíše, že Max prý neměl odvahu riskovat.
 
 „A mě přitom ten román stál manželství!“ vykřikoval Max.

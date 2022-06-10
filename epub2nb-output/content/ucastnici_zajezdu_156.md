@@ -5,8 +5,6 @@ contentType: prose
 
 Jakub zaklepal podruhé, ale ani tentokrát se nikdo neozval. Zkusil vzít za kliku. Bylo zamčeno, ačkoliv klíč, jak si cestou všiml, v recepci nevisel. Nechápal to. Věděl, že Ignác jel na výlet do Říma, ale Oskar tu přece zůstal, takže musel být uvnitř.
 
-  
-
 Proč mu ale neotevřel?
 
 Zaklepal znovu, ještě důrazněji.

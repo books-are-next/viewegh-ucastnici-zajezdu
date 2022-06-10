@@ -5,8 +5,6 @@ contentType: prose
 
 Oskar, Ignác, Irma a Denisa se mezitím bavili o rodičích. Denisa pravila, že upřímně obdivuje Jolanu, když se v jejím věku nestydí s rodiči jet na dovolenou. Irma řekla, že Jolanu spíš lituje. Ona si prý něco takového nedokáže ani představit. Její matka je údajně jakžtakž v pohodě, protože si dá říct, ale s kým prý nemůže vyjít vůbec, to je její fotr.
 
-  
-
 „Ten je snad z nějaký jiný planety!“ tvrdila zapáleně.
 
 Denisa řekla, že u nich doma je to přesně naopak. Její otec je prý dost známý výtvarník – jméno možná Oskarovi a Ignácovi nic neřekne, ale vystavoval třeba i v Kolíně nad Rýnem. Zkrátka: loni o prázdninách s ním trochu jezdila po Francii a zjistila, že řadu věcí cítí naprosto stejně.

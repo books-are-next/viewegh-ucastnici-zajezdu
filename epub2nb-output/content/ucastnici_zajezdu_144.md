@@ -5,8 +5,6 @@ contentType: prose
 
 „Proč píšeš o takových věcech?“ vytýkala Maxovi Pamela.
 
-  
-
 „O jakých?“
 
 „O ošklivých,“ řekla Pamela.

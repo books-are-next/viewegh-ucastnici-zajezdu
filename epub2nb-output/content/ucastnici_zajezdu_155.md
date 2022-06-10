@@ -5,8 +5,6 @@ contentType: prose
 
 Jolanin otec už po obědě na pláž nešel.
 
-  
-
 Na hodinku si zdříml a potom se s rozečtenou detektivkou, láhví minerálky a dvoulitrovou láhví červeného vína odstěhoval na balkon. Usadil se v jednom ze dvou bílých plastikových křesílek ve stínu betonového podhledu; obě láhve si postavil napravo od sebe, tak aby je měl stále na dosah. Víno si sice trochu ředil minerálkou a ledem, který si pokaždé, když šel na záchod, nabíral v lednici, ale i tak byl v pět hodin, kdy se vrátila Jolana, mírně opilý.
 
 Jolana to poznala i přes dvojité sklo přivřených balkonových dveří, a to i navzdory tomu, že otec k ní seděl zády. Úplně jí stačilo vidět, jak otec pokyvuje hlavou a jak otevřená kniha leží na zemi, zohý­banými stránkami dolů. Pozorovala chvíli otcův zátylek a znovu si uvědomila, že jeho vlasy za poslední roky prořídly. Klimatizace běžela, ale v pokoji byl i tak cítit kouř. Matka seděla u toaletního stolku a soustředěně cosi psala; zdálo se, že příchod své dcery zatím ještě nezaznamenala. Stolek stál poměrně daleko od okna a navíc byl trochu zastíněný shrnutým závěsem, takže neměla na psaní dostatek světla a musela si rozsvítit obě žárovky nad zrcadlem; v tuto denní hodinu to působilo divně.

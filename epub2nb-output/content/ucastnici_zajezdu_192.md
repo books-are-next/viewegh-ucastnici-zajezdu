@@ -5,8 +5,6 @@ contentType: prose
 
 „Co je to tam?“ řekl Karel.
 
-  
-
 „Kde, Kájo?“
 
 Karel ukázal na silnici před sebou. Asi tři sta metrů vpředu stál po obou stranách silnice dav lidí. Jejich srocení zúžilo vozovku na sotva polovinu původní šířky, takže všechna auta musela značně zpomalit.

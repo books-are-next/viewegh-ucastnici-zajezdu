@@ -5,8 +5,6 @@ contentType: prose
 
 Jolanina matka si všimla, že Jolana tančí s Hynkem. Několikrát se po nich ohlédla: Hynek Jolaně cosi vyprávěl; zdálo se, že se oba dva vcelku dobře baví.
 
-  
-
 „Tak co ti říkal pan poslanec?“ chtěla vědět, když se Jolana vrátila ke stolu. „Docela sympaťák, ne?“
 
 Jolana pokývala hlavou; Jolanina matka měla pocit, že trochu příliš rychle.

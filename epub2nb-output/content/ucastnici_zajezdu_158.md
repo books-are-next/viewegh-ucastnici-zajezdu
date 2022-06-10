@@ -5,8 +5,6 @@ contentType: prose
 
 „Tak hele: Jmenuje se to Provlíkání provázku,“ vysvětloval Jarda pozorně naslouchajícím účastníkům zájezdu.
 
-  
-
 „Potřebujeme dlouhej provázek,“ obrátil se k Pamele.
 
 Pamela ochotně odběhla směrem ke kuchyni.

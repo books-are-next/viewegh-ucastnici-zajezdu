@@ -5,8 +5,6 @@ contentType: prose
 
 První tři dny v Israeli bydlel Max u překladatelky románu, sympatické starší paní jménem Ruth Bondy, jež žila v pátém patře hezkého dvanáctipodlažního domu na telavivském předměstí Ramat Gan.
 
-  
-
 Druhého dne ráno ho v pokojíku vnoučat paní Bondy probudilo zemětřesení o síle 6,2 Richterovy stupnice. První, co uslyšel, bylo rachtání dřevěných okenic – nejprve se domníval, že jde o mimořádně silný vítr, ale když vzápětí začala drnčet také postel, psací stůl a hebrejské knihy na policích, pochopil, že to vítr být nemůže. Vyděšeně se na posteli posadil a spustil nohy na zem. Chvějící se podlaha mu připomněla onen obrovský ponton s mnoha kavárnami a restauracemi, po kterém chodil v září v hamburském přístavu s Evou Profousovou a Terezou Boučkovou – ale to byl pevně ukotvený ponton, a nikoliv byt v pátém patře. Náhlá, naprosto neočekávaná vratkost něčeho, co zcela automaticky a samozřejmě považoval za zaručeně stabilní, mu naháněla velký, snad ještě nikdy nepoznaný strach. Podvědomě rozpažil a položil dlaně na postel, jako kdyby tímto způsobem mohl v případě potřeby udržet rovnováhu. Rozevřené listy obrazové publikace o Jeruzalémě se znovu viditelně zachvěly – připadalo mu, že je to jakési úřední potvrzení o zemětřesení. Bál se, že už promeškal možnost něco podniknout.
 
 Bál se, že zemře.

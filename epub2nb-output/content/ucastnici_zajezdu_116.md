@@ -19,6 +19,8 @@ contentType: prose
 
 > **JITUŠ** (_směje se_): Ty si blbej! (_Pokládá mu ruce na ramena a tančí._)
 
+  
+
 2.
 
   
@@ -67,6 +69,8 @@ _Max ji odvádí na parket a pokouší se tančit._
 
 > **MAX** (_směje se_): Já taky doufám…
 
+  
+
 3.
 
   
@@ -84,6 +88,8 @@ _Max ji odvádí na parket a pokouší se tančit._
 > **OSKAR** (_zaposlouchá se, pak znovu polekaně_): To je ale tango!
 
 > **IGNÁC** (_už netrpělivě_): No a?! Copak není úplně jedno, co hrajou?
+
+  
 
 4.
 
@@ -133,6 +139,8 @@ _Pauza._
 
 > **HYNEK**: Já se z tebe vážně zcvoknu.
 
+  
+
 5.
 
   
@@ -160,6 +168,8 @@ _Jakub odchází._
 > **KLÁRA** (_rozhořčeně_): Proč já?!
 
 > **JARDA**: Sypej!!
+
+  
 
 6.
 
@@ -194,6 +204,8 @@ _Jdou na parket a tančí._
 > **MAX** (_vážně, obdivně_): Něco ti řeknu: Zbožňuju ženský se smyslem pro humor.
 
 > **JOLANA** (_s úsměvem_): Tak proč teda trávíš všechen čas se slečnou průvodkyní?
+
+  
 
 7.
 

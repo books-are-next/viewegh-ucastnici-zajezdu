@@ -5,8 +5,6 @@ contentType: prose
 
 „Tak kolik jich chybí?“ řekl Karel.
 
-  
-
 Karel se to skoro bál vyslovit.
 
 „Tak kolik?“ řekl Karel.

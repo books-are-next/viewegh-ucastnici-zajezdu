@@ -5,8 +5,6 @@ contentType: prose
 
 Pamela seděla v jednom z křesel na odpočívadle.
 
-  
-
 Byl si naprosto jistý, že když šli předtím s Hynkem dolů, ještě tam nebyla.
 
 „Nemohla jsem usnout,“ řekla vyčítavě. „Bylo vás slyšet po celém hotelu.“

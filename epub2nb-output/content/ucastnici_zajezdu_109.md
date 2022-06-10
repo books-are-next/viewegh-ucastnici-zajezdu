@@ -5,8 +5,6 @@ contentType: prose
 
 Několik luxusních automobilů, parkujících po celý týden na parkovišti před hotelem, stále přitahovalo Jakubovu pozornost; Oskar ho zastihl právě ve chvíli, když tmavými skly nahlížel dovnitř kabiny zbrusu nového Opelu Vectra CDX.
 
-  
-
 „Paráda, co?“ řekl Oskar.
 
 „Naprosto skvělý,“ řekl Jakub. „CDX má už i palubní počítač.“

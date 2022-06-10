@@ -5,8 +5,6 @@ contentType: prose
 
 „Ta holka je naprosto bezprecedentní,“ řekla Denisa.
 
-  
-
 Irma se natáhla k oknu: viděla, že Oskar, Ignác a Max jdou kamsi přes parkoviště. Poslanec s manželkou a se synem právě vstupovali do motorestu. Pamela se skláněla nad záhonkem růží a čichala k nim.
 
 „Ta holka je kráva,“ řekla Irma nekompromisně.

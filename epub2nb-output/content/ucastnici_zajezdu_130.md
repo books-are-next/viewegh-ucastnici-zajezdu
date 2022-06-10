@@ -5,8 +5,6 @@ contentType: prose
 
 Jolana si skočila do pokoje pro věci. Matka už byla v koupelně, zatímco otec teprve vstával; jeho pyžamo bylo neuvěřitelně zmačkané – jak si může někdo při spánku takhle zmačkat pyžamo?! – a táhl z něho alkohol. Otevřela okno. Z rozpačitého úsměvu, jímž ji pozoroval, Jolana pochopila, že i on se probudil s pocitem jakési neurčité viny.
 
-  
-
 „Vstáváme, vstáváme, lenosti se nepoddáváme,“ zahlaholila, aby mu naznačila, že ona, jeho dcera, mu naprosto nic nevyčítá.
 
 Když byla malá, tímto optimistickým sloganem ji často budíval.

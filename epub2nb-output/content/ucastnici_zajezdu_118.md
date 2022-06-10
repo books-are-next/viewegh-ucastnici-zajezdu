@@ -5,8 +5,6 @@ contentType: prose
 
 Maxe napadlo, že by se o to nepříliš vítané břemeno mohl spravedlivě podělit s kamarády.
 
-  
-
 „Okamžik,“ řekl Hynkovi.
 
 Vyšel na balkon. Už nepršelo. Noční obloha byla úplně jasná. Vyklonil se přes překvapivě teplé zábradlí: v sousedním pokoji se dosud svítilo.

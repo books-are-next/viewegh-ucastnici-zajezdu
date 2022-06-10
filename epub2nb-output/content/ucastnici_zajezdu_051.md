@@ -5,8 +5,6 @@ contentType: prose
 
 Šarlota opatrně překročila úzký záhonek s růžemi a přitiskla tvář na okno motorestu. Dlaněmi si zastínila oči: Zuzana, s níž se Šarlota spřátelila již na předchozí zastávce, seděla se synem u jednoho ze stolů v levé řadě.
 
-  
-
 Jakmile Helga Šarlotu spatřila, rychle ke své družce přispěchala.
 
 „Co to proboha zase děláš?“ zasyčela na ni. „Víš, jak to vypadá? Jako že máš hlad, a nemáš peníze…“

@@ -5,8 +5,6 @@ contentType: prose
 
 Pamela v moři hlasitě zavýskla.
 
-  
-
 Krávo, říkala si v duchu Jolana. Sumarizovala právě výhrady, které měla vůči svému obéznímu tělu, což jí pochopitelně na náladě nijak nepřidalo. Vzepřela se na loktech a znovu se přesvědčila, že ten sexuální loudil poněkud pubertálně flirtující s Pamelou je skutečně Max. Od člověka, který si říká spisovatel, by bývala byla očekávala víc. Cítila jisté zklamání. Nedokázala přesně pojmenovat, v čem konkrétně ji Max zklamal, ale byla zklamaná. Snad očekávala, že Max bude jaksi moudřejší. Tak nějak vyrovnanější. Očekávala by, že spisovatelé budou více imunní vůči takovým věcem, jako je kulatý zadek nebo velká ňadra.
 
 Její rodiče se chystali do vody.

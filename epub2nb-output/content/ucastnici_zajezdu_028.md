@@ -5,8 +5,6 @@ contentType: prose
 
 Jolana si vzala druhý Travel Gum okamžitě poté, co ucítila důvěrně známé příznaky přicházející nevolnosti.
 
-  
-
 Bílomodrou plochou krabičku měla přichystanou ve vnitřní přihrádce své kabelky, která byla uzavíratelná na zip a v níž měla také peněženku, kreditní kartu a osobní doklady; Jolana použila tuto přihrádku zcela záměrně, neboť katastrofální následky případné ztráty žvýkacích tablet se – alespoň v jejích očích – přinejmenším vyrovnaly případným důsledkům ztráty šesti set německých marek nebo cestovního pasu.
 
 Lék však, zdálo se, nikterak nezabíral.

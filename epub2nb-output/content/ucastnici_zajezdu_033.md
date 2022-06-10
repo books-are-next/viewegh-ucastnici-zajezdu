@@ -5,8 +5,6 @@ contentType: prose
 
 Oskar dostal nápad. Byl to – vzhledem k Oskarovým zvykům, názorům a povaze – dost šílený nápad. Oskar věděl, že chce-li ho uskutečnit, musí to udělat hned. Dřív než ztratí kuráž.
 
-  
-
 „Jdeme sbalit ty dvě intelektuálky,“ oznámil Ignácovi.
 
 Rozhodl se, že mu dokáže, že zdaleka není ten nudný patron, za kterého ho Ignác považuje – a tohle se mu zdál docela dobrý způsob. Ukáže mu, že se taky umí bavit. Dělat recesi.

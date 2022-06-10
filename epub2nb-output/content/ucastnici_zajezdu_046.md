@@ -5,8 +5,6 @@ contentType: prose
 
 Po dvaceti minutách zastavil Karel u Aralu. Otočil se od volantu a vyčítavě na Jolanu pohlédl. Jolana bezmocně rozhodila rukama. Pamela oznámila cestujícím, že ten motorest vlevo od benzínové pumpy je moc a moc krásný a že tam pokaždé chodí na fish and chips a že to všem taky doporučuje. Potom se podívala na Maxe a vyhlásila pětačtyřicetiminutovou pauzu na oběd.
 
-  
-
 „Jdeš s ní, nebo s náma?“ otočil se k Maxovi Oskar.
 
 „S váma,“ vzchopil se Max.

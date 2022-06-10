@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-ucastnici-zajezdu-c8af774",
-  "revision": "c8af774",
+  "identifier": "viewegh-ucastnici-zajezdu-27d9211",
+  "revision": "27d9211",
   "readingOrder": [
     "promo.html",
     "ucastnici_zajezdu_003.html",
@@ -208,8 +208,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351814984
+    "date": "Fri Jun 10 2022 14:20:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870805824
   },
   "documents": [
     {
@@ -4087,9 +4087,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 124,
-      "chars": 810,
-      "ideas": 16,
+      "words": 119,
+      "chars": 777,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "ucastnici_zajezdu_196.html",
@@ -4107,9 +4107,9 @@
   ],
   "totals": {
     "all": {
-      "words": 80010,
-      "chars": 493098,
-      "ideas": 4296
+      "words": 80005,
+      "chars": 493065,
+      "ideas": 4295
     },
     "chapters": {
       "words": 79880,

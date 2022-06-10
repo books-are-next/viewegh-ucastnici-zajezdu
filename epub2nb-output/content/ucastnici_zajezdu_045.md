@@ -5,8 +5,6 @@ contentType: prose
 
 „To je páreček,“ řekla Jituš. „Co tam v tom lese vždycky tak dlouho dělaj?“
 
-  
-
 Zasmála se.
 
 „Chceš říct, co tam dělaj?“ řekl Jarda a mrkl na Láďu. „Já ti řeknu, co tam dělaj: Blejou a chčijou.“

@@ -5,8 +5,6 @@ contentType: prose
 
 Když se vrátil do pokoje, všiml si, že Denisa s Hynkem odešli. Ignác usnul. Irma brečela v koupelně.
 
-  
-
 Jolana si přisedla na postel k Maxovi.
 
 „Konečně sami,“ řekl tiše Max, aby nevzbudil Ignáce.

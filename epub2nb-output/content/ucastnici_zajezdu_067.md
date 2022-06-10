@@ -5,8 +5,6 @@ contentType: prose
 
 Zuby už jí drkotaly zimou. Začínala být zoufalá.
 
-  
-
 Potom uslyšela, že k ní kdosi běží, a polekaně vzhlédla.
 
 „Všimnul jsem si, že chybíš,“ hlásil jí Jakub pyšně.

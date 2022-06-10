@@ -5,8 +5,6 @@ contentType: prose
 
 Hned po paní Košťálové se dostavili Oskar s Ignácem.
 
-  
-
 „S penisem v ruce vyjíždíme pokořit Evropu,“ hulákal Ignác.
 
 Trochu se nad mušlí kymácel.
