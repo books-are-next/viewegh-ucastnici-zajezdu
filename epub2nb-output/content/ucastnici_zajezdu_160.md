@@ -3,6 +3,8 @@ title: Ukrajinský sex(2)
 contentType: prose
 ---
 
+<section>
+
 Ani tentokrát Jolana z jejich milování mnoho neměla.
 
 Zatímco kopuloval, přemýšlela, jak se rusky řekne Ty moc spěcháš: Ty óčeň spjéšiš? Nebo spjecháješ?
@@ -52,3 +54,5 @@ Pevně semkla rty, postavila se a ujistila se, že udrží rovnováhu.
 Potom šla ke dveřím. Když procházela kolem něho, nakopla ho do varlat; dala do toho nečekaného pohybu všechnu sílu, které byla schopna. Zavyl bolestí a zhroutil se na zem.
 
 Vyšla ven a práskla za sebou dveřmi.
+
+</section>

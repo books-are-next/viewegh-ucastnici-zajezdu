@@ -3,6 +3,8 @@ title: Na Maxe padlanečekaná sklíčenost!
 contentType: prose
 ---
 
+<section>
+
 Když se Max po večírku vrátil do pokoje, cítil se trochu stísněně. Říkal si, že to patrně souvisí s tím nenadálým tichem, a pustil si proto MTV, avšak všichni ti rapující černí zpěváci mu připadali jako nějaké nepochopitelné bytosti z jiného světa. Zase televizi vypnul, vstal a několikrát pokoj obešel. Polohlasem hovořil sám k sobě; oslovoval se hochu.
 
 „Hochu, hochu,“ říkal si ponuře.
@@ -38,3 +40,5 @@ Kdyby od literárního kritika Josefa Vohryzka nevěděl, že vůbec neví, co j
 Ale naštěstí to věděl. Přestože to bolí, bolest to tedy být nemůže.
 
 Určitě mu je jenom trochu těžko po těch smažených krevetách.
+
+</section>

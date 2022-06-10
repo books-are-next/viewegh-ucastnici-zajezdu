@@ -3,6 +3,8 @@ title: Jolanin pragmatismus
 contentType: prose
 ---
 
+<section>
+
 Jolanin otec už po obědě na pláž nešel.
 
 Na hodinku si zdříml a potom se s rozečtenou detektivkou, láhví minerálky a dvoulitrovou láhví červeného vína odstěhoval na balkon. Usadil se v jednom ze dvou bílých plastikových křesílek ve stínu betonového podhledu; obě láhve si postavil napravo od sebe, tak aby je měl stále na dosah. Víno si sice trochu ředil minerálkou a ledem, který si pokaždé, když šel na záchod, nabíral v lednici, ale i tak byl v pět hodin, kdy se vrátila Jolana, mírně opilý.
@@ -60,3 +62,5 @@ Jolana na něj užasle pohlédla. Ve firmě měl pod sebou celou divizi lidí �
 Bylo jí ho líto.
 
 „Pomáhat v kuchyni?“ řekla opět co možná drsně. „Nepil jsi?“
+
+</section>

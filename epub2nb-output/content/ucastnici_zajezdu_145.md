@@ -3,6 +3,8 @@ title: "Účastníci a\_stíhačky"
 contentType: prose
 ---
 
+<section>
+
 Stíhačky se nad pláží pravidelně objevovaly už v minulých dnech, ale v druhé polovině týdne se intenzita jejich přeletů několikanásobně zvýšila; dunivý zvuk motorů se nyní z oblohy snášel někdy i třikrát v průběhu jediné hodiny. V novinách sice psali, že jde o pravidelné a plánované kontrolní lety nad bosenským územím, ale Šarlota s Helgou přesto vzhlížely k burácejícímu nebi s jakýmsi podezíravým znepokojením; Helga si dokonce Pamele několikrát stěžovala – jako by předpokládala, že pravomoc mladičké průvodkyně dosahuje až do hlavního stanu štábu NATO – že ji ta letadla strašlivě rozčilují.
 
 „Ta ženská mě zničí,“ svěřovala se Pamela Maxovi, jenž s ní tentokrát docela soucítil.
@@ -16,3 +18,5 @@ Hleděl za nimi a přemýšlel, jestli jsou mezi vojenskými piloty homosexuál
 „Vysypal bych těm Srbákům na palice napalm a byl by pokoj,“ řekl Jarda, když všech devět stíhaček zmizelo kdesi v italském vnitrozemí.
 
 Někdy se k jejich pozorovacímu rituálu připojovala i Klára. Jednou, jak měla hlavu zvrácenou k obloze, v písku zavrávorala a musela se o Jakuba opřít. Její kůže byla příjemně horká a voněla ořechovým opalovacím krémem. Především jí vůbec nepáchlo podpaží. Kromě toho nebyla ani trochu tlustá. Byla sice o dva roky starší, ale kdyby Jakub nebyl homouš, možná by se mu docela líbila.
+
+</section>

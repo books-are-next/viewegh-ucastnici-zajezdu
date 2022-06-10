@@ -3,6 +3,8 @@ title: Pamela
 contentType: prose
 ---
 
+<section>
+
 Celkem tři kufry, avšak jasně červené, měla i slečna průvodkyně: velký, rovněž pojízdný kufr, středně velký kufr příruční a malý bachratý kufřík na kosmetiku. Bylo jí necelých devatenáct let a před týdnem maturovala na střední ekonomické škole, kde také v minulých letech opakovaně získala titul Miss ekonomka; ony tři červené kufry značky Samsonite byly cenou za její letošní květnové prvenství. Ve volném čase – jak uvedla v červnovém čísle školního časopisu Ekonomka – ráda jezdila na horském kole, cestovala a poznávala zajímavé lidi. Rovněž měla ráda meruňkovou marmeládu a Mozarta. Toho doslova zbožňovala. Jejím největším životním přáním bylo, aby všichni lidé na světě žili v míru.
 
 Přátelé jí říkali Pamela.
@@ -16,3 +18,5 @@ Když však Pamela s takto zušlechtěným tělem vyšla nakonec z domu na uli
 Proč jsou muži takoví? říkávala si Pamela smutně.
 
 Ona na ně přece také nepíská a nepokřikuje.
+
+</section>

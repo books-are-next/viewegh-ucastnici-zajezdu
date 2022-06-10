@@ -3,6 +3,8 @@ title: Stojící Helga
 contentType: prose
 ---
 
+<section>
+
 „Na chvíli si stoupnu,“ řekla Helga Šarlotě, ale Šarlota jí nerozuměla.
 
 „Jsem přesezená, musím si stoupnout,“ zopakovala Helga Šarlotě hlasitě a popuzeně.
@@ -36,3 +38,5 @@ Stála tam jako špatná stará herečka při děkovačce. Jako vysloužilá šm
 Max si s tou situací nevěděl rady – ani lidsky, ani literárně.
 
 Asi po čtvrthodině si Helga – k nepopsatelné úlevě všech přítom­ných – zase sedla.
+
+</section>

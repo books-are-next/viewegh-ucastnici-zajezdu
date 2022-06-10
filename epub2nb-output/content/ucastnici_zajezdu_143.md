@@ -3,6 +3,8 @@ title: Umění milovat(po patnácti letech)
 contentType: prose
 ---
 
+<section>
+
 Hynek Maxovi večer tvrdil, že je pro něj čím dál větším problémem se Zuzanou spát.
 
 Erekce je prý schopen už pouze ve dvou případech: když se předtím hodně opije, nebo když během milostné předehry zavře oči a představuje si, že se dotýká nějaké jiné ženy – například některé své známé, sexy dívky, které si všiml v metru, nebo třeba mladé novinářky, která s ním toho dne dělala rozhovor. Tahle metoda, stěžoval si Hynek, bohužel ale nefunguje spolehlivě. Zuzana, jak si prý Max bezesporu všiml, dost přibrala a k tomu, aby si dokázal přesvědčivě vsugerovat, že v kritické chvíli drží v rukou třeba ten pevný kulatý zadeček sousedovy čtrnáctileté dcery, potřebuje prý nejen značnou imaginaci, ale i zcela mimořádnou koncentraci – a právě této schopnosti se prý Hynkovi většinou nedostává. Podniká různé perverzní, leč marné oživovací pokusy a bez úspěchu se potom snaží protlačit svůj ochablý penis mezi půlky manželčiny tlusté, celulitidní zadnice.
@@ -24,3 +26,5 @@ Někdy ho pak kousne do ramene – ne že by ho pouze lehce stiskla zuby, oprav
 Říká to tak, že jí Hynek odpouští.
 
 Dívá se, jak odchází, vidí její povislý zadek – a je mu jí upřímně líto.
+
+</section>

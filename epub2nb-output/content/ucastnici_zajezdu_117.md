@@ -3,6 +3,8 @@ title: Ekonomika pro každého
 contentType: prose
 ---
 
+<section>
+
 Krátce po jedenácté se Max vrátil na pokoj.
 
 Vysprchoval se a zkoušel si ještě chvíli v posteli číst, ale neustále ho rušily hlasy ze sousedního pokoje, kde se Jarda a Jituš z jakéhosi důvodu vulgárně a především hlasitě hádali o problémech české ekonomiky. Nemohl se na čtení soustředit, a tak knihu odložil, zhasl a snažil se neposlouchat své opilé sousedy.
@@ -104,3 +106,5 @@ Hlasy ze sousedního pokoje náhle znovu zesílily.
 „Není existence takových lidí tím nejlepším argumentem pro osvícenskou monarchii?“
 
 „To teda kurva je!“
+
+</section>

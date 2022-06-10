@@ -3,6 +3,8 @@ title: Do stejné řeky
 contentType: prose
 ---
 
+<section>
+
 „Mohly bychom si jít zítra zaházet,“ navrhla Denisa opatrně.
 
 Irma mlčela.
@@ -30,3 +32,5 @@ Usmívaly se.
 „To byla přímo squadra azzura,“ plácla nazdařbůh Irma.
 
 Vsadila by se, že Denisa bude mít zítra dres.
+
+</section>

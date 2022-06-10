@@ -3,6 +3,8 @@ title: Zachránce
 contentType: prose
 ---
 
+<section>
+
 Zuby už jí drkotaly zimou. Začínala být zoufalá.
 
 Potom uslyšela, že k ní kdosi běží, a polekaně vzhlédla.
@@ -32,3 +34,5 @@ Matka vypadala nešťastně.
 „To je v pořádku, mami,“ řekla Jolana. „Už od puberty si přeju, abyste mě přestali pořád sledovat.“
 
 Ale když světla v autobuse konečně zhasla a tma z okolních hor ji zno­vu obklopila a když ve svém těle znovu pocítila vibrace více než sto­ki­lometrové rychlosti, musela si přiznat ono dosud přítomné vzrušení, které jí před pár minutami způsobila Jakubova napůl ještě dětská erekce.
+
+</section>

@@ -3,9 +3,13 @@ title: Provlékání
 contentType: prose
 ---
 
+<section>
+
 1.
 
-  
+</section>
+
+<section>
 
 > **JARDA**: Nemám studený ruce?
 
@@ -21,11 +25,15 @@ _Upírá pohled na manžela._
 
 > **LÁĎA** (_naoko bodře_): Snad už to tam radši nech.
 
-  
+</section>
+
+<section>
 
 2.
 
-  
+</section>
+
+<section>
 
 > **MAX** (_provléká opatrně provázek_): Ještě kousek a už to bude. Máte se mnou obdivuhodnou trpělivost.
 
@@ -45,11 +53,15 @@ _Helga namísto odpovědi mávne rukou._
 
 > **HELGA**: Netahejte za to, člověče! Zařezáváte mi ten špagát rovnou do masa.
 
-  
+</section>
+
+<section>
 
 3.
 
-  
+</section>
+
+<section>
 
 > **HYNEK** (_k Jakubovi_): Proč to chceš proboha provlíkat mně, když si můžeš vybrat? Jsi chlap, ne?
 
@@ -105,11 +117,15 @@ _Smích._
 
 > **JOLANA** (_pobaveně si ho prohlíží_): Jo? A nekecáš?
 
-  
+</section>
+
+<section>
 
 4.
 
-  
+</section>
+
+<section>
 
 > **JITUŠ**: Tak v čem to vázne, slečno? Vyberte si nějakýho fešáka a už provlíkejte…
 
@@ -127,11 +143,15 @@ _Všeobecné rozpaky._
 
 > **PAMELA** (_smířlivě_): Ale raději mu to opravdu sami nenabízejte, aby se neurazil. Když bude chtít, tak si vezme sám.
 
-  
+</section>
+
+<section>
 
 5.
 
-  
+</section>
+
+<section>
 
 _Vstoupí Ignác a udiveně hledí na účastníky zájezdu, spojené navzájem provazem._
 
@@ -170,3 +190,5 @@ _Oskar se k němu beze slova vrhá, strhávaje ostatní rekreanty s sebou. Obj
 > **MAX**: Zbabělče. To jsi ho ani neinzultoval?
 
 > **IGNÁC**: Nešlo to. (_Šeptá._) Vypadal jako Šarlota…
+
+</section>

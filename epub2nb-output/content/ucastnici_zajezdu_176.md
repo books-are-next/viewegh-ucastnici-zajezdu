@@ -3,6 +3,8 @@ title: Proč proboha Ukrajinec?(1)
 contentType: prose
 ---
 
+<section>
+
 „Ale proč?“ nechápala Jolanina matka. „Proč proboha Ukrajinec?“
 
 Jolana pokrčila rameny.
@@ -52,3 +54,5 @@ Pohlédla přímo na matku, ale matka se rychle podívala stranou.
 Jolana si odkašlala.
 
 „Obě to víme,“ řekla a hřbetem dlaně si otřela koutky očí. „Měly bychom si to konečně přiznat.“
+
+</section>

@@ -3,6 +3,8 @@ title: Ignácův batoh
 contentType: prose
 ---
 
+<section>
+
 První, koho Max spatřil, byl Ignác.
 
 Seděl pod stromem a zamyšleně si prohlížel špinavé prsty v páskových kožených sandálech. Maxovi připadal ještě hubenější než jindy, ale zdálo se, že je střízlivý. Když uviděl přicházet Maxe, vesele se zašklebil.
@@ -70,3 +72,5 @@ Max zakroutil hlavou.
 „To je teda obdivuju,“ řekl Max. „Vydat se na takovou cestu.“
 
 Přišly jakési dvě dívky v krátkých džínsách, s batohy na zádech. Šarlota se k nim okamžitě vydala, nejspíš proto, aby se informovala na místo, čas a datum odjezdu. Jedna z dívek jí cosi řekla. Šarlota se k dívce natáčela bokem. Usmívala se, ale náhle se bez zjevné příčiny zamračila – ano, uvědomoval si Max, navzdory všem těm vráskám a stařeckým pigmentovým skvrnám se zakabonila docela jako malé děcko – a s úšklebkem obě dívky opustila. Došla k Helze a cosi jí říkala, ale Max jí na tu dálku samozřejmě nerozuměl.
+
+</section>

@@ -3,6 +3,8 @@ title: "Oskar znovu potvrzujesvůj hezký vztah k\_dětem!"
 contentType: prose
 ---
 
+<section>
+
 Účastníci zájezdu po pohádce postupně usínali.
 
 Řidiči zhasli světla. Ignác, zmožený pivem a patrně i únavou z předešlých bouřlivých dní, usnul na Oskarově rameni.
@@ -18,3 +20,5 @@ Po chvíli k němu prostorem mezi sklopenými sedadly propadla Petříkova mal�
 Ignác ztichl. Otočil se na bok a opřel si spánek o Oskarovo rameno.
 
 Oskar se cítil šťastný.
+
+</section>

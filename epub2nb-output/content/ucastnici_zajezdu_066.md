@@ -3,6 +3,8 @@ title: Všímavý homosexuál
 contentType: prose
 ---
 
+<section>
+
 „Jsme všichni?“ zašeptala Pamela, ale nedočkala se odpovědi, neboť téměř všichni už opět spali. Jolanina matka si ve světle své lampičky zatrhávala užitečné fráze.
 
 „Kdo chybí, ať se přihlásí,“ otevřel oči Jarda.
@@ -26,3 +28,5 @@ Jakub si zapletl prsty do sebe a zalétl pohledem k Jolaně.
 Jenomže Jolana na svém místě nebyla.
 
 Nadzdvihl se a zapátral po ní očima, ale nebyla nikde, ani vzadu na volných sedadlech. Odstrčil udivenou matku a šel k řidičovi.
+
+</section>

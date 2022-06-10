@@ -3,6 +3,8 @@ title: Inzultace poslance
 contentType: prose
 ---
 
+<section>
+
 Hynek se nemusel ani otáčet, aby pochopil, že Zuzana otevřela láhev koňaku, který koupil jako dárek pro svého otce. Krátce na Maxe pohlédl a sevřel rty. Max chápal jeho obavy.
 
 Slyšeli, jak se Zuzana dvakrát dlouze napila. Když láhev vracela do tašky, opřela se volnou rukou o Maxovo sedadlo, přičemž mu přiskřípla vlasy. Sykl bolestí a Zuzana s pohrdavým zasmáním ruku odtáhla. Hynek k ní otočil prosebný obličej.
@@ -66,3 +68,5 @@ Chtěla ho pohladit po předloktí, ale Hynek jí ruku vztekle vyškubl.
 Zkoušel si představit, jestli dokáže být bez ní. A bez Jakuba.
 
 Náhle mu připadalo, že život je tak složitý a těžký úkol, že na něj možná ani nestačí.
+
+</section>

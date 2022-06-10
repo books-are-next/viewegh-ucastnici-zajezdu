@@ -3,6 +3,8 @@ title: Přesný zásah jedlové šiškyaneb nezávislý kritik
 contentType: prose
 ---
 
+<section>
+
 Stála nad Maxovou postelí jako krásná mladá sudička.
 
 Její bílá noční košilka byla tenká jako dech.
@@ -98,3 +100,5 @@ Chystal se přece s ní pomilovat, vysvětlil jí klidně, nevšímaje si její
 „Ale já jsem ti přišla přečíst pohádku!“ zavzlykala Pamela ukřiv­dě­ně a s pláčem pokoj opustila.
 
 „Přísahám, že už si tý káči ani nevšimnu!“ zvolal Max zuřivě.
+
+</section>

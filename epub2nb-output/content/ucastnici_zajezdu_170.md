@@ -3,6 +3,8 @@ title: Co jim má Jolana říct?
 contentType: prose
 ---
 
+<section>
+
 Co jim mám říct? říkala si v duchu Jolana.
 
 Žvýkala soustředěně Travel Gum, dívala se přímo před sebe a zhluboka dýchala, doufajíc, že když všechna ta známá doporučení pečlivě dodrží, podaří se jí snad přicházející nevolnost ještě odvrátit. Přestože se vůbec necítila dobře, nedokázala nemyslet na to, jak to matce řekne. Jako by ji slyšela: Proč proboha zrovna Ukrajinec!? Protože se mi líbí, jak krmí kočku. Proto. Vybavila si, jak Oleg ke kočce vždycky tiše promlouval, a na kratičký okamžik na něho láskyplně pohlédla. Usmál se a nenápadně ji pohladil po stehně. Tak proč? Protože se mi líbí, jak bezbranně vypadá ve spánku a jaké má svaly na zádech? Protože mě dojímá jeho stařičký kapesní nožík a slavnostní rozvážnost, s níž loupe ovoce, zejména pak kiwi? Protože ten svůj kamrlík pro služku odemykal tak důstojně? Tak proč? Jsi s ním snad těhotná? – Nikoliv, mami, prostě mi učaroval ten trvanlivý salám na jeho stole…
@@ -36,3 +38,5 @@ Oleg jí kapesníkem otřel koutky úst. Svým kapesníkem, uvědomila si.
 „Ou kej?“ řekl Oleg.
 
 „Ou kej,“ hlesla vděčně.
+
+</section>

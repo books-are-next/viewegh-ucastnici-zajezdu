@@ -3,9 +3,13 @@ title: Bilance
 contentType: prose
 ---
 
+<section>
+
 Autobus se blížil k Praze. Sídliště na periferii už bylo na dohled, ale ještě stále tu všichni byli:
 
-  
+</section>
+
+<section>
 
 Pamela. Děkovala – _jistě i jménem ostatních účastníků_ – oběma řidičům.
 
@@ -29,7 +33,9 @@ Hynek a Zuzana, v zarytém mlčení.
 
 Jakub – navzdory rozhádaným rodičům nezvykle veselý (a po­krad­mu pozorující Kláru).
 
-  
+</section>
+
+<section>
 
 „Bilancujete?“ oslovil Maxe pan Petrescu.
 
@@ -42,3 +48,5 @@ Jakub – navzdory rozhádaným rodičům nezvykle veselý (a po­krad­mu poz
 Už to nechtěl příliš protahovat.
 
 Autobus vjel do rozpáleného, prašného centra.
+
+</section>

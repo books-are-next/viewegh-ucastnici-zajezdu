@@ -3,6 +3,8 @@ title: "Problém s\_odstředivou silou"
 contentType: prose
 ---
 
+<section>
+
 Jolanin otec poté, co jeho chvalozpěv na vzpřímené, zářivé a sytě žluté slunečnice ukončil nečekaný a hysterický nesouhlas jeho dcery, uraženě zmlkl.
 
 Je protivná jako činže, říkal si. A kdo? Jeho vlastní dcera! Ta ale dokáže člověka otrávit. Úplně mu otrávila náladu. Celý ten zájezd mu už začínal jít na nervy. Je vůl, že vůbec někam jezdil. Zamýšlel bdít a trucovat ještě dlouho, ale byl zmožený vodkou natolik, že brzy usnul.
@@ -56,3 +58,5 @@ Hlasitě se vysmrkala.
 „I když,“ řekla přemítavě, „opít se asi není ten nejlepší způsob, jak si vyřešit vztahy s rodiči.“
 
 „To asi ne,“ řekl Max. Zasmál se: „Nejlepší je jet s nima na dovolenou.“
+
+</section>

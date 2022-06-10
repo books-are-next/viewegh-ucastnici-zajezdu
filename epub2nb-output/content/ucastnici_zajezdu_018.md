@@ -3,6 +3,8 @@ title: Hnědé podšálky
 contentType: prose
 ---
 
+<section>
+
 „A nyní,“ řekla Pamela, „vám něco řeknou také naši páni řidiči, které bych vám chtěla zároveň představit. Jeden se jmenuje Karel a ten druhý –“ Pamela se šibalsky, ale půvabně rozesmála, „– Karel.“
 
 Někteří cestující zatleskali.
@@ -86,3 +88,5 @@ Druhý Karel si autoritativně přitáhl mikrofon:
 „Jestli se ty hnědý podšálky poztrácej, budete si to pít z toho rozpálenýho kelímku,“ řekl varovně.
 
 Zadíval se smutně na cestující a pokrčil rameny.
+
+</section>

@@ -3,6 +3,8 @@ title: "Kdo jsou pan Petrescua\_paní Košťálová???!!!(poslední pokus)"
 contentType: prose
 ---
 
+<section>
+
 Max už sice problém s postavami pana Petresca a paní Košťálové považoval za vyřešený, ale když je při návratu z pláže potkal na pobřežní promenádě, nedalo mu to a ještě jednou se pokusil vyzvědět, co jsou zač. Rozhodl se, že tentokrát na to půjde rafinovanou oklikou.
 
 „Vy vypadáte jako doopravdy šťastný pár,“ pochválil je. „Jak to děláte?“
@@ -42,3 +44,5 @@ Pamela oceňovala, že ačkoli pan Petrescu a paní Košťálová pravděpodobn
 Jituš prohlásila, že se jí upřímně řečeno nelíbí, jak se ta celá slavná dvojice doslova štítí ostatních.
 
 Jarda řekl, že jsou to normální blbci.
+
+</section>

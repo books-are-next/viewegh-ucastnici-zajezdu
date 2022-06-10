@@ -3,15 +3,21 @@ title: Jolanina matka má pro Maxefantastický námět
 contentType: prose
 ---
 
+<section>
+
 Přestože šel Max spát nezvykle brzy, nebyl ráno vůbec schopen vstát; zmeškal dokonce i snídani. Když konečně z postele vylezl, zbývalo do oběda už jen půl druhé hodiny. Nerozhodně pohlédl z okna: Aschenbach, s rukama sepjatýma v klíně, se díval ven, spokojen, že je zase tady, potřásaje nespokojeně hlavou nad vlastní kolísavostí, nad tím, že neví, co chce. Nemělo smysl chodit na pláž, a tak si řekl, že zbytek dopoledne stráví u hotelového bazénu.
 
 Až na dva stařičké německé manžele a krátkovlasou hubenou Maďarku s asi pětiletým synem u bazénu nikdo nebyl. Zaplaval si a potom si četl. Vypsal si pár vět, které mu připadaly chytré:
 
-  
+</section>
+
+<section>
 
 > __Hranice mého jazyka jsou hranice mého světa. Nebo: Je uklidňující, když spisovatel neuvažuje v kategoriích národ-lid, ale v kategoriích podmět-přísudek_._
 
-  
+</section>
+
+<section>
 
 Nebyl už schopen číst dál; odložil knihu na rozpálené dlaždičky, lehl si a zavřel oči.
 
@@ -66,3 +72,5 @@ Trochu šetrněji to Jolanině matce řekl.
 „Já vám to opravdu nevnucuju,“ řekla Jolanina matka s úsměvem, za nímž se skrývalo zklamání. „Jenom to zvažte.“
 
 Nakonec se dohodli, že Jolanina matka to Maxovi hodí na papír.
+
+</section>

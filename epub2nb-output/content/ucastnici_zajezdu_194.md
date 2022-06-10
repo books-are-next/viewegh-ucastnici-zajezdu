@@ -3,6 +3,8 @@ title: Je Jolana dobře napsaná?(trochu Kundery)
 contentType: prose
 ---
 
+<section>
+
 Jolanin otec s námahou vytahoval kufry ze zavazadlového prostoru. Potil se, supěl a vůbec nevypadal dobře. Jolana mu chtěla největší kufr odebrat, ale on její pomoc podrážděně odmítl.
 
 „Běž radši popohnat matku,“ řekl kysele. „Nebo se tu kvůli jejímu loučení všichni upečem.“
@@ -54,3 +56,5 @@ Ještě jednou se podívala na Pamelu.
 „Jolano!“ zakřičel popudlivě její otec.
 
 „Nemohla,“ řekl Max. „Ale neboj, dám si na tobě záležet.“
+
+</section>

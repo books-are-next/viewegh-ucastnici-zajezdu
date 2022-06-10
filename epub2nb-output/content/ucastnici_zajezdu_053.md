@@ -3,6 +3,8 @@ title: "Kdo proboha jsou pan Petrescua\_paní Košťálová???"
 contentType: prose
 ---
 
+<section>
+
 „Nepřipadá ti ta Košťálová trochu afektovaná?“ řekla Hynkovi Zuzana.
 
 Manželství, řekl si Hynek ochable.
@@ -48,3 +50,5 @@ Hynek zhluboka oddychoval. Vypadalo to, že se řídí pokyny nějakého nevidit
 Zuzana nevěřícně kroutila hlavou. Na rtech se jí usadil nehezký jízlivý úšklebek, který měl vyjadřovat její naprostou převahu nad oním hysterickým chudákem, který si říká poslanec. A její manžel.
 
 „Měl bys jít k psychiatrovi,“ řekla posměšně. „Nepřipadá ti?“
+
+</section>

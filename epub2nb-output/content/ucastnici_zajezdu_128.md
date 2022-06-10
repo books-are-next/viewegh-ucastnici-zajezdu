@@ -3,6 +3,8 @@ title: Když se Max ráno probudil
 contentType: prose
 ---
 
+<section>
+
 Když se Max po třech hodinách těžkého narkotického spánku probudil, zjistil, že usnul na zádech a s rukama za hlavou, což by se mu ve střízlivém stavu nikdy nepodařilo. Ležel trochu našikmo a jeho zdřevěnělé ruce visely z postele dolů; prsty jeho pravé ruky se dokonce dotýkaly koberce. Bylo nanejvýš obtížné ty těžké, překrvené ruce zdvihnout a dostat je nazpět k tělu. Jakmile se mu to podařilo, otočil hlavu a podíval se na sousední polštář: Hynek tvrdě spal, okoralé rty mírně rozevřené. Závěsem už prosvítalo jasné světlo nového dne, ale Max se na nový den ani trochu netěšil; věděl, že dříve nebo později bude muset vstát, závěs rozhrnout a čelit všem těm rozzlobeným ženám: Pamele. Irmě. Zuzaně. Jolaně. Dokonce i paní Helze, která – uvědomoval si nyní zděšeně Max – jim přišla v noci vynadat.
 
 Připadalo mu, že to nedokáže.
@@ -100,3 +102,5 @@ Trochu se mu ulevilo.
 Někdy byl opravdu překvapený, jak jsou si blízcí.
 
 „Pojď taky,“ navrhl jí upřímně.
+
+</section>

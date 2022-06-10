@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-ucastnici-zajezdu-27d9211",
-  "revision": "27d9211",
+  "identifier": "viewegh-ucastnici-zajezdu-36456ed",
+  "revision": "36456ed",
   "readingOrder": [
     "promo.html",
     "ucastnici_zajezdu_003.html",
@@ -208,8 +208,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:20:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870805824
+    "date": "Fri Jun 10 2022 17:58:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883882041
   },
   "documents": [
     {
@@ -1507,9 +1507,9 @@
     {
       "title": "Z Šarlotina cestovního deníku",
       "file": "ucastnici_zajezdu_068.html",
-      "words": 4,
-      "chars": 29,
-      "ideas": 1,
+      "words": 232,
+      "chars": 1404,
+      "ideas": 2,
       "role": "chapter",
       "order": 65,
       "prev": "ucastnici_zajezdu_067.html",
@@ -4087,9 +4087,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 119,
-      "chars": 777,
-      "ideas": 15,
+      "words": 85,
+      "chars": 580,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "ucastnici_zajezdu_196.html",
@@ -4107,14 +4107,14 @@
   ],
   "totals": {
     "all": {
-      "words": 80005,
-      "chars": 493065,
-      "ideas": 4295
+      "words": 80199,
+      "chars": 494243,
+      "ideas": 4288
     },
     "chapters": {
-      "words": 79880,
-      "chars": 492246,
-      "ideas": 4276
+      "words": 80108,
+      "chars": 493621,
+      "ideas": 4277
     }
   }
 }

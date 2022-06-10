@@ -3,6 +3,8 @@ title: "Co chce Ignác dělatv\_Římě?"
 contentType: prose
 ---
 
+<section>
+
 Oskar přišel k obědu bez Ignáce.
 
 „Kde je?“ řekl Max. „Drží dietu?“
@@ -30,3 +32,5 @@ Oskar na Maxe poprvé přímo pohlédl.
 „Přesně řekl, že chce na vlastní oči spatřit člověka, který zakazuje homosexuálním párům adoptovat dítě.“
 
 „No tě prsk,“ vyhrkl upřímně Max.
+
+</section>

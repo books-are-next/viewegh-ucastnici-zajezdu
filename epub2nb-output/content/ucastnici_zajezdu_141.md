@@ -3,6 +3,8 @@ title: Naprosto normálnídepka
 contentType: prose
 ---
 
+<section>
+
 Deprese se u Irmy navenek obvykle projevovala dvěma věcmi: samomluvou a bezúčelným přecházením po místnosti. Čím hlubší její deprese byla, tím více toho namluvila a nachodila.
 
 Když Denisa odešla s Hynkem do hotelu, Irma si neustále nahlas opakovala, že psychický stav, v němž se už asi hodinu nachází, je naprosto normální depka, ale přestože připouštěla, že ten nepříjemný pocit osamělosti, ta vytrvalá, hlodavá nespokojenost a ta bezpředmětná, nevysvětlitelná, ale přesto místy skoro bolestivá úzkost, které ji společně přepadly, skutečně jsou naprosto normální, nikterak jí to nepomohlo.
@@ -42,3 +44,5 @@ Skoro zuřivě pohlédla na hodinky: do večeře zbývaly ještě skoro dvě hod
 Potom se vrhla obličejem na polštář a rozplakala se.
 
 Teprve pláč jí přinesl jistou úlevou.
+
+</section>

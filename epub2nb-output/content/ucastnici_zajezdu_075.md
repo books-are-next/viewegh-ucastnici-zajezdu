@@ -3,6 +3,8 @@ title: Did she like that room? –Líbil se jí ten pokoj?
 contentType: prose
 ---
 
+<section>
+
 Z pokoje, který jim odemkl ten malý, snědý a napůl plešatý Ital, vlekoucí oba velké kufry – Jakub si svůj kufr nesl hrdě sám – zavanul příjemný chládek. Zuzana, znervóznělá tím, že jí kdosi zcela nepokrytě posluhuje, váhavě vstoupila. Její oči si po příchodu z prosluněné hotelové chodby ještě trochu zvykaly na šero, ale i tak jí bylo zřejmé, že je to pokoj velmi krásný.
 
 „Do you like it?“ zeptal se jí Ital.
@@ -50,3 +52,5 @@ Všecko to bere jako chleba, pomyslel si zklamaně Hynek.
 Všimla si, jak se zatvářil.
 
 Bylo jí jich obou líto.
+
+</section>

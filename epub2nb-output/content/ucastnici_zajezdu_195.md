@@ -3,6 +3,8 @@ title: "Loučení s\_panem Petrescem"
 contentType: prose
 ---
 
+<section>
+
 „Dovolíte?“ řekl dvorně Max a odnesl paní Košťálové kufr do taxíku.
 
 „Děkuji,“ řekla paní Košťálová a hezky se na Maxe usmála.
@@ -24,3 +26,5 @@ Starší olysalý taxíkář hleděl na pana Petresca a paní Košťálovou se 
 „Tak kam to bude?“ dotazoval se taxíkář netrpělivě. V podpaží žlutého trička měl tmavé kruhy.
 
 „K univerzitní knihovně,“ požádala ho paní Košťálová mile.
+
+</section>

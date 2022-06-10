@@ -3,6 +3,8 @@ title: Helga by potřebovalaMaxovy nohy
 contentType: prose
 ---
 
+<section>
+
 Max čekal spolu s Hynkem a několika ostatními na ranní kávu, ale když si všiml, že vystupování z autobusu činí Helze jisté obtíže, opustil na okamžik krátkou frontu a zdvořile jí nabídl ruku.
 
 „Děkuji,“ pravila Helga poněkud upjatě.
@@ -36,3 +38,5 @@ Ještě než Maxe definitivně opustila, udělala útrpný obličej, jenž měl 
 „Panebože, co po mně ta ženská chtěla?“ pošeptal Hynkovi Max. „Že si odepnu nohy v kyčli a věnuju jí je jako pugét?“
 
 Zkusil si také na chvíli představit své torzo, jež by z něj po takovém vskutku kavalírském gestu na asfaltu zbylo, avšak žádná ironie a kupodivu ani žádný racionální výklad oné scény ho zcela nezbavily provinilého pocitu člověka, který nevyhověl přání staré a nemocné dámy.
+
+</section>

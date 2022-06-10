@@ -3,6 +3,8 @@ title: Maxzobrazuje tělesnou touhu
 contentType: prose
 ---
 
+<section>
+
 Max vyhlédl z okna: dole u bazénu zatím nikdo nebyl. Rozhodl se, že si bude venku číst. V hale u baru si objednal kávu a opatrně si ji odnesl na jeden ze stolků pod modrobílými slunečníky. Zdvihl opěradlo lehátka do nejvyšší polohy, posadil se a vychutnával tichou samotu siesty. Usrkával skvělou, silnou kávu a spokojeně si četl – ale když po chvíli zdvihl oči, spatřil na protější straně bazénu Pamelu, vlekoucí obrovské průsvitné nafukovací křeslo.
 
 Díky slunečním brýlím mohl i nadále věrohodně předstírat, že si jejího příchodu nevšiml; zatímco černá skla zdánlivě stále mířila mezi stránky otevřené knihy, Maxovy oči nepřestávaly Pamelu sledovat. Postavila křeslo až na samý okraj bazénu a vrátila se k nejbližšímu stolku, kde si postupně odložila žlutou kabelku z umělého lýka, krátkou žlutou sukni a horní díl žlutých plavek. Potom z kabelky vyndala několik sponek, vložila si je do úst, zdvihla obě ruce za hlavu a stočila si vlasy do uzlu, který sponkami upevnila. Náhle na Maxe zpříma pohlédla, ale Max s bušícím srdcem zachoval kamennou tvář a zaujatě obrátil stránku knihy. Pamela začala předstírat nedočkavost či snad ostych a těch několik metrů nazpět k bazénu přešla velmi spěšně.
@@ -52,3 +54,5 @@ Rychle si do klína položil Kritický sborník.
 Max vyšel na balkon.
 
 „Tak jak to na vás zapůsobilo?“ zavolal na něho.
+
+</section>

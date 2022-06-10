@@ -3,6 +3,8 @@ title: Pamelin návrh
 contentType: prose
 ---
 
+<section>
+
 Pršelo i po obědě.
 
 Většina účastníků zůstala sedět v jídelně. Pamela obešla všechny stoly, aby účastníkům zájezdu osobně vysvětlila, že ona za to špatné počasí opravdu nemůže.
@@ -24,3 +26,5 @@ Recepční zavolala šéfovi. Šéf neměl námitek; jeden z volných číšní
 Když se vrátila do jídelny, mohla už dát své radosti plný průchod.
 
 „Mám pro vás návrh!“ zvolala nadšeně. „Uděláme si taneční večírek!“
+
+</section>

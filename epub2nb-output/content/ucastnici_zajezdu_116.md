@@ -3,9 +3,13 @@ title: Další tance
 contentType: prose
 ---
 
+<section>
+
 1.
 
-  
+</section>
+
+<section>
 
 > **JARDA** (_ukazuje směrem k music-boxu_): Už je to tady, mámo! Klouz jór ájz! Poslouchej! Slyšíš? Smím prosit?
 
@@ -19,11 +23,15 @@ contentType: prose
 
 > **JITUŠ** (_směje se_): Ty si blbej! (_Pokládá mu ruce na ramena a tančí._)
 
-  
+</section>
+
+<section>
 
 2.
 
-  
+</section>
+
+<section>
 
 > **MAX** (_uklání se_): Smím prosit?
 
@@ -69,11 +77,15 @@ _Max ji odvádí na parket a pokouší se tančit._
 
 > **MAX** (_směje se_): Já taky doufám…
 
-  
+</section>
+
+<section>
 
 3.
 
-  
+</section>
+
+<section>
 
 > **IGNÁC**: Vstávej, noční motýlku, jdeme tančit! Vpluj do mé náruče a cele se poddej hudbě. Vykroužíme tu spolu křivky tak ladné, až všichni ti toporní heterosexuální rekreanti zblednou závistí…
 
@@ -89,11 +101,15 @@ _Max ji odvádí na parket a pokouší se tančit._
 
 > **IGNÁC** (_už netrpělivě_): No a?! Copak není úplně jedno, co hrajou?
 
-  
+</section>
+
+<section>
 
 4.
 
-  
+</section>
+
+<section>
 
 > **HYNEK**: Chceš jít tancovat?
 
@@ -139,11 +155,15 @@ _Pauza._
 
 > **HYNEK**: Já se z tebe vážně zcvoknu.
 
-  
+</section>
+
+<section>
 
 5.
 
-  
+</section>
+
+<section>
 
 > **JAKUB**: Pojď si zatancovat.
 
@@ -169,11 +189,15 @@ _Jakub odchází._
 
 > **JARDA**: Sypej!!
 
-  
+</section>
+
+<section>
 
 6.
 
-  
+</section>
+
+<section>
 
 > **MAX**: Máš bércový vřed?
 
@@ -205,11 +229,15 @@ _Jdou na parket a tančí._
 
 > **JOLANA** (_s úsměvem_): Tak proč teda trávíš všechen čas se slečnou průvodkyní?
 
-  
+</section>
+
+<section>
 
 7.
 
-  
+</section>
+
+<section>
 
 > **DENISA**: Smím prosit? – Nebo smí poslanci tančit jen s manželkami?
 
@@ -238,3 +266,5 @@ _Odcházejí na parket._
 > **HYNEK** (_s širokým úsměvem_): Ach ano, už jsem si také vzpomněl.
 
 _Bere Denisu kolem ramen a společně tančí._
+
+</section>

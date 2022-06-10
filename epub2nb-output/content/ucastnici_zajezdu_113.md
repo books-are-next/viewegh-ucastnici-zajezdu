@@ -3,6 +3,8 @@ title: Před tanečním večerem
 contentType: prose
 ---
 
+<section>
+
 Helgu s Šarlotou ten nápad opravdu potěšil.
 
 V mládí bývaly opravdu dobré tanečnice. Obě byly absolventky proslulé Červinkovy taneční školy a na Žofíně, v Smetanově síni Obecního domu, v Měšťanské besedě, v Radiopaláci, v Autoklubu a v Národním domě protancovaly bez nadsázky celé mládí. Po válce chodívaly z různých důvodů tancovat už jen zřídka, ale v osmdesátých letech si na stará kolena na tancování zase vzpomněly a každou neděli se společně s Aničkou a Zdenou vypravily do kavárny Vyšehrad v Paláci kultury, kde byla pořádána pravidelná taneční odpoledne. Úmrtí Aničky však způsobilo v jejich jinak pravidelné docházce dlouhou přestávku – a pozdější smrt Zdeny ji ukončila definitivně; Šarlota se sice domnívala, že se po pár týdnech smutku – tak jako po smrti Aničky – do kavárny s tím krásným výhledem na Prahu ještě vrátí, ale k její značné lítosti už do oné _bašty komunistů_ – jak z ničeho nic začala Paláci kultury říkat Helga – nikdy nepřišly.
@@ -38,3 +40,5 @@ Ještě jednou si obtáhla rty, uložila rtěnku zpátky do pouzdra a otevřela
 Helga měla na sobě večerní šaty z černého sametu; v uších a na krku jí visely umělé perly.
 
 „Říkám,“ opakovala netrpělivě, „že musíme jít.“
+
+</section>

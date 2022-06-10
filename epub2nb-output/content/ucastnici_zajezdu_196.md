@@ -3,6 +3,8 @@ title: Konec
 contentType: prose
 ---
 
+<section>
+
 Dveře taxíku bouchly.
 
 Max jim zamával, ale jen krátce, neboť odjakživa se při loučení cítil trapně.
@@ -34,3 +36,5 @@ Byl to docela příjemný pocit, avšak žádnou zvláštní radost necítil.
 Zatímco telefonoval se svým nakladatelem, dala se do něj zima.
 
 Voda ve vaně naštěstí ještě nevystydla.
+
+</section>

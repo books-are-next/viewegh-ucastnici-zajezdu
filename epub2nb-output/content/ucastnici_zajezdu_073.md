@@ -3,6 +3,8 @@ title: Hnědé podšálky
 contentType: prose
 ---
 
+<section>
+
 „Tak kolik jich chybí?“ řekl Karel.
 
 Karel se to skoro bál vyslovit.
@@ -28,3 +30,5 @@ Karel se na svého kolegu zpříma podíval:
 „Říkám jim to pořád,“ řekl Karel. „Dyk, Karle, víš, že jim to řikám už vod samýho začátku.“
 
 „Dyk já vim,“ řekl Karel. „Ale to mně teda řekni, Kájo, jak to, že ty lidi ty podšálky kurva nevracej?!“
+
+</section>

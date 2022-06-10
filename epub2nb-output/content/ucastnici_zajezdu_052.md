@@ -3,6 +3,8 @@ title: 'Přerušení příběhu: výpravčí'
 contentType: prose
 ---
 
+<section>
+
 Monotónní hučení motoru, ubíhající pás horizontu a drobné pohupování přinášely Maxovi dlouho nepoznaný vnitřní klid: pohodlně opřen a kolébán jízdou se namátkou probíral nejrůznějšími myšlenkami. Nedokázal se příliš soustředit a těkal od jednoho tématu k druhému, ale nevadilo mu to. Byl rád, že konečně dokázal přestat myslet na Pamelu.
 
 V jedné chvíli se mu vybavila tvář té německé výpravčí. Pozoroval ji z vlaku, jímž se jednoho podzimního nedělního odpoledne vracel z jakéhosi čtení v Hamburku: Byla to vyšší černovlasá, nakrátko ostříhaná žena něco po třicítce, možná o pár let starší. Nebyla příliš hezká. Na sobě měla tmavomodré kalhoty, dobře padnoucí tmavomodré sako s červenými lemy a zářivě bílou košili; na hlavě samozřejmě červenou čepici. Zapískala, postavila se do pozoru a zasalutovala. Maxovi připadalo zvláštní vidět salutovat ženu; ona se však tvářila naprosto samozřejmě. Klidně, navykle se usmívala. Vlak se zvolna dal do pohybu. Její dosud vzpřímený postoj se ponenáhlu uvolnil; nejprve svěsila obě ruce podél těla a zcela nepředpisově, skoro rozmarně komíhala ve vzduchu plácačkou; potom sklonila hlavu – udělal se jí přitom podbradek – a jakoby nechápavě, udiveně si prohlédla svou uniformu. Vlak nabíral rychlost. Max se zvědavě předklonil a na kratičký okamžik výpravčí ještě naposledy zahlédl: stála osamoceně na betonovém peroně toho vylidněného, nedůležitého nádraží a v opálené tváři měla nepopsatelně zoufalý výraz.
@@ -40,3 +42,5 @@ Max přemýšlel. Proti odpolednímu slunci neviděl dobře její obličej, což
 Max užasle zamumlal cosi souhlasného a zmlkl.
 
 Kdo to proboha je?! říkal si.
+
+</section>

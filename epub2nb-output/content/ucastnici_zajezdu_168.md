@@ -3,6 +3,8 @@ title: Jolanina matka to Maxovihodila na papír
 contentType: prose
 ---
 
+<section>
+
 „Milý Maxi, příběh, který Vám chci vyprávět, by se mohl jmenovat Co si kdo zaseje, to také sklidí. Začal na jaře roku 1988, v jedné velké továrně v jednom v malém městečku. Je to velmi smutný příběh, takže by z něj mohl být dobrý humoristický román,“ četl Max.
 
 Už mi určila i žánr, usmíval se v duchu.
@@ -58,3 +60,5 @@ To je ale opravdu svinstvo, říkal si nahněvaně Max, když elaborát Jolaniny
 Svinstvo a hnus.
 
 Jenomže co já s tím?
+
+</section>

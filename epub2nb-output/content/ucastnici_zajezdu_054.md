@@ -3,6 +3,8 @@ title: Zima, zimička
 contentType: prose
 ---
 
+<section>
+
 Světlo měklo a zlátlo a řidiči protijedoucích vozů postupně rozsvěcovali reflektory.
 
 Jakmile oranžový kotouč zmizel kdesi za kopci alpského předhůří, v autobusu se ponenáhlu ochladilo. Cestující uzavírali přívod studeného vzduchu z klimatizace. Pamela si k nim otočila své sedadlo; zkřížila ruce, pohladila si nahá ramena a udělala zimomřivé, ale velmi půvabné gesto. Potom se zářivě usmála a dlaněmi si několikrát přejela nahá opálená stehna. Nato uchopila palubní mikrofon, zapnula ho a odkašlala si. Max zaznamenal, že své odkašlání umí obdivuhodně skloubit s kratičkým trylkem zvonivého smíchu.
@@ -54,3 +56,5 @@ Převlíkne se, říkal si Max. Tutově se převlíkne. V prsou a ve spáncíc
 Usmála se na pana řidiče, z cestovní kabely si vyndala růžovou teplákovou soupravu a znovu se posadila. Sedadlo nechala otočené směrem k cestujícím. Tak se ukaž, říkal si Max naoko lhostejně. Pamela si však nejprve oblékla tepláky a bundu; zalovila pod ní a zručně si stáhla ramínka šatů. Ale ne, zalitoval Max. Stočil svůj pohled na převlékající se paní Jituš, která s lhostejností prakticky založených žen, dávajících před ostychem přednost osobnímu pohodlí, právě vystrkovala do uličky tlustý ošklivý zadek v žlutočerných puntíkovaných kalhotkách.
 
 Připadalo mu, že je to obličej, který se mu vysmívá.
+
+</section>

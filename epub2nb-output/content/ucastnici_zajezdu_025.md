@@ -3,6 +3,8 @@ title: Slovní fotbal
 contentType: prose
 ---
 
+<section>
+
 Hynek měl před sebou také noviny, ale chvílemi nečetl a pouze poslouchal, co si povídají Ignác, Oskar a Max. Ze začátku mu připadali hodně nafoukaní, ale později si ho svými mile přisprostlými řečmi a vším tím drsným žertováním docela získali. Tu jejich zjevnou pohodu a bezstarostnost jim upřímně záviděl. Odhadoval, že jsou zhruba stejně staří. Taky bych si někdy vyjel na pořádnou pánskou jízdu, říkal si.
 
 Zaslechl, že Zuzana odložila časopisy. Otočil se k ní:
@@ -54,3 +56,5 @@ Za normálních okolností by si bývala možná zahrála, ale nyní se bála, �
 „Oukej,“ řekl Hynek.
 
 Nikdy v životě neříkal oukej.
+
+</section>

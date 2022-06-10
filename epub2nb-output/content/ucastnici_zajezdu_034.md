@@ -3,6 +3,8 @@ title: "Autor a\_jeho čtenářka"
 contentType: prose
 ---
 
+<section>
+
 „Promiňte,“ přistoupila k Maxovi průvodkyně se zářivým úsměvem, „mám tu čest?“
 
 Co je to za pitomou otázku? napadlo Maxe.
@@ -150,3 +152,5 @@ Dívky vyčkávaly.
 Řeknu nevím, rozhodl se Max ve zlomku vteřiny. To je rozumný kompromis.
 
 „Nevím,“ řekl Max. „Možná ano. Někdo by se vám každopádně musel věnovat,“ dodal tiše.
+
+</section>

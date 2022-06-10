@@ -3,6 +3,8 @@ title: "Olina, Láďa a\_kamera"
 contentType: prose
 ---
 
+<section>
+
 Petřík s Pavlíkem se vesele honili po pokoji.
 
 Olina je žádala, ať si vylezou na postel a dají jí na chvíli pokoj, protože by ráda v klidu připravila věci, které budou brát na pláž. Neuplynula však ani minuta a oba byli znovu dole a všemožně se jí pletli pod rukama.
@@ -64,3 +66,5 @@ Zasmála se.
 Zavěsil si kameru šťastně na krk, políbil svou ženu a vyšel z pokoje.
 
 Vzala dvě plastikové láhve, vypláchla je, natočila do nich vodu a do každé nasypala jeden velký práškový džus. Postavila je na dno tašky a z poličky pod zrcadlem vzala opalovací mléko; když odšroubovala uzávěr, zjistila, že mastné hrdlo je obalené zrníčky písku, a tak musela lahvičku v koupelně opatrně opláchnout. Chvíli přemýšlela, jestli má Láďovi říct, že jí Jarda neustále sahá na zadek a na prsa. Naskládala do tašky dvě plátěné čepice, dva páry nafukovacích rukávků, čtyři oříškové tatranky, které si přivezla z Prahy, čtyři jablka, karty, uzavíratelnou plechovku na mušle a dvě elektronické hry Game-Boy. Z nočního stolku vzala Láďovu knihu Velké námořní bitvy druhé světové války a zaváhala, zda si má také vzít knížku – ale potom do tašky položila Cosmopolitan, který stále ještě nedočetla. Nakonec se ujistila, že v postranní kapse tašky zůstalo všechno, co tam být mělo – vložky, hřeben, zrcátko, tyčinka na rty i čtvery sluneční brýle, a do krabice na balkon naopak odnesla vše, co do tašky včera naházely děti – několik bílých kamenů, dvě polámaná brčka od limonády a páchnoucí torzo kraba. Zkontrolovala kohoutky v koupelně, zavěsila si tašku přes rameno, přelétla pokoj očima, vyšla na chodbu a zamkla.
+
+</section>

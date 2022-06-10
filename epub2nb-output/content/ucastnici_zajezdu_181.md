@@ -3,6 +3,8 @@ title: Max jim do hlavy nevidí!
 contentType: prose
 ---
 
+<section>
+
 Za okny autobusu začínalo svítat. Cestující se probouzeli a připravovali se k ohlášené přestávce.
 
 Olga oblékala obě své rozespalé děti a nachystala jim snídani; až autobus zastaví, koupí jim u pana řidiče ještě čaj.
@@ -24,3 +26,5 @@ Jakub radostně pozoroval Kláru.
 Autobus odbočil na parkoviště u motorestu a zastavil vedle španělského kamionu plného živých ovcí. Karel vypnul motor.
 
 Maxe v nastalém tichu opět přepadla známá pochybnost: Jak ví, co si všichni ti lidé myslí? Kde vzal všechny ty povahové vlastnosti, názory, nálady, zvyky, touhy, zásady, radosti a strachy, kterými ty fiktivní postavy zcela svévolně opatřil? Nikdy mu nedělalo potíže fabulovat, představovat si, jak lidé žijí, co si myslí nebo čím se trápí – ale odjakživa mu dělalo potíže vydávat tento smyšlený svět za svět skutečný. Vadilo mu to předstírání. Přiznat umělost, literárnost svých příběhů – to pro něj byla první podmínka. Přiznej, že si trochu vymýšlíš – a pak už si můžeš dělat cokoliv. Dráždily ho knihy, ve kterých takové přiznání nenacházel. Co se nám to ten chlap snaží namluvit? říkal si nad nejedním románem nespokojeně. Že vidí lidem do hlavy? To už pak může román vyprávět – Max otočil hlavu k španělskému kamionu – třeba klidně ovce.
+
+</section>

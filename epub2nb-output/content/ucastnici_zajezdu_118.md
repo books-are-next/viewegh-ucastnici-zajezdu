@@ -3,6 +3,8 @@ title: Mejdan na dvěstěčtrnáctce?
 contentType: prose
 ---
 
+<section>
+
 Maxe napadlo, že by se o to nepříliš vítané břemeno mohl spravedlivě podělit s kamarády.
 
 „Okamžik,“ řekl Hynkovi.
@@ -162,3 +164,5 @@ Hynek se vyklonil přes zábradlí.
 Ignác pohlédl na Oskara a udiveně pokrčil rameny.
 
 „Vypadá to, že u nás bude mejdan…“
+
+</section>

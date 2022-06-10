@@ -3,6 +3,8 @@ title: Hnědé podšálky
 contentType: prose
 ---
 
+<section>
+
 „Řekneš jim to ty, Karle?“
 
 Karel mlčel, rty přísně semknuté. Jeho oči sledovaly vzdálený obzor, jako by se tam někde mohlo skrývat místo, kde se hnědé podšálky navždy ztrácejí.
@@ -30,3 +32,5 @@ Karel se až zajíkl.
 Karel souhlasně kývl.
 
 „Já ti něco řeknu, Kájo,“ řekl pomalu, jako by pečlivě vážil každé své slovo: „Jestli se jeden jedinej podšálek ztratí, tak za sebe tentokrát neručim!“
+
+</section>

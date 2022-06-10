@@ -3,6 +3,8 @@ title: "K\_některým aspektůmranní komunikace"
 contentType: prose
 ---
 
+<section>
+
 Irma měla zavřené oči, ale spánek už nějakou dobu pouze předstírala. Potřebovala do koupelny (obávala se dokonce, že bude znovu zvracet), ale nechtěla riskovat, že se srazí s Denisou – cítila totiž, že Denisa je už také vzhůru. Bála se však pohlédnout na její postel, aby se náhodou nesetkala s jejím pohledem. Zatím na něco takového nebyla připravená. Slyšela, že se Denisa dlouze převaluje, a považovala to za předehru vstávání; pozorně se zaposlouchala, ale zvuky z vedlejší postele náhle zcela umlkly. Pootevřela opatrně jedno oko: Denisa ležela zády k ní. Bystře vstala a několika rychlými kroky dosáhla koupelny, kde se zamkla; získala tak dost času na přemýšlení.
 
 To hlavní věděla ovšem i bez toho: především se nesmí změnit v mučednici s vyčítavým, ublíženým pohledem. Mučednice jsou únavné a nikoho nezajímají. Musí být naopak nad věcí. Vtipná, usměvavá, ironická – a ne zahořkle jízlivá. Musí se tvářit samozřejmě a nepřekvapeně. Nesmí připustit, aby byla za křena. To jasné, pevné předsevzetí ji trochu uklidnilo.
@@ -32,3 +34,5 @@ A je to tu, blesklo hlavou Irmě. Tak tedy už ne přátelský plurál: Jdeme k
 A do konce dovolené jsem tu za křena, došlo jí.
 
 Málem se rozbrečela.
+
+</section>

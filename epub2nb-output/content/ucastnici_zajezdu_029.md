@@ -3,6 +3,8 @@ title: Rozhovor
 contentType: prose
 ---
 
+<section>
+
 Většina cestujících vystoupila.
 
 Ignác šel vyhodit plechovku od piva. Oskar mu mlčky přidal tu svoji.
@@ -58,3 +60,5 @@ Max se zasmál. Oskarovi uklouzlo krátké uchechtnutí.
 Ignác se vrátil.
 
 „Byly tam vosy,“ řekl radostně. „V tom koši.“
+
+</section>

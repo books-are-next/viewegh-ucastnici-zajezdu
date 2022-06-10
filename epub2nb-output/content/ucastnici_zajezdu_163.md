@@ -3,6 +3,8 @@ title: Jak minout eden,jenž do těch pekel vede?
 contentType: prose
 ---
 
+<section>
+
 Pamela mluvila a mluvila, ale Max mlčel.
 
 Vůbec tomu nerozuměla. Ještě před pár hodinami, na večírku, byl Max jedním z nejhlasitějších a nejzábavnějších účastníků – a teď celou cestu mlčí. Znervózňovalo ji to. Několikrát se zastavila a pokoušela se Maxe probudit svými polibky. Jeho ústa na ně sice reagovala, dokonce s takovým divným úsměvem, ale jeho ruce mu pokaždé zůstaly viset podél těla. Ještě se jí vůbec nedotkl. Připadalo jí to divné. Nebo když ho upozornila, že měsíc je už skoro v úplňku, zase se jenom divně zasmál. Jeho chování v ní vzbuzovalo zvědavost – a trochu i strach. V borovém lesíku lemujícím pláž byla tak hluboká tma, že se ho raději chytla za ruku; z těch černých siluet složených slunečníků a lehátek, rýsujících se proti bledému písku pláže, úplně dostávala husí kůži. Řekla to Maxovi, ale on, místo aby jí slušně odpověděl, se beze slova svlékl a běžel do moře! Vůbec se nestaral o to, že ho ona, Pamela, vidí, ani o to, jestli je už také svlečená nebo jestli ho následuje. Začínala být trochu uražená. Musela se rozběhnout, aby ho dohonila. Na bosých chodidlech ji zastudil písek. Líbilo se jí, jak voda klouzavě obtéká její nahé tělo, ale nemohla ten pocit pořádně vychutnat, protože Max plaval tak rychle, že mu nestačila.
@@ -40,3 +42,5 @@ Pokusil se vstát, avšak Pamela ho v pase pevně obemkla nohama a odmítala h
 Pohlédl jí přímo do očí:
 
 „Jestli mi ještě jednou řekneš čumáčku, rozbiju ti palubní mikrofon!“
+
+</section>

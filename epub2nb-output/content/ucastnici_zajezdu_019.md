@@ -3,6 +3,8 @@ title: "Zpráva,která udělala z\_Ignáce vlastence"
 contentType: prose
 ---
 
+<section>
+
 Když se palubní mikrofon konečně definitivně odmlčel, Oskar, Ignác i Max se vrátili k rozečteným novinám.
 
 „Dobře situované vietnamské dívky se dávají operativně prodlužovat,“ přečetl přátelům Oskar. „Prý doufají, že se tak zvýší jejich šance na společenské uplatnění.“
@@ -44,3 +46,5 @@ Všiml si, že se jeho soused chystal cosi říct, ale Oskar ho předešel.
 „Jak to myslíte?“ řekla Jolana.
 
 „Jak to říkám,“ usmál se na ni Ignác.
+
+</section>

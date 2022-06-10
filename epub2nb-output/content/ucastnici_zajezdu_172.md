@@ -3,6 +3,8 @@ title: "Redaktor, autor a\_text"
 contentType: prose
 ---
 
+<section>
+
 Stmívalo se. Karel už před chvílí rozsvítil reflektory.
 
 Pamela vstala a prošla uličkou mezi sedadly až k Maxovi. Cestující se za ní zvědavě ohlíželi.
@@ -88,3 +90,5 @@ Někteří účastníci se otočili, aby se na Maxe usmáli.
 Irma s Denisou se zasmály.
 
 „Takže se hezky pohodlně opřete a pěkně poslouchejte,“ řekla Pamela svým kouzelným hlasem. „Jmenuje se O ošklivém kolouškovi.“
+
+</section>

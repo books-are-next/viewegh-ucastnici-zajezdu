@@ -3,6 +3,8 @@ title: "Maxa\_metoda proudu vědomí"
 contentType: prose
 ---
 
+<section>
+
 Maxovi se ještě nechtělo spát, a tak si v posteli četl.
 
 Často však četbu přerušoval a natahoval se k nočnímu stolku pro blok, aby si zapsal tu či onu poznámku, k níž ho kniha inspirovala – tak jako vždy, když se chystal psát, byla i tato kniha pouhým palivem, které marnotratně spaloval na vzrušující cestě za svým vlastním románem.
@@ -25,7 +27,9 @@ Pamela vstoupila dovnitř a zavřela za sebou dveře.
 
 Představíme-li si Maxovu hlavu jako koš – lhostejno zda dárkový či odpadkový – bylo v něm nyní bez ladu a skladu naházeno zhruba, přibližně toto:
 
-  
+</section>
+
+<section>
 
 – doznívající podráždění člověka, jehož kdosi nepříjemně ruší;
 
@@ -73,6 +77,10 @@ Představíme-li si Maxovu hlavu jako koš – lhostejno zda dárkový či odpa
 
 – nepříjemný pocit, že Pamela vidí jeho tukové faldy.
 
-  
+</section>
+
+<section>
 
 A dále několik stovek nejrůznějších glos, perverzních nápadů, tajných úzkostí, přání, odhodlání, štěstíček, reklamních sloganů, záměrů, myšlenek, vzpomínek, odhadů, dedukcí, spekulací, slov, obrazů, výjevů, obsesí a – jak jinak! – citátů.
+
+</section>

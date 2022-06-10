@@ -3,6 +3,8 @@ title: "Philadelphia a\_ženy v\_politice"
 contentType: prose
 ---
 
+<section>
+
 „Myslím, že vás znám,“ řekl Maxovi na odpočívadle Hynek.
 
 „Myslím, že já vás taky,“ přiznal konečně Max.
@@ -62,3 +64,5 @@ Max se zasmál.
 „A za páté samozřejmě skákání do řeči,“ doplnil Hynek předchozí výčet a odešel za svou rodinou.
 
 Musel se snažit.
+
+</section>

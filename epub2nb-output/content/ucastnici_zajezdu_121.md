@@ -3,6 +3,8 @@ title: Potřebuje Max milenku?
 contentType: prose
 ---
 
+<section>
+
 Když se vrátil do pokoje, všiml si, že Denisa s Hynkem odešli. Ignác usnul. Irma brečela v koupelně.
 
 Jolana si přisedla na postel k Maxovi.
@@ -106,3 +108,5 @@ Zavřela oči.
 Vstala, zapotácela se, ale potom se k Maxovi ještě jednou sklonila.
 
 „Víš, co to znamená bejt ošklivá holka?“ zašeptala. „Zkus si to aspoň trochu představit. – Když seš teda ten spisovatel,“ dodala pohrdavě.
+
+</section>

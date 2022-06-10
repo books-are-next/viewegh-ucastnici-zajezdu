@@ -3,6 +3,8 @@ title: Maxovo statečné vystoupení
 contentType: prose
 ---
 
+<section>
+
 „Co je to tam?“ řekl Karel.
 
 „Kde, Kájo?“
@@ -34,3 +36,5 @@ S imponující rozhodností přikázal Karlovi, aby zastavil, a sám si zapnul
 „Čeští spisovatelé,“ řekl rozvážně, „odjakživa stáli v čele těch, kteří se statečně vzpírali útlaku, porobě a násilí…“
 
 A tak dále.
+
+</section>
