@@ -5,8 +5,6 @@ contentType: prose
 
 Oskar přišel k obědu bez Ignáce.
 
-  
-
 „Kde je?“ řekl Max. „Drží dietu?“
 
 „Odjel do Říma.“

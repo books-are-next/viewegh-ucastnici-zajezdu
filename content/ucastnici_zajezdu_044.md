@@ -5,8 +5,6 @@ contentType: prose
 
 Krátce poté, co Jolana zaznamenala další záchvěv nevolnosti, požádala řidiče, aby zastavil.
 
-  
-
 „Za dvacet minut stavíme u Aralu, slečno,“ řekl Karel.
 
 „Dvacet minut nevydržím,“ řekla Jolana. „Ani náhodou.“

@@ -5,8 +5,6 @@ contentType: prose
 
 Stmívalo se. Karel už před chvílí rozsvítil reflektory.
 
-  
-
 Pamela vstala a prošla uličkou mezi sedadly až k Maxovi. Cestující se za ní zvědavě ohlíželi.
 
 „Můžeš, Maxi, prosím tě, na chvilku?“ požádala ho.

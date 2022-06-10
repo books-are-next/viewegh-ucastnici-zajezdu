@@ -5,8 +5,6 @@ contentType: prose
 
 „Milovat bližního abstraktně nebo z dálky – to je možné,“ řekla Denisa Irmě po Šarlotině odchodu. „Zato zblízka skoro nikdy.“
 
-  
-
 Zasmály se.
 
 „To napsal kdo?“ zeptala se Irma.

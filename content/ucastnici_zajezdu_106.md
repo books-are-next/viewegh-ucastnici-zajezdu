@@ -5,8 +5,6 @@ contentType: prose
 
 Max chtěl během odpolední siesty psát, ale namísto toho během odpolední siesty dvakrát onanoval.
 
-  
-
 Jeho osobnost byla tragicky rozpolcena.
 
 Kdyby Pamela byla jenom nesmírně hloupá – což zcela nepopíratelně byla – mohla být jenom milou inspirací pro Maxovy oblíbené slovní hry, jenže ona byla zároveň i nesmírně přitažlivá, čímž se zároveň stávala mučivou inspirací pro Maxovy – ponižující, leč neméně oblíbené – hry autoerotické.

@@ -5,8 +5,6 @@ contentType: prose
 
 „Nepřipadá ti ta Košťálová trochu afektovaná?“ řekla Hynkovi Zuzana.
 
-  
-
 Manželství, řekl si Hynek ochable.
 
 Tohle je manželství. Muset začínat znovu a znovu.

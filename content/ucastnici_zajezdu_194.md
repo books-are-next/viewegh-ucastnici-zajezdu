@@ -5,8 +5,6 @@ contentType: prose
 
 Jolanin otec s námahou vytahoval kufry ze zavazadlového prostoru. Potil se, supěl a vůbec nevypadal dobře. Jolana mu chtěla největší kufr odebrat, ale on její pomoc podrážděně odmítl.
 
-  
-
 „Běž radši popohnat matku,“ řekl kysele. „Nebo se tu kvůli jejímu loučení všichni upečem.“
 
 „Vezmem si taxík a za půl hodinky jsme doma,“ snažila se ho povzbudit Jolana.

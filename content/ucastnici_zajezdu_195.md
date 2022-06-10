@@ -5,8 +5,6 @@ contentType: prose
 
 „Dovolíte?“ řekl dvorně Max a odnesl paní Košťálové kufr do taxíku.
 
-  
-
 „Děkuji,“ řekla paní Košťálová a hezky se na Maxe usmála.
 
 „Kde jsme to přestali?“ chtěl vědět pan Petrescu.

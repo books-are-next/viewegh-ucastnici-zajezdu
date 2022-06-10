@@ -5,8 +5,6 @@ contentType: prose
 
 K jejímu úžasu a navzdory jejím upřímným protestům Oleg všech šest koktejlů, které později přece jen vypili, sám zaplatil. Protestovala. Přece ho pozvala, a navíc ona vypila čtyři koktejly, zatímco on jen dva! On ale její námitky nevzal vůbec na vědomí – pánovitě jí ruku s peněženkou odstrčil, z kapsy košile vytáhl pečlivě složené bankovky, mlčky odpočítal příslušný počet a zasunul je do ubrousku k připravenému účtu.
 
-  
-
 Když odcházeli, nechal dokonce na stole malé spropitné.
 
 Na zpáteční cestě se ho pak zmocnilo jakési pyšné furiantství: neustále se smál, poskakoval, vtipkoval, pozpěvoval si melodické popěvky ve své mateřštině a chytal Jolanu za ruku. Jolanu jeho klukovské chování těšilo, jakkoli souvislost jeho euforie s předchozím placením byla nepřehlédnutelná. Dobře tušila, že jde o známé hysterické veselí člověka, kterému právě shořel dům – nebo který za dvě hodiny utratil několikaleté úspory.

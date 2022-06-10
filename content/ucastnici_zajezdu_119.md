@@ -5,8 +5,6 @@ contentType: prose
 
 Vrátili se dovnitř pokoje, aby jej připravili na příchod hostů. Oskar ustlal Ignácovu postel a posbíral Ignácovy poházené svršky; potom šel uklidit koupelnu.
 
-  
-
 „Ukliď si aspoň ten bordel na nočním stolku,“ volal na Ignáce.
 
 Ignác jen mávl rukou, ale potom za Maxovy pomoci onu změť cigaret, prospektů, suchých broskvových pecek, fotografických filmů, starých novin, sušenek a opalovacích a lubrikačních krémů přece jen shrnul do velké igelitové tašky. Zaklepání se ozvalo takřka vzápětí.

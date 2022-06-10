@@ -5,8 +5,6 @@ contentType: prose
 
 Jolana čekala.
 
-  
-
 Čekala na tmu, která se milostivě snese na zahradní restauraci, kde s Olegem seděla už nekonečně dlouhých dvacet pět minut, a která ohleduplně skryje to jeho příšerný tesilový proužkovaný funuskvádro. Modlila se v duchu za tmu, v níž konečně bude moci skrýt svou nervozitu a své rozpaky z toho, že uvedla do pohybu něco, co není schopna zvládnout a za co se nyní, upřímně řečeno, styděla. Majevó stydá vy něuználi by nikagdá, kagdá… vzpomněla si. Styděla se za svého společníka, za jeho ustavičné mlčení, za jeho nemožný oblek, za jeho kravatu, za jeho boty, za jeho polámané nehty, za strupy na jeho rukou, za jeho kopáčsky temně opálený zátylek – a styděla se, že se za takové věci stydí. Aby se však nad takové věci povznesla, aby se uvolnila, k tomu by se potřebovala napít. Potom by možná dokázala ignorovat všechny ty pohledy od sousedních stolů. Potom by jí mohlo být jedno, že ostatní muži mají světlá, lehká, elegantní saka a světlé, vzdušné, volné kalhoty. Věděla, že kdyby se trošku, docela maličko opila, bylo by všechno mnohem jednodušší – jenomže opít se s Olegem bylo nečekaně obtížné. Ačkoli ona sama měla už skoro dopito, jeho sklenička byla stále plná. Usrkával z ní tak posvátně pomalu, jako by to nebyl docela obyčejný gin-fizz, ale samotné slzy Matičky Rusi, a očividně se neměl k tomu, aby objednal další koktejl. Mlčky se na něho usmívala a v duchu ho proklínala.
 
 „Na zdaróvje!“ pobídla ho.

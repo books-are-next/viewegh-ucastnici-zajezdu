@@ -5,8 +5,6 @@ contentType: prose
 
 Max začal neochotně – a proto bez koncepce, jen tak namátkou – uvažovat nad jmény postav.
 
-  
-
 Pár jich už naštěstí měl: Na Oskara a na Ignáce už si jakžtakž zvykl. Řidiči byli oba Karlové, což je pro knihu trochu zmatečné, ale on těm arogantním idiotům jiná jména rozhodně vymýšlet nebude. Průvodkyně si nechává říkat Pamela, pánbůh jí to přej, je to její vkus. Šarlota a Helga. No budiž, říkal si Max, přestože se mu poněkud příčilo psát Šarlota se š a přestože nemohl bezpečně vyloučit, že se na Helgu okamžitě nevrhne nějaký poblouzněný onomastik, který ho v mnohastránkovém rozboru veřejně usvědčí z podpory pangermanismu nebo bůhvíčeho ještě – jako by ty šílené lingvisty neznal.
 
 Přidělovat postavám jména ho vždycky otravovalo.

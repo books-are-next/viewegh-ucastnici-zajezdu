@@ -5,8 +5,6 @@ contentType: prose
 
 „Nastupovat!“ volala vesele Pamela na konci první zastávky.
 
-  
-
 Ještě přibíhali Jolana a Jakub.
 
 „Tak popojedem,“ řekl Karel druhému Karlovi a otočil klíčkem v zapalování.

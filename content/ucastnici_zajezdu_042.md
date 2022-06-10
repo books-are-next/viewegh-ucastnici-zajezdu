@@ -5,8 +5,6 @@ contentType: prose
 
 O existenci lidí zvaných homosexuálové Jakub už věděl: částečně z televize, částečně z časopisu Bravo (mezi mnoha populárními hudebními skupinami, které Jakub se svými vrstevníky poslouchal, se koneckonců našel nejeden zpěvák či zpěvačka tohoto zaměření) a samozřejmě z hovorů ve škole – označení homouš, které jeho kamarádi i on sám běžně užívali, bylo přitom spíše slangovou zkratkou než záměrným pejorativem. Díky tomu naštěstí už dříve chápal – jakkoli by to sám asi nedokázal takto vyjádřit – že homosexualita není nějaká odporná nemoc, kterou je nutno přede všemi skrývat, nýbrž že je to relativně častá sexuální orientace, a nelze proto říct, že by byl Nagyho smělou diagnózou nějak nadmíru zděšen. Pouze ho poněkud překvapila. Až dosud se totiž domníval, že se mu líbí holky.
 
-  
-
 Nedalo se však nic dělat. Bylo třeba podívat se této nové pravdě zpříma do očí.
 
 Nejdřív si potřeboval vyjasnit některé podrobnosti.

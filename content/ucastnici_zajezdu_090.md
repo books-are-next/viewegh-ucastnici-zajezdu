@@ -5,8 +5,6 @@ contentType: prose
 
 Do Pamelina nafukovacího lehátka se opřel mírný, teplý větřík a Pamela v písku pláže půvabně zavrávorala. Max si říkal, že by jí měl lehátko asi nést, ale sotva tak učinil, upadl do značných rozpaků – nejenže jde tři minuty poté, co z moře právě vylezl, do vody znovu, ale ještě ke všemu se tu rádobygalantně vláčí s touhle nafukovací stříbrnou hrůzou. Když míjel slunečník, pod nímž seděla se svými rodiči Jolana, předstíral, že jej cosi zaujalo na prázdném modrém obzoru.
 
-  
-
 Pamela se špičkou palce pravé nohy dotkla vodní pěny.
 
 „Studí!“ zvolala a s docela nepatrným zpožděním ucukla.

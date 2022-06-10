@@ -5,8 +5,6 @@ contentType: prose
 
 „Všimli jste si těch slunečnic?“ řekl nadšeně Jolanin otec.
 
-  
-
 Předklonil se dopředu k Jolaně.
 
 „Všimla sis těch slunečnic?“

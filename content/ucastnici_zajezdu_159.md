@@ -21,6 +21,8 @@ _Upírá pohled na manžela._
 
 > **LÁĎA** (_naoko bodře_): Snad už to tam radši nech.
 
+  
+
 2.
 
   
@@ -42,6 +44,8 @@ _Helga namísto odpovědi mávne rukou._
 > **MAX**: Hotovo!
 
 > **HELGA**: Netahejte za to, člověče! Zařezáváte mi ten špagát rovnou do masa.
+
+  
 
 3.
 
@@ -101,6 +105,8 @@ _Smích._
 
 > **JOLANA** (_pobaveně si ho prohlíží_): Jo? A nekecáš?
 
+  
+
 4.
 
   
@@ -120,6 +126,8 @@ _Všeobecné rozpaky._
 > **JITUŠ**: Teda kde vidíte, slečno, jaký oschlý? Dyk je to netknutý!
 
 > **PAMELA** (_smířlivě_): Ale raději mu to opravdu sami nenabízejte, aby se neurazil. Když bude chtít, tak si vezme sám.
+
+  
 
 5.
 

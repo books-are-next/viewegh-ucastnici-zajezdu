@@ -5,9 +5,9 @@ contentType: prose
 
 Max si předsevzal, že se s okamžitou platností přestane v duchu zabývat tou Pamelou a konečně vyřeší přetrvávající problém Petrescu-Košťálová.
 
-  
-
 Takže, co třeba takhle:
+
+  
 
 > _Kdykoli odjížděli s manželem na dovolenou, poprosila paní Košťálová matku, zda by jí onen týden či dva nemohla zalévat květiny a vybírat schránku. Matka sice nakonec vždycky souhlasila, ale protože její remcání a stížnosti na bolavé nohy rok od roku sílily, řekla si letos paní Košťálová, že požádá někoho v domě._
 
@@ -65,9 +65,9 @@ Takže, co třeba takhle:
 
 > _„Ještě jsem zapomněla,“ řekla ochraptěle, když mu rozepínala košili, „musíte nám taky vybrat schránku.“_
 
-Max si to po sobě přečetl a vzdychl.
-
   
+
+Max si to po sobě přečetl a vzdychl.
 
 „Už toho mám dost,“ zvolal rozčíleně. „Řekne mi konečně někdo, co je to sakra za lidi!?“
 

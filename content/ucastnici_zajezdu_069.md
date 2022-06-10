@@ -5,8 +5,6 @@ contentType: prose
 
 Max čekal spolu s Hynkem a několika ostatními na ranní kávu, ale když si všiml, že vystupování z autobusu činí Helze jisté obtíže, opustil na okamžik krátkou frontu a zdvořile jí nabídl ruku.
 
-  
-
 „Děkuji,“ pravila Helga poněkud upjatě.
 
 Jakmile s Maxovou pomocí bezpečně došlápla na pevný asfalt, napřímila se a zálibně si prohlédla Maxovy opálené nohy.

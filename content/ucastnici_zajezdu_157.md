@@ -9,9 +9,9 @@ Jakmile dozněla poslední slova Valčíku na rozloučenou a Šarlota s Helgou
 
 > __Jest velmi vhodné, když se ve společnosti občas provozují společenské hry, neboť nelze stále pořádati programové večírky nebo se baviti tancem_,_
 
-vysvětloval autor v krátké předmluvě.
-
   
+
+vysvětloval autor v krátké předmluvě.
 
 Díky tomuto šťastnému nálezu se Pamela stala – naposledy na minulém zájezdu – organizační hvězdou nejednoho společenského večera. Ani tentokrát tomu nebylo jinak. Roztomilým archaismům autorova stylu a milé stupiditě jednotlivých her podlehli postupně všichni účastníci zájezdu, pochopitelně s výjimkou již zcela nepříčetného Oskara, a zdvojený příděl výborného stolního vína k večeři jejich veselí ještě umocnil. Pamela sklízela zasloužený úspěch; i Max, který se předtím nemálo obával, že ho Pamela zatáhne do nějaké nenapravitelně trapné estrády, byl nyní ochoten vidět mladičkou průvodkyni v příznivějším světle než jindy, a dokonce si některé sarkastické poznámky, jimiž Pamelu v uplynulých dnech v duchu častoval, nyní vyčítal: Vždyť ta holka neudělala nic horšího, než že se nás celé dny pokouší bavit, uvědomoval si, připomínaje si, jak zjitřeně on sám vnímá jízlivé sarkasmy některých kritiků.
 

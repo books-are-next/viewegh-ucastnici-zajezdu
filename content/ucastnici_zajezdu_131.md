@@ -5,8 +5,6 @@ contentType: prose
 
 Max si nebyl zcela jist, zda stromy, pod jejichž korunami se s Jolanou ubírá k moři, jsou opravdu pinie; byly vyšší a statnější, než by u pinií očekával. Jejich stín byl příjemný, ale protože kmeny vyrůstaly přímo z úzkého chodníku, zároveň trochu překážely. Vzduch byl již hodně teplý, ale přesto dosud svěží. Starší Italka, která je míjela na kole, se patrně vracela z tržiště, protože v košíku pod řidítky měla několik ryb. Z hotelu Miramare vyšly dvě ženy v pracovních růžových šatech a širokými plastovými hráběmi na dlouhých násadách začaly uhrabávat bílý štěrk na přístupové cestě; řidič projíždějící dodávky je pozdravil mocným zatroubením klaksonu a obě ženy mu na oplátku přátelsky zamávaly. Sousední restaurace Trattoria Gina měla stažené žaluzie; na sluncem spáleném trávníku pod terasou ležela tlustá hnědá kočka a sekala ocasem.
 
-  
-
 V podloubí před obchodem s ovocem a zeleninou potkali Ukrajince, vedle kterého seděla Jolana po cestě z Prahy. Na sobě měl tytéž laciné džínsy, které si Max pamatoval z autobusu, a jakýsi podivný přiléhavý bílý pulovr s krátkým rukávem; stál zády k nim a zaujatě si prohlížel velké avokado.
 
 Jolana mu zaklepala na rameno.

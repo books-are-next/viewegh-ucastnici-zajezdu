@@ -5,8 +5,6 @@ contentType: prose
 
 Stíhačky se nad pláží pravidelně objevovaly už v minulých dnech, ale v druhé polovině týdne se intenzita jejich přeletů několikanásobně zvýšila; dunivý zvuk motorů se nyní z oblohy snášel někdy i třikrát v průběhu jediné hodiny. V novinách sice psali, že jde o pravidelné a plánované kontrolní lety nad bosenským územím, ale Šarlota s Helgou přesto vzhlížely k burácejícímu nebi s jakýmsi podezíravým znepokojením; Helga si dokonce Pamele několikrát stěžovala – jako by předpokládala, že pravomoc mladičké průvodkyně dosahuje až do hlavního stanu štábu NATO – že ji ta letadla strašlivě rozčilují.
 
-  
-
 „Ta ženská mě zničí,“ svěřovala se Pamela Maxovi, jenž s ní tentokrát docela soucítil.
 
 Přinejmenším dva účastníci zájezdu naopak přelety letadel pokaždé radostně vítali – totiž Jarda a Jakub. Jakmile zaslechli první záchvěv hřmění, bleskurychle vstali z lehátka a očima pátrali po formacích. K Jakubovu překvapení uměl Jarda jednotlivé stíhačky přesně rozeznat – věděl, jaký tvar křídel má americká stíhačka F-16, jak se od ní liší francouzský letoun Mirage a jaká je jejich bojová výzbroj. O tom táta neměl šajn. Nevěděl dokonce ani, co je forsáž. Ten by nerozeznal bombu od vytaženého podvozku, smál se pohrdavě Jakub. To je potom těžká domluva. Rychle stíhačky spočítal: tři, šest, devět.

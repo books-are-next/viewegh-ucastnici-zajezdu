@@ -5,8 +5,6 @@ contentType: prose
 
 Ignác Maxovi vyprávěl cosi o Barry Milessovi, ale Max ho vnímal jen na půl ucha – chtě nechtě totiž poslouchal velmi hlasitý a především velmi vulgární dialog manželské dvojice, která přišla teprve před malou chvílí: asi pětačtyřicetiletého, dobře oblečeného muže a jeho ženy, vcelku elegantní menší dámy s přelivem třešňové barvy. Jejich slovník jakož i inteligence vůbec byly v nápadném rozporu s jejich pečlivě upraveným a očividně promyšleným zevnějškem. Max přemýšlel, jestli s výjimkou vojenské prezenční služby poznal v životě někoho, kdo by na veřejnosti bez ostychu mluvil takhle sprostě. Představa, že by měl o takových lidech psát, v něm zatím vzbuzovala jen odpor.
 
-  
-
 Rozhlédl se po svých příštích spolucestujících.
 
 Takže co tu máme dál?

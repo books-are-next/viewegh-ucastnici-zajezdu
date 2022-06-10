@@ -5,15 +5,15 @@ contentType: prose
 
 Přestože šel Max spát nezvykle brzy, nebyl ráno vůbec schopen vstát; zmeškal dokonce i snídani. Když konečně z postele vylezl, zbývalo do oběda už jen půl druhé hodiny. Nerozhodně pohlédl z okna: Aschenbach, s rukama sepjatýma v klíně, se díval ven, spokojen, že je zase tady, potřásaje nespokojeně hlavou nad vlastní kolísavostí, nad tím, že neví, co chce. Nemělo smysl chodit na pláž, a tak si řekl, že zbytek dopoledne stráví u hotelového bazénu.
 
-  
-
 Až na dva stařičké německé manžele a krátkovlasou hubenou Maďarku s asi pětiletým synem u bazénu nikdo nebyl. Zaplaval si a potom si četl. Vypsal si pár vět, které mu připadaly chytré:
+
+  
 
 > __Hranice mého jazyka jsou hranice mého světa. Nebo: Je uklidňující, když spisovatel neuvažuje v kategoriích národ-lid, ale v kategoriích podmět-přísudek_._
 
-Nebyl už schopen číst dál; odložil knihu na rozpálené dlaždičky, lehl si a zavřel oči.
-
   
+
+Nebyl už schopen číst dál; odložil knihu na rozpálené dlaždičky, lehl si a zavřel oči.
 
 Po chvíli ucítil, že mu kdosi stojí ve slunci. Jolanina matka.
 

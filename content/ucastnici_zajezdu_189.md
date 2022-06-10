@@ -5,8 +5,6 @@ contentType: prose
 
 Převlékání pod stanem tentokrát Helze a Šarlotě trvalo nezvykle dlouho.
 
-  
-
 Helga Šarlotu jako obvykle podrážděně napomínala, že ji vůbec neposlouchá, a sešívaná látka se divoce vlnila jejími podrážděnými pohyby. Potom však hemžení jako na povel ustalo a vzápětí se ozval Helžin pláč.
 
 Maxe nejprve překvapilo, že ona strohá komisní stará dáma je schopna tak usedavého pláče; přirozená otázka, co může být jeho příčinou, mu vytanula na mysli až poté.

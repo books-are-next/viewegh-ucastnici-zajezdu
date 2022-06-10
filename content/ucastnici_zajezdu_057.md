@@ -5,8 +5,6 @@ contentType: prose
 
 Pamelino rozrušení stále rostlo.
 
-  
-
 Převahu nad denním světlem postupně získávala tma, z níž si reflektory autobusu dokázaly přisvojit stále menší díl, zahrnující nakonec jen bledý povrch vozovky, nekonečné bílé jízdní pruhy, kovový lesk svodidel a svítivě zelenou, jakoby přízračnou barvu směrových značení na Udine a Villach. Předjíždějící, svištivě rychlá auta zahájila v potemnělém voze známou klouzavou hru světel a stínů, odpočítávanou rudě žhnoucími číslicemi digitálních hodin na stropním panelu.
 
 Pamela však na nějaké hry světel neměla čas. Seděla ukázněně po směru jízdy a v trochu slabém světle čtecí lampičky znovu a znovu nahlížela do dvoustránkového strojopisu, kde si již dříve podtrhala místa, na která chtěla při čtení položit dramatický důraz nebo kde chtěla udělat dramatickou pauzu. Zvládnu to? říkala si Pamela. Vždyť ve srovnání se všemi těmi kraťoučkými proslovy, které až dosud k cestujícím měla, byl tento text desetinásobně, možná dvacetinásobně větším úkolem. Když si otočila sedadlo směrem k lidem a upravovala si mikrofon, papír položený na jejích kolenou se postřehnutelně chvěl.

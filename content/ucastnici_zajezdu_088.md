@@ -5,8 +5,6 @@ contentType: prose
 
 Pálila ho sůl v očích, ale byl šťastný.
 
-  
-
 Život byl v podstatě dobrý. Byl spisovatel, jak si to vždycky přál, a dokonce se psaním knih slušně uživil. Měl pár dobrých přátel, kteří ho mají rádi a dělají si starost, jestli se neutopil. Měl dovolenou a byl u moře. Bude tu hodně číst a dělat si poznámky. Až se vrátí, napíše zábavný a přitom pravdivý román o lidech na dovolené.
 
 Ty ostatní věci se dají vydržet.

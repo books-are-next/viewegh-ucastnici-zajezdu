@@ -5,8 +5,6 @@ contentType: prose
 
 První hodina cesty proběhla v poněkud melancholické, avšak přátelské atmosféře. Šarlota nejdříve všem znovu vyprávěla, jak se v Benátkách na mostě Rialto seznámila v šestatřicátém roce se svým manželem. Jak se vykláněl v bílé letní košili hluboko přes zábradlí, jak od moře foukalo scirocco a jak mu padaly vlasy do čela. Několikrát Zuzaně opakovala, že je od ní nesmírně velkorysé, když se snaží splnit pošetilé přání staré sentimentální báby. Potom obě dámy vytáhly přichystané svačiny, a když je – trochu mlaskavě – snědly, daly se do zpěvu. Zpívaly písně jako Kolíne, Kolíne; Znám já jeden krásný zámek; Čechy krásné, Čechy mé a Černé oči, jděte spát. Zuzana se ušlechtile a dojatě usmívala a občas na ně mrkla do zpětného zrcátka. V jedné chvíli ji také napadlo, jestli toho dne, kdy poprvé viděla Hynka, foukal vítr.
 
-  
-
 Náhle jí bylo líto, že tu Hynek s nimi není; vyčítala si, že mu nenechala alespoň vzkaz, a umiňovala si, že až se vrátí, udělá všechno, aby se konečně přestali hádat.
 
 Život je příliš krátký, než aby si ho mohli dovolit takto promarnit, říkala si.

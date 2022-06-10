@@ -5,8 +5,6 @@ contentType: prose
 
 Když se Max po večírku vrátil do pokoje, cítil se trochu stísněně. Říkal si, že to patrně souvisí s tím nenadálým tichem, a pustil si proto MTV, avšak všichni ti rapující černí zpěváci mu připadali jako nějaké nepochopitelné bytosti z jiného světa. Zase televizi vypnul, vstal a několikrát pokoj obešel. Polohlasem hovořil sám k sobě; oslovoval se hochu.
 
-  
-
 „Hochu, hochu,“ říkal si ponuře.
 
 Sedl si na postel a v telefonním seznamu si našel směrové číslo do České republiky. Přisunul si telefon blíž k sobě a prstem se zlehka dotýkal čísel, jejichž kombinaci znal zpaměti – jenomže představa těch dlouhých, zoufalých odmlk ho předem ochromovala, takže nakonec nezavolal. Potom vytáhl z kufru diář s adresami a telefonními čísly svých přátel a dlouho v něm listoval tam a zase zpátky; byla to činnost v Maxově povědomí natolik spojená s Prahou, až mu připadalo, že vůbec na žádném zájezdu není a že sedí doma před telefonem vedle svého počítače. Dokonce si nebyl jistý, jestli by – kdyby nyní rychle vzhlédl k oknům – uviděl skutečně moře, anebo jen šedivé zdi notoricky známého protějšího paneláku. Nakonec při pomyšlení na to křečovitě nenucené veselí, jež by musel vyvinout, diář zase sklapl.

@@ -5,8 +5,6 @@ contentType: prose
 
 Denisa odemkla, rozsvítila a rovnou se šla sprchovat.
 
-  
-
 Hynek zaznamenal, že na rozdíl od Maxova pokoje je tento pokoj uklizený a příjemně voní. Trochu nervózně se rozhlédl, jako by nemohl pochopit, co ve svých čtyřiatřiceti letech dělá v pokoji dvou dvacetiletých dívek, ale malý plyšový medvídek koala na jednom z nočních stolků, kterého si nyní soustředěně prohlížel, mu žádné vysvětlení neposkytl. Na jedné straně už začínal střízlivět a jeho mysl byla chvílemi až překvapivě jasná, ale zároveň se ještě přistihoval, že se občas zcela bezdůvodně usmívá a že přitom pohazuje svou podivně těžkou hlavou. Zavřel oči a naslouchal hlasu svých útrob. Tak jako vždycky, když byl nervózní, se mu začalo chtít na záchod. Sedl si do křesla a bázlivě vyčkával.
 
 Vyšla ven, vysprchovaná a zabalená do velké bílé osušky. Její dech voněl mentolovou zubní pastou. Vstal, položil jí ruku pod zadek a pohladil ji na mokrých stehnech. Potom si hřbetem dlaně vyvzdoroval pod osuškou potřebný prostor a přesunul ruku do jejího klína. Pomalu, přemýšlivě ji laskal; měla tuhé, drsné chloupky, po stranách vyholené, a byla už hodně vlhká. Dotýkat se mě umí, uvědomila si Denisa. Bez ostychu se rozkročila a zvrátila hlavu. Naštěstí nijak přehnaně nesténala a pouze několikrát slabě sykla, takže to působilo vcelku přesvědčivě, ale Hynkovi stejně blesklo hlavou, jestli to nebylo hrané. Pořád měl trému. Znovu zavřel oči a naslouchal dění ve svém břiše.

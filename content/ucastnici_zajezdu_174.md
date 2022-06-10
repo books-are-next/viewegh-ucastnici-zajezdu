@@ -5,8 +5,6 @@ contentType: prose
 
 Jolana věděla, že už zvracet nebude. To už poznala. Nohy se jí sice ještě trochu chvěly, takže se po cestě raději chytala navlhlé kůry stromů, ale jinak se jí zřetelně ulevilo. Čas od času jí pod nohama zapraskala větev.
 
-  
-
 Jakub byl vpravo od ní, mezi dvěma kmeny; když ho míjela, otočil k ní hlavu.
 
 „Já ještě pořád nejsem,“ řekl.

@@ -5,8 +5,6 @@ contentType: prose
 
 Přítomnost více než dvou desítek zájezdových autobusů na přeplněném parkovišti u benzinového čerpadla dávala tušit, že fronta před dámskou toaletou bude tentokrát ještě delší než obvykle.
 
-  
-
 „Dáme jim radši ne patnáct, ale dvacet minut,“ řekla Pamela Karlovi do palubního mikrofonu.
 
 Karel skepticky pohlédl na všudypřítomné autobusy.
