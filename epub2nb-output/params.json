@@ -9,7 +9,8 @@
       "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "isbn": "978-80-274-2472-6"
+      "isbn": "978-80-274-2472-6",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven1-cast MLP-uroven2-kapitola ",
@@ -3474,6 +3475,6 @@
       "user": "books-are-next",
       "repo": "viewegh-ucastnici-zajezdu"
     },
-    "generatedAt": 1655271857430
+    "generatedAt": 1655364393717
   }
 }

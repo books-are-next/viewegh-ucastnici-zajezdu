@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2472-6
+  contentType: prose
 readingOrder:
   - promo.html
   - ucastnici_zajezdu_003.html
