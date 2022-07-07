@@ -209,7 +209,7 @@ readingOrder:
   - ucastnici_zajezdu_194.html
   - ucastnici_zajezdu_195.html
   - ucastnici_zajezdu_196.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
