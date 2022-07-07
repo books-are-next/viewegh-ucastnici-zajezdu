@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-ucastnici-zajezdu-1f8b521",
-  "revision": "1f8b521",
+  "identifier": "viewegh-ucastnici-zajezdu-9a1d995",
+  "revision": "9a1d995",
   "readingOrder": [
     "promo.html",
     "ucastnici_zajezdu_003.html",
@@ -205,11 +205,11 @@
     "ucastnici_zajezdu_194.html",
     "ucastnici_zajezdu_195.html",
     "ucastnici_zajezdu_196.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:33:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980388197
+    "date": "Thu Jul 07 2022 08:42:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183350091
   },
   "documents": [
     {
@@ -258,7 +258,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Část prvníCESTA DO LETOVISKA",
+          "name": "Část prvníCESTA DO LETOVISKA",
           "id": null,
           "children": []
         }
@@ -298,7 +298,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Šarlota se už nedokážesoustředit",
+          "name": "Šarlota se už nedokážesoustředit",
           "id": null,
           "children": []
         }
@@ -438,7 +438,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Proč Maxe vůbec napadlo napsat román,který by se celý odehrávalna turistickém zájezdu?",
+          "name": "Proč Maxe vůbec napadlo napsat román,který by se celý odehrávalna turistickém zájezdu?",
           "id": null,
           "children": []
         }
@@ -558,7 +558,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Max je se svým místem v autobuse zatím nadmíru spokojen",
+          "name": "Max je se svým místem v autobuse zatím nadmíru spokojen",
           "id": null,
           "children": []
         }
@@ -598,7 +598,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jituš si čte",
+          "name": "Jituš si čte",
           "id": null,
           "children": []
         }
@@ -918,7 +918,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdo je pan Petrescua paní Košťálová?",
+          "name": "Kdo je pan Petrescua paní Košťálová?",
           "id": null,
           "children": []
         }
@@ -938,7 +938,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A co na točeská literární kritika?",
+          "name": "A co na točeská literární kritika?",
           "id": null,
           "children": []
         }
@@ -1018,7 +1018,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdo je pan Petrescua paní Košťálová??",
+          "name": "Kdo je pan Petrescua paní Košťálová??",
           "id": null,
           "children": []
         }
@@ -1118,7 +1118,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Max má problémy s citáty",
+          "name": "Max má problémy s citáty",
           "id": null,
           "children": []
         }
@@ -1158,7 +1158,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co je trapnýho na tom,zahrát si na chvíli softík?",
+          "name": "Co je trapnýho na tom,zahrát si na chvíli softík?",
           "id": null,
           "children": []
         }
@@ -1298,7 +1298,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádka na dobrou noc",
+          "name": "Pohádka na dobrou noc",
           "id": null,
           "children": []
         }
@@ -1338,7 +1338,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Dvacet minut je asi málo",
+          "name": "Dvacet minut je asi málo",
           "id": null,
           "children": []
         }
@@ -1538,7 +1538,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Helga by potřebovalaMaxovy nohy",
+          "name": "Helga by potřebovalaMaxovy nohy",
           "id": null,
           "children": []
         }
@@ -1558,7 +1558,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A co na to literární kritika",
+          "name": "A co na to literární kritika",
           "id": null,
           "children": []
         }
@@ -1598,7 +1598,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Rodiče za tmavým sklem",
+          "name": "Rodiče za tmavým sklem",
           "id": null,
           "children": []
         }
@@ -1658,7 +1658,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Did she like that room? –Líbil se jí ten pokoj?",
+          "name": "Did she like that room? –Líbil se jí ten pokoj?",
           "id": null,
           "children": []
         }
@@ -1718,7 +1718,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A už žádné trojčení",
+          "name": "A už žádné trojčení",
           "id": null,
           "children": []
         }
@@ -1738,7 +1738,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Je už Šarlota úplně pitomá?",
+          "name": "Je už Šarlota úplně pitomá?",
           "id": null,
           "children": []
         }
@@ -1798,7 +1798,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdo je kdo(1)",
+          "name": "Kdo je kdo(1)",
           "id": null,
           "children": []
         }
@@ -1818,7 +1818,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kdo je kdo(2)",
+          "name": "Kdo je kdo(2)",
           "id": null,
           "children": []
         }
@@ -1898,7 +1898,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A co na to česká literární kritika?",
+          "name": "A co na to česká literární kritika?",
           "id": null,
           "children": []
         }
@@ -1938,7 +1938,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sice ne žádní intelektuálové,ale zato docela milí lidé",
+          "name": "Sice ne žádní intelektuálové,ale zato docela milí lidé",
           "id": null,
           "children": []
         }
@@ -1978,7 +1978,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Air-bagy na obou sedadlech",
+          "name": "Air-bagy na obou sedadlech",
           "id": null,
           "children": []
         }
@@ -1998,7 +1998,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A když přijdou k moři,i skály se jim dvoří",
+          "name": "A když přijdou k moři,i skály se jim dvoří",
           "id": null,
           "children": []
         }
@@ -2038,7 +2038,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Problémy se žaluziemi",
+          "name": "Problémy se žaluziemi",
           "id": null,
           "children": []
         }
@@ -2518,7 +2518,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Mejdan na dvěstěčtrnáctce?",
+          "name": "Mejdan na dvěstěčtrnáctce?",
           "id": null,
           "children": []
         }
@@ -2538,7 +2538,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Born to be wild",
+          "name": "Born to be wild",
           "id": null,
           "children": []
         }
@@ -2558,7 +2558,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kam se pořád Ignáctak řítí?",
+          "name": "Kam se pořád Ignáctak řítí?",
           "id": null,
           "children": []
         }
@@ -2598,7 +2598,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Něco, co o sexu vědětnechceme",
+          "name": "Něco, co o sexu vědětnechceme",
           "id": null,
           "children": []
         }
@@ -2718,7 +2718,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Když se Max ráno probudil",
+          "name": "Když se Max ráno probudil",
           "id": null,
           "children": []
         }
@@ -2758,7 +2758,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nechoď, dcero, na jezero!",
+          "name": "Nechoď, dcero, na jezero!",
           "id": null,
           "children": []
         }
@@ -2998,7 +2998,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jolaně se nedaří usnout",
+          "name": "Jolaně se nedaří usnout",
           "id": null,
           "children": []
         }
@@ -3018,7 +3018,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Umění milovat(po patnácti letech)",
+          "name": "Umění milovat(po patnácti letech)",
           "id": null,
           "children": []
         }
@@ -3178,7 +3178,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jolanina matka má pro Maxefantastický námět",
+          "name": "Jolanina matka má pro Maxefantastický námět",
           "id": null,
           "children": []
         }
@@ -3418,7 +3418,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak minout eden,jenž do těch pekel vede?",
+          "name": "Jak minout eden,jenž do těch pekel vede?",
           "id": null,
           "children": []
         }
@@ -3478,7 +3478,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak to skončí?",
+          "name": "Jak to skončí?",
           "id": null,
           "children": []
         }
@@ -3518,7 +3518,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jolanina matka to Maxovihodila na papír",
+          "name": "Jolanina matka to Maxovihodila na papír",
           "id": null,
           "children": []
         }
@@ -3558,7 +3558,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co jim má Jolana říct?",
+          "name": "Co jim má Jolana říct?",
           "id": null,
           "children": []
         }
@@ -3738,7 +3738,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ona to chápe,ale chápe taky on ji?",
+          "name": "Ona to chápe,ale chápe taky on ji?",
           "id": null,
           "children": []
         }
@@ -3778,7 +3778,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Max jim do hlavy nevidí!",
+          "name": "Max jim do hlavy nevidí!",
           "id": null,
           "children": []
         }
@@ -3838,7 +3838,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A co na točeská literární kritika?",
+          "name": "A co na točeská literární kritika?",
           "id": null,
           "children": []
         }
@@ -3898,7 +3898,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "A co jsou tedy příběhy?",
+          "name": "A co jsou tedy příběhy?",
           "id": null,
           "children": []
         }
@@ -3938,7 +3938,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Nečekané drama (už druhé)",
+          "name": "Nečekané drama (už druhé)",
           "id": null,
           "children": []
         }
@@ -3958,7 +3958,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co Maxe na psaní tak přitahuje(ale vážně)",
+          "name": "Co Maxe na psaní tak přitahuje(ale vážně)",
           "id": null,
           "children": []
         }
@@ -3978,7 +3978,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co by Hynek bral",
+          "name": "Co by Hynek bral",
           "id": null,
           "children": []
         }
@@ -4073,7 +4073,7 @@
       "role": "chapter",
       "order": 193,
       "prev": "ucastnici_zajezdu_195.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -4086,11 +4086,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 137,
-      "chars": 921,
+      "chars": 920,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ucastnici_zajezdu_196.html",
       "next": null,
@@ -4108,7 +4108,7 @@
   "totals": {
     "all": {
       "words": 80251,
-      "chars": 494584,
+      "chars": 494583,
       "ideas": 4297
     },
     "chapters": {

@@ -73,7 +73,7 @@
             "filename": "ucastnici_zajezdu_004.md",
             "xhtml": "ucastnici_zajezdu_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": true,
             "children": [],
@@ -2199,7 +2199,7 @@
             "filename": "ucastnici_zajezdu_197.md",
             "xhtml": "ucastnici_zajezdu_197.xhtml",
             "id": 196,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": true,
             "children": [],
@@ -3475,6 +3475,6 @@
       "user": "books-are-next",
       "repo": "viewegh-ucastnici-zajezdu"
     },
-    "generatedAt": 1655980038729
+    "generatedAt": 1657182668946
   }
 }
