@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-ucastnici-zajezdu-93aeea4",
-  "revision": "93aeea4",
+  "identifier": "viewegh-ucastnici-zajezdu-1de461d",
+  "revision": "1de461d",
   "readingOrder": [
     "promo.html",
     "ucastnici_zajezdu_003.html",
@@ -208,8 +208,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:38:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487492893
+    "date": "Sat Oct 01 2022 16:08:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640493106
   },
   "documents": [
     {
